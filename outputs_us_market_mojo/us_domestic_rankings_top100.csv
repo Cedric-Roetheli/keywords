@@ -1,0 +1,2508 @@
+year,rank,mojo_title,title_norm,domestic,imdb_id,source_row
+1990,1,Home Alone,home_alone,285761243.0,,10
+1990,2,Ghost,ghost,217631306.0,,7
+1990,3,Dances with Wolves,dances_with_wolves,184208848.0,,2
+1990,4,Pretty Woman,pretty_woman,178406268.0,,16
+1990,5,Teenage Mutant Ninja Turtles,teenage_mutant_ninja_turtles,135265915.0,,17
+1990,6,The Hunt for Red October,the_hunt_for_red_october,122012643.0,,11
+1990,7,Total Recall,total_recall,119412921.0,,18
+1990,8,Die Hard 2,die_hard_2,117540947.0,,4
+1990,9,Dick Tracy,dick_tracy,103738726.0,,3
+1990,10,Kindergarten Cop,kindergarten_cop,91457688.0,,12
+1990,11,Back to the Future Part III,back_to_future_part_iii,88277583.0,,0
+1990,12,The Godfather: Part III,the_godfather_part_iii,66666062.0,,8
+1990,13,Lionheart,lionheart,24078196.0,,13
+1990,14,The Bonfire of the Vanities,the_bonfire_of_vanities,15691192.0,,1
+1990,15,Havana,havana,9243140.0,,9
+1990,16,Paris Is Burning,paris_is_burning,3905297.0,,15
+1990,17,Metropolitan,metropolitan,2960492.0,,14
+1990,18,Slacker,slacker,1228108.0,,57
+1990,19,Frankenhooker,frankenhooker,205068.0,,6
+1991,1,Beauty and the Beast,beauty_and_beast,218967620.0,,21
+1991,2,Terminator 2: Judgment Day,terminator_2_judgment_day,205881154.0,,61
+1991,3,Robin Hood: Prince of Thieves,robin_hood_prince_of_thieves,165493908.0,,51
+1991,4,The Silence of the Lambs,the_silence_of_lambs,130742922.0,,56
+1991,5,City Slickers,city_slickers,124033791.0,,24
+1991,6,Hook,hook,119654823.0,,34
+1991,7,The Addams Family,the_addams_family,113502426.0,,19
+1991,8,Sleeping with the Enemy,sleeping_with_enemy,101599005.0,,58
+1991,9,The Naked Gun 2½: The Smell of Fear,the_naked_gun_2½_smell_of_fear,86930411.0,,45
+1991,10,Teenage Mutant Ninja Turtles II: The Secret of the Ooze,teenage_mutant_ninja_turtles_ii_secret_of_ooze,78656813.0,,60
+1991,11,Hot Shots!,hot_shots,69467617.0,,35
+1991,12,My Girl,my_girl,59489799.0,,44
+1991,13,Boyz n the Hood,boyz_n_hood,57504069.0,,23
+1991,14,New Jack City,new_jack_city,47624353.0,,46
+1991,15,The Rocketeer,the_rocketeer,46704056.0,,52
+1991,16,Thelma & Louise,thelma_louise,45360915.0,,62
+1991,17,Out for Justice,out_for_justice,39673161.0,,48
+1991,18,Freddy's Dead: The Final Nightmare,freddys_dead_final_nightmare,34872033.0,,31
+1991,19,White Fang,white_fang,34793160.0,,64
+1991,20,Jungle Fever,jungle_fever,32482682.0,,38
+1991,21,The People Under the Stairs,the_people_under_stairs,24204154.0,,86
+1991,22,House Party 2,house_party_2,19438638.0,,36
+1991,23,For the Boys,for_boys,17860280.0,,30
+1991,24,Hudson Hawk,hudson_hawk,17218080.0,,37
+1991,25,Billy Bathgate,billy_bathgate,15565363.0,,22
+1991,26,Madonna: Truth or Dare,madonna_truth_or_dare,15012935.0,,41
+1991,27,Flight of the Intruder,flight_of_intruder,14587732.0,,5
+1991,28,The Marrying Man,the_marrying_man,12454768.0,,43
+1991,29,The Super,the_super,11000863.0,,59
+1991,30,Scenes from a Mall,scenes_from_mall,9563393.0,,54
+1991,31,Nothing But Trouble,nothing_but_trouble,8479793.0,,47
+1991,32,Harley Davidson and the Marlboro Man,harley_davidson_and_marlboro_man,7434726.0,,32
+1991,33,Rambling Rose,rambling_rose,6266621.0,,49
+1991,34,Delirious,delirious,5546827.0,,27
+1991,35,Eve of Destruction,eve_of_destruction,5451119.0,,29
+1991,36,True Identity,true_identity,4693236.0,,63
+1991,37,Dutch,dutch,4603929.0,,28
+1991,38,Run,run,4409328.0,,53
+1991,39,Life Stinks,life_stinks,4102526.0,,39
+1991,40,Mannequin: On the Move,mannequin_on_move,3752428.0,,42
+1991,41,Another You,another_you,2865916.0,,20
+1991,42,Return to the Blue Lagoon,return_to_blue_lagoon,2807854.0,,50
+1991,43,Shadows and Fog,shadows_and_fog,2735731.0,,90
+1991,44,City of Hope,city_of_hope,1345015.0,,25
+1991,45,Cool as Ice,cool_as_ice,1193062.0,,26
+1991,46,The Taking of Beverly Hills,the_taking_of_beverly_hills,939277.0,,92
+1991,47,Shakes the Clown,shakes_clown,115103.0,,55
+1992,1,Aladdin,aladdin,217350219.0,,66
+1992,2,Batman Returns,batman_returns,162902340.0,,69
+1992,3,Lethal Weapon 3,lethal_weapon_3,144731527.0,,80
+1992,4,A Few Good Men,a_few_good_men,141340178.0,,75
+1992,5,Wayne's World,waynes_world,121697323.0,,93
+1992,6,Basic Instinct,basic_instinct,117727224.0,,68
+1992,7,A League of Their Own,a_league_of_their_own,107533928.0,,79
+1992,8,Patriot Games,patriot_games,83351587.0,,85
+1992,9,Bram Stoker's Dracula,bram_stokers_dracula,82522790.0,,71
+1992,10,The Last of the Mohicans,the_last_of_mohicans,75505856.0,,77
+1992,11,Boomerang,boomerang,70052444.0,,70
+1992,12,Far and Away,far_and_away,58883840.0,,74
+1992,13,Death Becomes Her,death_becomes_her,58422650.0,,73
+1992,14,Alien 3,alien_3,55473545.0,,67
+1992,15,The Mighty Ducks,the_mighty_ducks,50752337.0,,82
+1992,16,Medicine Man,medicine_man,45500797.0,,81
+1992,17,Honeymoon in Vegas,honeymoon_in_vegas,35208854.0,,76
+1992,18,The Lawnmower Man,the_lawnmower_man,32100816.0,,78
+1992,19,The Muppet Christmas Carol,the_muppet_christmas_carol,27281507.0,,83
+1992,20,Body of Evidence,body_of_evidence,13273595.0,,97
+1992,21,The Twin Dragons,the_twin_dragons,8359717.0,,91
+1992,22,Christopher Columbus: The Discovery,christopher_columbus_discovery,8251071.0,,72
+1992,23,1492: Conquest of Paradise,1492_conquest_of_paradise,7191399.0,,65
+1992,24,Fortress,fortress,6739141.0,,102
+1992,25,Peter's Friends,peters_friends,4058564.0,,87
+1992,26,Reservoir Dogs,reservoir_dogs,2832029.0,,89
+1992,27,Newsies,newsies,2819485.0,,84
+1992,28,Light Sleeper,light_sleeper,1050861.0,,40
+1992,29,High Strung,high_strung,904.0,,33
+1993,1,Jurassic Park,jurassic_park,402828120.0,,108
+1993,2,Mrs. Doubtfire,mrs_doubtfire,219195243.0,,110
+1993,3,Sleepless in Seattle,sleepless_in_seattle,126808165.0,,118
+1993,4,In the Line of Fire,in_line_of_fire,102314823.0,,107
+1993,5,Schindler's List,schindlers_list,96898818.0,,115
+1993,6,Cliffhanger,cliffhanger,84049211.0,,99
+1993,7,Philadelphia,philadelphia,77446440.0,,113
+1993,8,Cool Runnings,cool_runnings,68856263.0,,100
+1993,9,Last Action Hero,last_action_hero,50016394.0,,109
+1993,10,Wayne's World 2,waynes_world_2,48197805.0,,122
+1993,11,Teenage Mutant Ninja Turtles III,teenage_mutant_ninja_turtles_iii,42273609.0,,120
+1993,12,Carlito's Way,carlitos_way,36948322.0,,98
+1993,13,The Age of Innocence,the_age_of_innocence,32255440.0,,94
+1993,14,Shadowlands,shadowlands,25842377.0,,116
+1993,15,Much Ado About Nothing,much_ado_about_nothing,22549338.0,,111
+1993,16,Super Mario Bros.,super_mario_bros,20915465.0,,119
+1993,17,Geronimo: An American Legend,geronimo_an_american_legend,18635620.0,,103
+1993,18,Iron Monkey,iron_monkey,14694904.0,,117
+1993,19,For Love or Money,for_love_or_money,11146270.0,,101
+1993,20,RoboCop 3,robocop_3,10696210.0,,114
+1993,21,The Wedding Banquet,the_wedding_banquet,6933459.0,,106
+1993,22,The House of the Spirits,the_house_of_spirits,6265311.0,,105
+1993,23,Heaven & Earth,heaven_earth,5864949.0,,104
+1993,24,Red Rock West,red_rock_west,2502551.0,,88
+1993,25,The Nutcracker,the_nutcracker,2119994.0,,112
+1993,26,The Thing Called Love,the_thing_called_love,1029721.0,,121
+1993,27,The Thief and the Cobbler,the_thief_and_cobbler,669276.0,,174
+1993,28,Killing Zoe,killing_zoe,418961.0,,146
+1993,29,Amongst Friends,amongst_friends,265000.0,,95
+1994,1,The Lion King,the_lion_king,422783777.0,,147
+1994,2,Forrest Gump,forrest_gump,330455270.0,,136
+1994,3,True Lies,true_lies,146282411.0,,171
+1994,4,The Santa Clause,the_santa_clause,144833357.0,,159
+1994,5,The Flintstones,the_flintstones,130531208.0,,135
+1994,6,Dumb and Dumber,dumb_and_dumber,127175374.0,,133
+1994,7,Clear and Present Danger,clear_and_present_danger,122187717.0,,127
+1994,8,Speed,speed,121248145.0,,166
+1994,9,The Mask,the_mask,119938730.0,,150
+1994,10,Pulp Fiction,pulp_fiction,107928762.0,,156
+1994,11,Interview with the Vampire: The Vampire Chronicles,interview_with_vampire_vampire_chronicles,105264608.0,,143
+1994,12,Disclosure,disclosure,83015089.0,,131
+1994,13,Star Trek: Generations,star_trek_generations,75671125.0,,167
+1994,14,Ace Ventura: Pet Detective,ace_ventura_pet_detective,72217396.0,,123
+1994,15,The Specialist,the_specialist,57362582.0,,165
+1994,16,Four Weddings and a Funeral,four_weddings_and_funeral,52700832.0,,137
+1994,17,Naked Gun 33 1/3: The Final Insult,naked_gun_33_13_final_insult,51132598.0,,152
+1994,18,Natural Born Killers,natural_born_killers,50282766.0,,153
+1994,19,Little Women,little_women,50083616.0,,148
+1994,20,Beverly Hills Cop III,beverly_hills_cop_iii,42614912.0,,125
+1994,21,On Deadly Ground,on_deadly_ground,38590458.0,,155
+1994,22,Ri¢hie Ri¢h,ri¢hie_ri¢h,38087756.0,,158
+1994,23,Junior,junior,36763355.0,,145
+1994,24,Street Fighter,street_fighter,33423521.0,,168
+1994,25,Drop Zone,drop_zone,28735315.0,,132
+1994,26,The Shawshank Redemption,the_shawshank_redemption,28699976.0,,162
+1994,27,I.Q.,iq,26381221.0,,142
+1994,28,Wyatt Earp,wyatt_earp,25052000.0,,173
+1994,29,Don Juan DeMarco,don_juan_demarco,22150451.0,,187
+1994,30,Mary Shelley's Frankenstein,mary_shelleys_frankenstein,22006296.0,,138
+1994,31,Color of Night,color_of_night,19726050.0,,129
+1994,32,Love Affair,love_affair,18272894.0,,149
+1994,33,Baby's Day Out,babys_day_out,16827402.0,,124
+1994,34,Terminal Velocity,terminal_velocity,16487349.0,,170
+1994,35,Muriel's Wedding,muriels_wedding,15119639.0,,151
+1994,36,The Legend of Drunken Master,the_legend_of_drunken_master,11555430.0,,172
+1994,37,I'll Do Anything,ill_do_anything,10424645.0,,141
+1994,38,In the Mouth of Madness,in_mouth_of_madness,8924549.0,,191
+1994,39,Serial Mom,serial_mom,7820688.0,,160
+1994,40,North,north,7182747.0,,154
+1994,41,Ed Wood,ed_wood,5887457.0,,134
+1994,42,Jimmy Hollywood,jimmy_hollywood,3783003.0,,144
+1994,43,Silent Fall,silent_fall,3180674.0,,163
+1994,44,Clerks,clerks,3151130.0,,128
+1994,45,Death and the Maiden,death_and_maiden,3103716.0,,130
+1994,46,Heavenly Creatures,heavenly_creatures,3049135.0,,139
+1994,47,The Hudsucker Proxy,the_hudsucker_proxy,2816518.0,,140
+1994,48,Shallow Grave,shallow_grave,2079569.0,,161
+1994,49,Being Human,being_human,1519366.0,,96
+1994,50,Spanking the Monkey,spanking_monkey,1359736.0,,164
+1994,51,Rapa Nui,rapa_nui,305070.0,,157
+1995,1,Batman Forever,batman_forever,184069126.0,,178
+1995,2,Jumanji,jumanji,100499940.0,,194
+1995,3,Se7en,se7en,100125643.0,,203
+1995,4,Die Hard with a Vengeance,die_hard_with_vengeance,100012499.0,,186
+1995,5,Waterworld,waterworld,88246220.0,,210
+1995,6,While You Were Sleeping,while_you_were_sleeping,81057016.0,,211
+1995,7,Braveheart,braveheart,75609945.0,,181
+1995,8,The Bridges of Madison County,the_bridges_of_madison_county,71516617.0,,182
+1995,9,Bad Boys,bad_boys,65807024.0,,177
+1995,10,Sabrina,sabrina,53672080.0,,201
+1995,11,Judge Dredd,judge_dredd,34693481.0,,193
+1995,12,Rumble in the Bronx,rumble_in_bronx,32392047.0,,190
+1995,13,Assassins,assassins,30303072.0,,175
+1995,14,Friday,friday,27467564.0,,189
+1995,15,Billy Madison,billy_madison,25588734.0,,180
+1995,16,The Usual Suspects,the_usual_suspects,23341568.0,,209
+1995,17,Showgirls,showgirls,20350754.0,,205
+1995,18,Johnny Mnemonic,johnny_mnemonic,19075720.0,,192
+1995,19,The Quick and the Dead,the_quick_and_dead,18636537.0,,199
+1995,20,Nixon,nixon,13681765.0,,197
+1995,21,Fair Game,fair_game,11534477.0,,188
+1995,22,The Brothers McMullen,the_brothers_mcmullen,10426506.0,,183
+1995,23,The Scarlet Letter,the_scarlet_letter,10382407.0,,202
+1995,24,Cutthroat Island,cutthroat_island,10017322.0,,185
+1995,25,Tall Tale,tall_tale,8247627.0,,169
+1995,26,Strange Days,strange_days,7959291.0,,207
+1995,27,Kids,kids,7412216.0,,195
+1995,28,Before Sunrise,before_sunrise,5535405.0,,179
+1995,29,Tank Girl,tank_girl,4064495.0,,208
+1995,30,Restoration,restoration,4005941.0,,200
+1995,31,White Man's Burden,white_mans_burden,3734870.0,,212
+1995,32,Steal Big Steal Little,steal_big_steal_little,3150170.0,,206
+1995,33,The Perez Family,the_perez_family,2832826.0,,198
+1995,34,Wild Bill,wild_bill,2193982.0,,213
+1995,35,The City of Lost Children,the_city_of_lost_children,1738611.0,,184
+1995,36,Search and Destroy,search_and_destroy,389503.0,,204
+1995,37,An Awfully Big Adventure,an_awfully_big_adventure,259724.0,,176
+1995,38,Canadian Bacon,canadian_bacon,163971.0,,126
+1996,1,Independence Day,independence_day,306169268.0,,230
+1996,2,Twister,twister,241721524.0,,250
+1996,3,Mission: Impossible,mission_impossible,180981856.0,,240
+1996,4,Jerry Maguire,jerry_maguire,153952592.0,,233
+1996,5,The Rock,the_rock,134069511.0,,242
+1996,6,The Nutty Professor,the_nutty_professor,128814019.0,,241
+1996,7,Scream,scream,103046663.0,,243
+1996,8,Eraser,eraser,101295562.0,,221
+1996,9,The Hunchback of Notre Dame,the_hunchback_of_notre_dame,100138851.0,,229
+1996,10,The English Patient,the_english_patient,78676425.0,,220
+1996,11,Beavis and Butt-Head Do America,beavis_and_butthead_do_america,63118386.0,,215
+1996,12,Jingle All the Way,jingle_all_way,60592389.0,,234
+1996,13,The Cable Guy,the_cable_guy,60240295.0,,217
+1996,14,Jack,jack,58620973.0,,232
+1996,15,Evita,evita,50047179.0,,222
+1996,16,Happy Gilmore,happy_gilmore,38824099.0,,227
+1996,17,Set It Off,set_it_off,36461139.0,,245
+1996,18,Matilda,matilda,33459416.0,,238
+1996,19,The Long Kiss Goodnight,the_long_kiss_goodnight,33447612.0,,237
+1996,20,The Island of Dr. Moreau,the_island_of_dr_moreau,27663982.0,,231
+1996,21,Spy Hard,spy_hard,26960191.0,,247
+1996,22,Harriet the Spy,harriet_spy,26570048.0,,228
+1996,23,From Dusk Till Dawn,from_dusk_till_dawn,25836616.0,,225
+1996,24,Fargo,fargo,24611975.0,,223
+1996,25,Sling Blade,sling_blade,24444121.0,,246
+1996,26,A Very Brady Sequel,a_very_brady_sequel,21440752.0,,251
+1996,27,Last Man Standing,last_man_standing,18115927.0,,236
+1996,28,Secrets & Lies,secrets_lies,13417292.0,,244
+1996,29,Michael Collins,michael_collins,11092559.0,,239
+1996,30,Hamlet,hamlet,4708156.0,,226
+1996,31,Swingers,swingers,4555020.0,,249
+1996,32,Kama Sutra: A Tale of Love,kama_sutra_tale_of_love,4109095.0,,235
+1996,33,Waiting for Guffman,waiting_for_guffman,2923982.0,,252
+1996,34,Surviving Picasso,surviving_picasso,2021348.0,,248
+1996,35,Bottle Rocket,bottle_rocket,560069.0,,216
+1996,36,The Whole Wide World,the_whole_wide_world,375757.0,,253
+1996,37,Albino Alligator,albino_alligator,339379.0,,214
+1996,38,Freeway,freeway,295493.0,,224
+1996,39,Curdled,curdled,49620.0,,219
+1996,40,Man with a Plan,man_with_plan,33402.0,,196
+1997,1,Titanic,titanic,659363944.0,,335
+1997,2,Men in Black,men_in_black,250690539.0,,305
+1997,3,The Lost World: Jurassic Park,the_lost_world_jurassic_park,229086679.0,,301
+1997,4,Air Force One,air_force_one,172956409.0,,255
+1997,5,As Good as It Gets,as_good_as_it_gets,148478011.0,,314
+1997,6,My Best Friend's Wedding,my_best_friends_wedding,127120029.0,,310
+1997,7,Face/Off,faceoff,112276146.0,,279
+1997,8,Batman & Robin,batman_robin,107353792.0,,264
+1997,9,George of the Jungle,george_of_jungle,105263257.0,,282
+1997,10,Scream 2,scream_2,101363301.0,,322
+1997,11,Con Air,con_air,101117573.0,,269
+1997,12,Contact,contact,100920329.0,,270
+1997,13,Hercules,hercules,99112101.0,,284
+1997,14,Dante's Peak,dantes_peak,67127760.0,,273
+1997,15,In & Out,in_out,63856929.0,,291
+1997,16,Mousehunt,mousehunt,61917389.0,,308
+1997,17,Kiss the Girls,kiss_girls,60527873.0,,294
+1997,18,The Jackal,the_jackal,54930280.0,,292
+1997,19,Spawn,spawn,54870175.0,,326
+1997,20,Starship Troopers,starship_troopers,54814377.0,,330
+1997,21,Austin Powers: International Man of Mystery,austin_powers_international_man_of_mystery,53883989.0,,260
+1997,22,Breakdown,breakdown,50159144.0,,268
+1997,23,Volcano,volcano,49323468.0,,340
+1997,24,Speed 2: Cruise Control,speed_2_cruise_control,48608066.0,,327
+1997,25,Alien: Resurrection,alien_resurrection,47795658.0,,256
+1997,26,The Full Monty,the_full_monty,45950122.0,,281
+1997,27,Bean,bean,45319423.0,,265
+1997,28,Cop Land,cop_land,44862187.0,,271
+1997,29,Nothing to Lose,nothing_to_lose,44480039.0,,313
+1997,30,Amistad,amistad,44229441.0,,259
+1997,31,Soul Food,soul_food,43700855.0,,325
+1997,32,The Devil's Own,the_devils_own,42868348.0,,275
+1997,33,The Peacemaker,the_peacemaker,41263140.0,,315
+1997,34,Private Parts,private_parts,41230799.0,,320
+1997,35,Jackie Brown,jackie_brown,39673162.0,,293
+1997,36,For Richer or Poorer,for_richer_or_poorer,31642995.0,,280
+1997,37,Home Alone 3,home_alone_3,30882515.0,,285
+1997,38,An American Werewolf in Paris,an_american_werewolf_in_paris,26570463.0,,258
+1997,39,Boogie Nights,boogie_nights,26400640.0,,267
+1997,40,Mimic,mimic,25480490.0,,307
+1997,41,Midnight in the Garden of Good and Evil,midnight_in_garden_of_good_and_evil,25105255.0,,306
+1997,42,Mr. Magoo,mr_magoo,21437192.0,,309
+1997,43,The Postman,the_postman,17626234.0,,316
+1997,44,The Man Who Knew Too Little,the_man_who_knew_too_little,13717039.0,,341
+1997,45,Turbulence,turbulence,11538235.0,,337
+1997,46,The Beautician and the Beast,the_beautician_and_beast,11486880.0,,266
+1997,47,Leave It to Beaver,leave_it_to_beaver,10925060.0,,298
+1997,48,Deconstructing Harry,deconstructing_harry,10686841.0,,274
+1997,49,Mad City,mad_city,10541523.0,,302
+1997,50,Affliction,affliction,6330054.0,,254
+1997,51,Kundun,kundun,5684789.0,,295
+1997,52,Suicide Kings,suicide_kings,1740156.0,,332
+1997,53,Steel,steel,1710972.0,,331
+1997,54,Lolita,lolita,1071255.0,,299
+1997,55,The House of Yes,the_house_of_yes,626057.0,,287
+1997,56,Prefontaine,prefontaine,589304.0,,318
+1997,57,Commandments,commandments,548561.0,,218
+1997,58,Dream with the Fishes,dream_with_fishes,543708.0,,276
+1997,59,The End of Violence,the_end_of_violence,386673.0,,277
+1997,60,Hurricane Streets,hurricane_streets,375634.0,,289
+1997,61,Welcome to Sarajevo,welcome_to_sarajevo,334319.0,,343
+1997,62,Telling Lies in America,telling_lies_in_america,318809.0,,333
+1997,63,Nil by Mouth,nil_by_mouth,266130.0,,311
+1997,64,Critical Care,critical_care,221193.0,,272
+1997,65,I Married a Strange Person!,i_married_strange_person,206272.0,,290
+1997,66,Ayn Rand: A Sense of Life,ayn_rand_sense_of_life,205246.0,,262
+1997,67,Twin Town,twin_town,127923.0,,338
+1997,68,Lawn Dogs,lawn_dogs,106404.0,,297
+1997,69,The Last Time I Committed Suicide,the_last_time_i_committed_suicide,46362.0,,296
+1997,70,"First Love, Last Rites",first_love_last_rites,42953.0,,441
+1998,1,Saving Private Ryan,saving_private_ryan,217049603.0,,399
+1998,2,Armageddon,armageddon,201578182.0,,347
+1998,3,There's Something About Mary,theres_something_about_mary,176484651.0,,451
+1998,4,A Bug's Life,a_bugs_life,162798565.0,,355
+1998,5,The Waterboy,the_waterboy,161491646.0,,342
+1998,6,Rush Hour,rush_hour,141186864.0,,397
+1998,7,Godzilla,godzilla,136314294.0,,372
+1998,8,Patch Adams,patch_adams,135026902.0,,449
+1998,9,Lethal Weapon 4,lethal_weapon_4,130444603.0,,422
+1998,10,You've Got Mail,youve_got_mail,115821495.0,,445
+1998,11,Enemy of the State,enemy_of_state,111549836.0,,362
+1998,12,The Prince of Egypt,the_prince_of_egypt,101413188.0,,393
+1998,13,The Rugrats Movie,the_rugrats_movie,100494675.0,,470
+1998,14,Shakespeare in Love,shakespeare_in_love,100317794.0,,484
+1998,15,The Mask of Zorro,the_mask_of_zorro,94095523.0,,385
+1998,16,Stepmom,stepmom,91137662.0,,373
+1998,17,Antz,antz,90757863.0,,346
+1998,18,Pokémon: The First Movie - Mewtwo Strikes Back,pokémon_first_movie_mewtwo_strikes_back,85744662.0,,687
+1998,19,The Wedding Singer,the_wedding_singer,80245725.0,,410
+1998,20,Star Trek: Insurrection,star_trek_insurrection,70187658.0,,404
+1998,21,Lost in Space,lost_in_space,69117629.0,,383
+1998,22,Ever After: A Cinderella Story,ever_after_cinderella_story,65705771.0,,357
+1998,23,A Civil Action,a_civil_action,56709981.0,,358
+1998,24,Snake Eyes,snake_eyes,55591409.0,,401
+1998,25,What Dreams May Come,what_dreams_may_come,55382927.0,,411
+1998,26,Halloween H20: 20 Years Later,halloween_h20_20_years_later,55041738.0,,375
+1998,27,Mighty Joe Young,mighty_joe_young,50632037.0,,386
+1998,28,Practical Magic,practical_magic,46732881.0,,392
+1998,29,Meet Joe Black,meet_joe_black,44619100.0,,304
+1998,30,The Siege,the_siege,40981289.0,,469
+1998,31,Pleasantville,pleasantville,40584421.0,,391
+1998,32,The Faculty,the_faculty,40283321.0,,468
+1998,33,I Still Know What You Did Last Summer,i_still_know_what_you_did_last_summer,40002112.0,,452
+1998,34,Primary Colors,primary_colors,39001187.0,,319
+1998,35,Urban Legend,urban_legend,38072438.0,,529
+1998,36,How Stella Got Her Groove Back,how_stella_got_her_groove_back,37672941.0,,378
+1998,37,Sphere,sphere,37020277.0,,328
+1998,38,The Thin Red Line,the_thin_red_line,36400491.0,,407
+1998,39,Jack Frost,jack_frost,34562556.0,,501
+1998,40,Bride of Chucky,bride_of_chucky,32400658.0,,513
+1998,41,Elizabeth,elizabeth,30082699.0,,440
+1998,42,Paulie,paulie,26875268.0,,433
+1998,43,The Avengers,the_avengers,23384939.0,,261
+1998,44,Beloved,beloved,22852487.0,,351
+1998,45,Psycho,psycho,21485655.0,,548
+1998,46,Vampires,vampires,20308772.0,,408
+1998,47,Mafia!,mafia,19889299.0,,384
+1998,48,Hard Rain,hard_rain,19870567.0,,376
+1998,49,Babe: Pig in the City,babe_pig_in_city,18319860.0,,348
+1998,50,Rushmore,rushmore,17105219.0,,444
+1998,51,A Simple Plan,a_simple_plan,16316273.0,,334
+1998,52,Twilight,twilight,15055091.0,,303
+1998,53,Soldier,soldier,14594226.0,,324
+1998,54,Living Out Loud,living_out_loud,12905901.0,,381
+1998,55,I'll Be Home for Christmas,ill_be_home_for_christmas,12214338.0,,546
+1998,56,Holy Man,holy_man,12069719.0,,377
+1998,57,Sliding Doors,sliding_doors,11841544.0,,323
+1998,58,Fear and Loathing in Las Vegas,fear_and_loathing_in_las_vegas,10680275.0,,366
+1998,59,Home Fries,home_fries,10493366.0,,286
+1998,60,The Red Violin,the_red_violin,10019109.0,,395
+1998,61,Very Bad Things,very_bad_things,9898412.0,,428
+1998,62,Ringmaster,ringmaster,9257103.0,,601
+1998,63,Firestorm,firestorm,8165212.0,,367
+1998,64,American History X,american_history_x,6719864.0,,345
+1998,65,Gods and Monsters,gods_and_monsters,6451628.0,,371
+1998,66,Playing by Heart,playing_by_heart,3970078.0,,525
+1998,67,Goodbye Lover,goodbye_lover,1940299.0,,283
+1998,68,Hurlyburly,hurlyburly,1798862.0,,288
+1998,69,Hideous Kinky,hideous_kinky,1263279.0,,479
+1998,70,Without Limits,without_limits,777423.0,,317
+1998,71,Just the Ticket,just_ticket,430404.0,,426
+1998,72,Monument Ave.,monument_ave,333760.0,,312
+1998,73,Whatever,whatever,307037.0,,499
+1998,74,Wide Awake,wide_awake,282175.0,,344
+1998,75,No Looking Back,no_looking_back,222099.0,,300
+1998,76,Following,following,48482.0,,544
+1998,77,Safe Men,safe_men,45724.0,,398
+1998,78,Savior,savior,14328.0,,321
+1998,79,Hell's Kitchen,hells_kitchen,11710.0,,446
+1998,80,Taxman,taxman,9871.0,,488
+1998,81,The Velocity of Gary,the_velocity_of_gary,2143.0,,409
+1999,1,Star Wars: Episode I - The Phantom Menace,star_wars_episode_i_phantom_menace,474544677.0,,418
+1999,2,The Sixth Sense,the_sixth_sense,293506292.0,,617
+1999,3,Toy Story 2,toy_story_2,245852179.0,,336
+1999,4,Austin Powers: The Spy Who Shagged Me,austin_powers_spy_who_shagged_me,206040086.0,,523
+1999,5,The Matrix,the_matrix,171479930.0,,464
+1999,6,Tarzan,tarzan,171091819.0,,405
+1999,7,Big Daddy,big_daddy,163479795.0,,507
+1999,8,The Mummy,the_mummy,155385488.0,,352
+1999,9,Runaway Bride,runaway_bride,152257509.0,,585
+1999,10,The Blair Witch Project,the_blair_witch_project,140539099.0,,669
+1999,11,Stuart Little,stuart_little,140035367.0,,600
+1999,12,The Green Mile,the_green_mile,136801374.0,,374
+1999,13,American Beauty,american_beauty,130096601.0,,622
+1999,14,The World Is Not Enough,the_world_is_not_enough,126943684.0,,509
+1999,15,Double Jeopardy,double_jeopardy,116741558.0,,540
+1999,16,Notting Hill,notting_hill,116089678.0,,432
+1999,17,Wild Wild West,wild_wild_west,113804681.0,,412
+1999,18,Analyze This,analyze_this,106885658.0,,424
+1999,19,The General's Daughter,the_generals_daughter,102705852.0,,515
+1999,20,American Pie,american_pie,102561004.0,,587
+1999,21,Sleepy Hollow,sleepy_hollow,101071502.0,,581
+1999,22,Inspector Gadget,inspector_gadget,97403112.0,,502
+1999,23,The Haunting,the_haunting,91411151.0,,625
+1999,24,Entrapment,entrapment,87704396.0,,482
+1999,25,Payback,payback,81526121.0,,390
+1999,26,The Talented Mr. Ripley,the_talented_mr_ripley,81298265.0,,472
+1999,27,Any Given Sunday,any_given_sunday,75530832.0,,531
+1999,28,Deep Blue Sea,deep_blue_sea,73648142.0,,535
+1999,29,Galaxy Quest,galaxy_quest,71583916.0,,643
+1999,30,The Thomas Crown Affair,the_thomas_crown_affair,69305181.0,,545
+1999,31,Blue Streak,blue_streak,68518533.0,,650
+1999,32,End of Days,end_of_days,66889043.0,,530
+1999,33,The Bone Collector,the_bone_collector,66518655.0,,524
+1999,34,Bowfinger,bowfinger,66384775.0,,455
+1999,35,Deuce Bigalow: Male Gigolo,deuce_bigalow_male_gigolo,65538755.0,,726
+1999,36,Life,life,64016268.0,,427
+1999,37,She's All That,shes_all_that,63366989.0,,572
+1999,38,Fantasia 2000,fantasia_2000,60655420.0,,415
+1999,39,Three Kings,three_kings,60652036.0,,329
+1999,40,Bicentennial Man,bicentennial_man,58223861.0,,657
+1999,41,The Cider House Rules,the_cider_house_rules,57545092.0,,430
+1999,42,Eyes Wide Shut,eyes_wide_shut,55691208.0,,364
+1999,43,Never Been Kissed,never_been_kissed,55474756.0,,542
+1999,44,Forces of Nature,forces_of_nature,52900680.0,,500
+1999,45,Varsity Blues,varsity_blues,52894169.0,,495
+1999,46,Message in a Bottle,message_in_bottle,52880016.0,,493
+1999,47,"South Park: Bigger, Longer & Uncut",south_park_bigger_longer_uncut,52037603.0,,559
+1999,48,The Hurricane,the_hurricane,50699241.0,,637
+1999,49,Stigmata,stigmata,50046268.0,,521
+1999,50,Pokémon the Movie 2000,pokémon_movie_2000,43758684.0,,740
+1999,51,House on Haunted Hill,house_on_haunted_hill,40846082.0,,667
+1999,52,Anna and the King,anna_and_king,39263420.0,,610
+1999,53,Cruel Intentions,cruel_intentions,38773785.0,,490
+1999,54,10 Things I Hate About You,10_things_i_hate_about_you,38178166.0,,534
+1999,55,Fight Club,fight_club,37030102.0,,483
+1999,56,My Favorite Martian,my_favorite_martian,36850101.0,,389
+1999,57,8MM,8mm,36663315.0,,474
+1999,58,For Love of the Game,for_love_of_game,35188640.0,,439
+1999,59,Man on the Moon,man_on_moon,34607430.0,,434
+1999,60,Instinct,instinct,34105207.0,,443
+1999,61,The Best Man,the_best_man,34102780.0,,620
+1999,62,Mickey Blue Eyes,mickey_blue_eyes,33864342.0,,453
+1999,63,The 13th Warrior,the_13th_warrior,32698899.0,,361
+1999,64,October Sky,october_sky,32570685.0,,461
+1999,65,Lake Placid,lake_placid,31770414.0,,492
+1999,66,Random Hearts,random_hearts,31502583.0,,553
+1999,67,Dogma,dogma,30652890.0,,360
+1999,68,Superstar,superstar,30636478.0,,618
+1999,69,Mystery Men,mystery_men,29762011.0,,460
+1999,70,The Insider,the_insider,29089912.0,,497
+1999,71,"Girl, Interrupted",girl_interrupted,28912646.0,,631
+1999,72,The Out-of-Towners,the_outoftowners,28544120.0,,448
+1999,73,The Other Sister,the_other_sister,27807627.0,,425
+1999,74,Baby Geniuses,baby_geniuses,27250736.0,,263
+1999,75,The Story of Us,the_story_of_us,27100031.0,,573
+1999,76,Blast from the Past,blast_from_past,26511114.0,,429
+1999,77,The Wood,the_wood,25059640.0,,576
+1999,78,Arlington Road,arlington_road,24756177.0,,481
+1999,79,The Iron Giant,the_iron_giant,23159305.0,,447
+1999,80,Being John Malkovich,being_john_malkovich,22863596.0,,350
+1999,81,Magnolia,magnolia,22455976.0,,639
+1999,82,Edtv,edtv,22431897.0,,456
+1999,83,At First Sight,at_first_sight,22365133.0,,462
+1999,84,The Bachelor,the_bachelor,21760240.0,,349
+1999,85,Stir of Echoes,stir_of_echoes,21142914.0,,596
+1999,86,Summer of Sam,summer_of_sam,19288130.0,,582
+1999,87,Anywhere But Here,anywhere_but_here,18670401.0,,538
+1999,88,The Ninth Gate,the_ninth_gate,18661336.0,,508
+1999,89,Drive Me Crazy,drive_me_crazy,17845337.0,,595
+1999,90,The Rage: Carrie 2,the_rage_carrie_2,17762705.0,,518
+1999,91,Go,go,16943454.0,,491
+1999,92,Bringing Out the Dead,bringing_out_dead,16797191.0,,591
+1999,93,True Crime,true_crime,16649768.0,,494
+1999,94,Muppets from Space,muppets_from_space,16625807.0,,558
+1999,95,Eye of the Beholder,eye_of_beholder,16500786.0,,363
+1999,96,A Midsummer Night's Dream,a_midsummer_nights_dream,16071990.0,,498
+1999,97,The Corruptor,the_corruptor,15164492.0,,506
+1999,98,Election,election,14902041.0,,438
+1999,99,Music of the Heart,music_of_heart,14859394.0,,612
+1999,100,Snow Falling on Cedars,snow_falling_on_cedars,14417593.0,,402
+2000,1,How the Grinch Stole Christmas,how_grinch_stole_christmas,260044825.0,,623
+2000,2,Cast Away,cast_away,233632142.0,,577
+2000,3,Mission: Impossible II,mission_impossible_ii,215409889.0,,387
+2000,4,Gladiator,gladiator,187705427.0,,632
+2000,5,What Women Want,what_women_want,182811707.0,,732
+2000,6,The Perfect Storm,the_perfect_storm,182618434.0,,644
+2000,7,Meet the Parents,meet_parents,166244045.0,,749
+2000,8,X-Men,xmen,157299718.0,,413
+2000,9,Scary Movie,scary_movie,157019771.0,,638
+2000,10,What Lies Beneath,what_lies_beneath,155464351.0,,574
+2000,11,Dinosaur,dinosaur,137748063.0,,454
+2000,12,"Crouching Tiger, Hidden Dragon",crouching_tiger_hidden_dragon,128078872.0,,685
+2000,13,Erin Brockovich,erin_brockovich,125595205.0,,700
+2000,14,Charlie's Angels,charlies_angels,125305545.0,,565
+2000,15,Nutty Professor II: The Klumps,nutty_professor_ii_klumps,123309890.0,,516
+2000,16,Big Momma's House,big_mommas_house,117559438.0,,733
+2000,17,Remember the Titans,remember_titans,115654751.0,,743
+2000,18,The Patriot,the_patriot,113330342.0,,678
+2000,19,Chicken Run,chicken_run,106834564.0,,356
+2000,20,Miss Congeniality,miss_congeniality,106807667.0,,750
+2000,21,Gone in 60 Seconds,gone_in_60_seconds,101648571.0,,677
+2000,22,Unbreakable,unbreakable,95011339.0,,764
+2000,23,"Me, Myself & Irene",me_myself_irene,90570999.0,,658
+2000,24,Space Cowboys,space_cowboys,90464773.0,,673
+2000,25,The Emperor's New Groove,the_emperors_new_groove,89302687.0,,419
+2000,26,Scream 3,scream_3,89143175.0,,471
+2000,27,U-571,u571,77122415.0,,505
+2000,28,Rugrats in Paris: The Movie,rugrats_in_paris_movie,76507756.0,,755
+2000,29,The Family Man,the_family_man,75793305.0,,769
+2000,30,Hollow Man,hollow_man,73209340.0,,592
+2000,31,Chocolat,chocolat,71509363.0,,818
+2000,32,Shaft,shaft,70334258.0,,580
+2000,33,The Kid,the_kid,69691949.0,,771
+2000,34,Vertical Limit,vertical_limit,69243859.0,,688
+2000,35,Road Trip,road_trip,68540777.0,,757
+2000,36,Bring It On,bring_it_on,68379000.0,,725
+2000,37,102 Dalmatians,102_dalmatians,66957026.0,,744
+2000,38,Rules of Engagement,rules_of_engagement,61335230.0,,571
+2000,39,The Cell,the_cell,61334059.0,,739
+2000,40,Mission to Mars,mission_to_mars,60883407.0,,659
+2000,41,Coyote Ugly,coyote_ugly,60786269.0,,714
+2000,42,Snow Day,snow_day,60020107.0,,664
+2000,43,Next Friday,next_friday,57328603.0,,703
+2000,44,The Whole Nine Yards,the_whole_nine_yards,57262492.0,,684
+2000,45,Shanghai Noon,shanghai_noon,56937502.0,,663
+2000,46,Romeo Must Die,romeo_must_die,55973336.0,,605
+2000,47,Final Destination,final_destination,53331147.0,,701
+2000,48,The Road to El Dorado,the_road_to_el_dorado,50863742.0,,487
+2000,49,Men of Honor,men_of_honor,48818921.0,,719
+2000,50,"Dude, Where's My Car?",dude_wheres_my_car,46729800.0,,821
+2000,51,The Tigger Movie,the_tigger_movie,45554533.0,,774
+2000,52,Frequency,frequency,45010278.0,,671
+2000,53,The Replacements,the_replacements,44737059.0,,690
+2000,54,The Beach,the_beach,39785027.0,,589
+2000,55,Little Nicky,little_nicky,39464775.0,,668
+2000,56,Pitch Black,pitch_black,39240659.0,,477
+2000,57,The Original Kings of Comedy,the_original_kings_of_comedy,38182790.0,,801
+2000,58,Bedazzled,bedazzled,37886980.0,,790
+2000,59,Autumn in New York,autumn_in_new_york,37761915.0,,636
+2000,60,28 Days,28_days,37170488.0,,691
+2000,61,Keeping the Faith,keeping_faith,37047880.0,,626
+2000,62,Bounce,bounce,36805288.0,,675
+2000,63,Hanging Up,hanging_up,36050230.0,,583
+2000,64,The Flintstones in Viva Rock Vegas,the_flintstones_in_viva_rock_vegas,35268275.0,,557
+2000,65,The Skulls,the_skulls,35046120.0,,695
+2000,66,The 6th Day,the_6th_day,34604280.0,,759
+2000,67,Thirteen Days,thirteen_days,34592089.0,,527
+2000,68,My Dog Skip,my_dog_skip,34134641.0,,551
+2000,69,Where the Heart Is,where_heart_is,33772838.0,,707
+2000,70,Pay It Forward,pay_it_forward,33519628.0,,780
+2000,71,Dracula 2000,dracula_2000,33022767.0,,770
+2000,72,Return to Me,return_to_me,32722798.0,,423
+2000,73,Proof of Life,proof_of_life,32598931.0,,786
+2000,74,Almost Famous,almost_famous,32534850.0,,653
+2000,75,The Legend of Bagger Vance,the_legend_of_bagger_vance,30919168.0,,533
+2000,76,The Art of War,the_art_of_war,30208599.0,,564
+2000,77,Bless the Child,bless_child,29381494.0,,590
+2000,78,The Watcher,the_watcher,28946615.0,,724
+2000,79,Love & Basketball,love_basketball,27459615.0,,711
+2000,80,High Fidelity,high_fidelity,27287137.0,,532
+2000,81,Book of Shadows: Blair Witch 2,book_of_shadows_blair_witch_2,26437094.0,,788
+2000,82,The Adventures of Rocky & Bullwinkle,the_adventures_of_rocky_bullwinkle,26005820.0,,458
+2000,83,Memento,memento,25544867.0,,736
+2000,84,Nurse Betty,nurse_betty,25170054.0,,627
+2000,85,Reindeer Games,reindeer_games,23368995.0,,662
+2000,86,Titan A.E.,titan_ae,22753426.0,,417
+2000,87,Billy Elliot,billy_elliot,21995263.0,,852
+2000,88,Boys and Girls,boys_and_girls,21799652.0,,722
+2000,89,Battlefield Earth,battlefield_earth,21471685.0,,666
+2000,90,Urban Legends: Final Cut,urban_legends_final_cut,21468807.0,,696
+2000,91,Down to You,down_to_you,20069008.0,,676
+2000,92,Wonder Boys,wonder_boys,19393557.0,,665
+2000,93,Best in Show,best_in_show,18715392.0,,767
+2000,94,The Contender,the_contender,17872723.0,,734
+2000,95,Red Planet,red_planet,17480890.0,,712
+2000,96,Small Time Crooks,small_time_crooks,17266359.0,,704
+2000,97,Center Stage,center_stage,17200925.0,,742
+2000,98,Pokémon 3 the Movie: Spell of the Unown,pokémon_3_movie_spell_of_unown,17052128.0,,799
+2000,99,Boiler Room,boiler_room,16970581.0,,654
+2000,100,Lost Souls,lost_souls,16815253.0,,570
+2001,1,Harry Potter and the Sorcerer's Stone,harry_potter_and_sorcerers_stone,318087620.0,,819
+2001,2,The Lord of the Rings: The Fellowship of the Ring,the_lord_of_rings_fellowship_of_ring,315544750.0,,382
+2001,3,"Monsters, Inc.",monsters_inc,289916256.0,,709
+2001,4,Shrek,shrek,267665011.0,,436
+2001,5,Rush Hour 2,rush_hour_2,226164286.0,,928
+2001,6,The Mummy Returns,the_mummy_returns,202019785.0,,737
+2001,7,Pearl Harbor,pearl_harbor,198542554.0,,754
+2001,8,Ocean's Eleven,oceans_eleven,183417150.0,,815
+2001,9,Jurassic Park III,jurassic_park_iii,181171875.0,,584
+2001,10,Planet of the Apes,planet_of_apes,180011740.0,,465
+2001,11,A Beautiful Mind,a_beautiful_mind,170742341.0,,937
+2001,12,Hannibal,hannibal,165092268.0,,753
+2001,13,American Pie 2,american_pie_2,145103595.0,,869
+2001,14,The Fast and the Furious,the_fast_and_furious,144533925.0,,793
+2001,15,Lara Croft: Tomb Raider,lara_croft_tomb_raider,131168070.0,,528
+2001,16,Dr. Dolittle 2,dr_dolittle_2,112952899.0,,811
+2001,17,Spy Kids,spy_kids,112719001.0,,783
+2001,18,Black Hawk Down,black_hawk_down,108638745.0,,914
+2001,19,The Princess Diaries,the_princess_diaries,108248956.0,,848
+2001,20,Vanilla Sky,vanilla_sky,100618344.0,,896
+2001,21,The Others,the_others,96522687.0,,791
+2001,22,Legally Blonde,legally_blonde,96520674.0,,857
+2001,23,America's Sweethearts,americas_sweethearts,93607673.0,,913
+2001,24,Cats & Dogs,cats_dogs,93385515.0,,808
+2001,25,Atlantis: The Lost Empire,atlantis_lost_empire,84056472.0,,789
+2001,26,Jimmy Neutron: Boy Genius,jimmy_neutron_boy_genius,80936232.0,,935
+2001,27,A.I. Artificial Intelligence,ai_artificial_intelligence,78616689.0,,752
+2001,28,Along Came a Spider,along_came_spider,74078174.0,,599
+2001,29,Bridget Jones's Diary,bridget_joness_diary,71543427.0,,825
+2001,30,Scary Movie 2,scary_movie_2,71308997.0,,883
+2001,31,The Score,the_score,71107711.0,,782
+2001,32,Shallow Hal,shallow_hal,70839203.0,,878
+2001,33,Swordfish,swordfish,69772969.0,,829
+2001,34,The Mexican,the_mexican,66845033.0,,802
+2001,35,Down to Earth,down_to_earth,64186502.0,,792
+2001,36,Spy Game,spy_game,62362560.0,,929
+2001,37,The Wedding Planner,the_wedding_planner,60400856.0,,738
+2001,38,Behind Enemy Lines,behind_enemy_lines,58856790.0,,561
+2001,39,Ali,ali,58203105.0,,851
+2001,40,The Animal,the_animal,57743062.0,,876
+2001,41,Moulin Rouge!,moulin_rouge,57386607.0,,718
+2001,42,A Knight's Tale,a_knights_tale,56569702.0,,661
+2001,43,Don't Say a Word,dont_say_word,55001642.0,,898
+2001,44,Blow,blow,52990775.0,,777
+2001,45,The Royal Tenenbaums,the_royal_tenenbaums,52364010.0,,921
+2001,46,Exit Wounds,exit_wounds,51758599.0,,822
+2001,47,Enemy at the Gates,enemy_at_gates,51401758.0,,758
+2001,48,K-PAX,kpax,50338485.0,,947
+2001,49,Domestic Disturbance,domestic_disturbance,45246095.0,,853
+2001,50,Zoolander,zoolander,45172250.0,,705
+2001,51,Thir13en Ghosts,thir13en_ghosts,41867960.0,,835
+2001,52,Bandits,bandits,41575141.0,,773
+2001,53,Gosford Park,gosford_park,41308615.0,,983
+2001,54,Heartbreakers,heartbreakers,40336607.0,,431
+2001,55,Hardball,hardball,40222729.0,,648
+2001,56,Evolution,evolution,38345494.0,,860
+2001,57,Not Another Teen Movie,not_another_teen_movie,38252284.0,,961
+2001,58,Jeepers Creepers,jeepers_creepers,37904175.0,,904
+2001,59,Kiss of the Dragon,kiss_of_dragon,36845124.0,,944
+2001,60,Recess: School's Out,recess_schools_out,36706141.0,,919
+2001,61,In the Bedroom,in_bedroom,35930604.0,,847
+2001,62,Black Knight,black_knight,33426971.0,,915
+2001,63,See Spot Run,see_spot_run,33357476.0,,858
+2001,64,Amélie,amélie,33225499.0,,746
+2001,65,Driven,driven,32720065.0,,459
+2001,66,What's the Worst That Could Happen?,whats_worst_that_could_happen,32269834.0,,575
+2001,67,Final Fantasy: The Spirits Within,final_fantasy_spirits_within,32131830.0,,634
+2001,68,From Hell,from_hell,31602566.0,,369
+2001,69,Monster's Ball,monsters_ball,31273922.0,,1005
+2001,70,How High,how_high,31178740.0,,966
+2001,71,Jay and Silent Bob Strike Back,jay_and_silent_bob_strike_back,30085147.0,,900
+2001,72,Baby Boy,baby_boy,28734552.0,,877
+2001,73,The Majestic,the_majestic,27807266.0,,938
+2001,74,The Brothers,the_brothers,27457409.0,,855
+2001,75,Someone Like You,someone_like_you,27343067.0,,830
+2001,76,Joe Dirt,joe_dirt,27087695.0,,836
+2001,77,The Musketeer,the_musketeer,27073640.0,,842
+2001,78,Captain Corelli's Mandolin,captain_corellis_mandolin,25543895.0,,806
+2001,79,15 Minutes,15_minutes,24403552.0,,646
+2001,80,Hearts in Atlantis,hearts_in_atlantis,24185781.0,,867
+2001,81,Angel Eyes,angel_eyes,24174218.0,,781
+2001,82,Heist,heist,23510841.0,,868
+2001,83,Kingdom Come,kingdom_come,23249649.0,,839
+2001,84,Joe Somebody,joe_somebody,22771646.0,,976
+2001,85,Two Can Play That Game,two_can_play_that_game,22235901.0,,940
+2001,86,Joy Ride,joy_ride,21974919.0,,728
+2001,87,Valentine,valentine,20384136.0,,824
+2001,88,Summer Catch,summer_catch,19753553.0,,798
+2001,89,The Pledge,the_pledge,19733089.0,,805
+2001,90,Saving Silverman,saving_silverman,19402030.0,,809
+2001,91,Super Troopers,super_troopers,18492362.0,,849
+2001,92,The Last Castle,the_last_castle,18244060.0,,946
+2001,93,The Glass House,the_glass_house,18150259.0,,779
+2001,94,Max Keeble's Big Move,max_keebles_big_move,17294293.0,,951
+2001,95,Rock Star,rock_star,17008282.0,,716
+2001,96,Crazy/Beautiful,crazybeautiful,16937988.0,,854
+2001,97,Original Sin,original_sin,16534221.0,,768
+2001,98,3000 Miles to Graceland,3000_miles_to_graceland,15749959.0,,794
+2001,99,Life as a House,life_as_house,15667270.0,,911
+2001,100,Josie and the Pussycats,josie_and_pussycats,14271015.0,,800
+2002,1,Spider-Man,spiderman,407022860.0,,520
+2002,2,The Lord of the Rings: The Two Towers,the_lord_of_rings_two_towers,342551365.0,,616
+2002,3,Star Wars: Episode II - Attack of the Clones,star_wars_episode_ii_attack_of_clones,310676740.0,,420
+2002,4,Harry Potter and the Chamber of Secrets,harry_potter_and_chamber_of_secrets,262450136.0,,1043
+2002,5,My Big Fat Greek Wedding,my_big_fat_greek_wedding,241438208.0,,895
+2002,6,Signs,signs,227966634.0,,1008
+2002,7,Austin Powers in Goldmember,austin_powers_in_goldmember,213307889.0,,1040
+2002,8,Men in Black II,men_in_black_ii,193735288.0,,416
+2002,9,Ice Age,ice_age,176387405.0,,934
+2002,10,Chicago,chicago,170687518.0,,1060
+2002,11,Catch Me If You Can,catch_me_if_you_can,164615351.0,,907
+2002,12,Die Another Day,die_another_day,160942139.0,,840
+2002,13,Scooby-Doo,scoobydoo,153294164.0,,932
+2002,14,Lilo & Stitch,lilo_stitch,145794338.0,,956
+2002,15,xXx,xxx,142109382.0,,1046
+2002,16,The Santa Clause 2,the_santa_clause_2,139236327.0,,1075
+2002,17,Minority Report,minority_report,132072926.0,,651
+2002,18,The Ring,the_ring,129128133.0,,1053
+2002,19,Sweet Home Alabama,sweet_home_alabama,127223418.0,,879
+2002,20,Mr. Deeds,mr_deeds,126293452.0,,982
+2002,21,The Bourne Identity,the_bourne_identity,121661683.0,,891
+2002,22,The Sum of All Fears,the_sum_of_all_fears,118907036.0,,597
+2002,23,8 Mile,8_mile,116750901.0,,1055
+2002,24,Road to Perdition,road_to_perdition,104454762.0,,881
+2002,25,Panic Room,panic_room,96397334.0,,888
+2002,26,Maid in Manhattan,maid_in_manhattan,94011225.0,,864
+2002,27,Two Weeks Notice,two_weeks_notice,93354851.0,,1111
+2002,28,Red Dragon,red_dragon,93149898.0,,1021
+2002,29,The Scorpion King,the_scorpion_king,91047077.0,,960
+2002,30,Spy Kids 2: Island of Lost Dreams,spy_kids_2_island_of_lost_dreams,85846429.0,,1015
+2002,31,Blade II,blade_ii,82348319.0,,679
+2002,32,Snow Dogs,snow_dogs,81172560.0,,987
+2002,33,We Were Soldiers,we_were_soldiers,78122718.0,,962
+2002,34,Gangs of New York,gangs_of_new_york,77812000.0,,761
+2002,35,Barbershop,barbershop,75782105.0,,1070
+2002,36,The Rookie,the_rookie,75600072.0,,920
+2002,37,Spirit: Stallion of the Cimarron,spirit_stallion_of_cimarron,73280117.0,,611
+2002,38,John Q,john_q,71756802.0,,862
+2002,39,Divine Secrets of the Ya-Ya Sisterhood,divine_secrets_of_yaya_sisterhood,69599016.0,,974
+2002,40,Insomnia,insomnia,67355513.0,,967
+2002,41,Changing Lanes,changing_lanes,66818548.0,,908
+2002,42,About Schmidt,about_schmidt,65016287.0,,884
+2002,43,Stuart Little 2,stuart_little_2,64956806.0,,827
+2002,44,Jackass: The Movie,jackass_movie,64255312.0,,1151
+2002,45,The Time Machine,the_time_machine,56832494.0,,936
+2002,46,Drumline,drumline,56399184.0,,1072
+2002,47,The Count of Monte Cristo,the_count_of_monte_cristo,54234062.0,,838
+2002,48,Hero,hero,53710019.0,,1062
+2002,49,Unfaithful,unfaithful,52775765.0,,859
+2002,50,Like Mike,like_mike,51432760.0,,1092
+2002,51,The Tuxedo,the_tuxedo,50547998.0,,1026
+2002,52,Peter Pan 2: Return to Never Land,peter_pan_2_return_to_never_land,48430258.0,,977
+2002,53,Big Fat Liar,big_fat_liar,48360547.0,,916
+2002,54,Phone Booth,phone_booth,46566212.0,,660
+2002,55,28 Days Later...,28_days_later,45064915.0,,1018
+2002,56,Star Trek: Nemesis,star_trek_nemesis,43254409.0,,873
+2002,57,Reign of Fire,reign_of_fire,43061982.0,,872
+2002,58,The Hours,the_hours,41675994.0,,953
+2002,59,High Crimes,high_crimes,41543917.0,,887
+2002,60,About a Boy,about_boy,41385278.0,,958
+2002,61,A Walk to Remember,a_walk_to_remember,41281092.0,,986
+2002,62,Windtalkers,windtalkers,40914068.0,,834
+2002,63,Blue Crush,blue_crush,40390647.0,,1066
+2002,64,The Master of Disguise,the_master_of_disguise,40388794.0,,1044
+2002,65,Resident Evil,resident_evil,40119709.0,,396
+2002,66,The Wild Thornberrys Movie,the_wild_thornberrys_movie,40108697.0,,989
+2002,67,Collateral Damage,collateral_damage,40077257.0,,795
+2002,68,Enough,enough,40007742.0,,965
+2002,69,Treasure Planet,treasure_planet,38176783.0,,466
+2002,70,Showtime,showtime,38082712.0,,999
+2002,71,Crossroads,crossroads,37191304.0,,954
+2002,72,Clockstoppers,clockstoppers,36989956.0,,554
+2002,73,The Mothman Prophecies,the_mothman_prophecies,35746370.0,,917
+2002,74,K-19: The Widowmaker,k19_widowmaker,35168966.0,,931
+2002,75,I Spy,i_spy,33561137.0,,1051
+2002,76,The Pianist,the_pianist,32572577.0,,871
+2002,77,Analyze That,analyze_that,32130627.0,,1022
+2002,78,Murder by Numbers,murder_by_numbers,31945749.0,,912
+2002,79,One Hour Photo,one_hour_photo,31597131.0,,918
+2002,80,Halloween: Resurrection,halloween_resurrection,30354442.0,,776
+2002,81,Queen of the Damned,queen_of_damned,30336800.0,,807
+2002,82,Dragonfly,dragonfly,30323400.0,,893
+2002,83,The Banger Sisters,the_banger_sisters,30307416.0,,979
+2002,84,Bad Company,bad_company,30160161.0,,981
+2002,85,Ghost Ship,ghost_ship,30113491.0,,1017
+2002,86,The New Guy,the_new_guy,29760152.0,,820
+2002,87,Swimfan,swimfan,28564995.0,,992
+2002,88,The Crocodile Hunter: Collision Course,the_crocodile_hunter_collision_course,28442574.0,,1078
+2002,89,Brown Sugar,brown_sugar,27363891.0,,1050
+2002,90,Blood Work,blood_work,26235081.0,,1094
+2002,91,All About the Benjamins,all_about_benjamins,25916319.0,,964
+2002,92,Frida,frida,25885000.0,,368
+2002,93,Jonah: A VeggieTales Movie,jonah_veggietales_movie,25581229.0,,1057
+2002,94,The Transporter,the_transporter,25296447.0,,1037
+2002,95,The Sweetest Thing,the_sweetest_thing,24718164.0,,875
+2002,96,Adaptation.,adaptation,22498520.0,,933
+2002,97,City by the Sea,city_by_sea,22449000.0,,939
+2002,98,Darkness,darkness,22163442.0,,950
+2002,99,Bowling for Columbine,bowling_for_columbine,21576018.0,,1100
+2002,100,Van Wilder: Party Liaison,van_wilder_party_liaison,21305259.0,,993
+2003,1,Finding Nemo,finding_nemo,380843261.0,,925
+2003,2,The Lord of the Rings: The Return of the King,the_lord_of_rings_return_of_king,377845905.0,,615
+2003,3,Pirates of the Caribbean: The Curse of the Black Pearl,pirates_of_caribbean_curse_of_black_pearl,305413918.0,,1162
+2003,4,The Matrix Reloaded,the_matrix_reloaded,281576461.0,,796
+2003,5,Bruce Almighty,bruce_almighty,242829261.0,,1118
+2003,6,X2: X-Men United,x2_xmen_united,214949694.0,,1030
+2003,7,Elf,elf,174626840.0,,1144
+2003,8,Terminator 3: Rise of the Machines,terminator_3_rise_of_machines,150371112.0,,652
+2003,9,The Matrix Revolutions,the_matrix_revolutions,139313948.0,,823
+2003,10,Cheaper by the Dozen,cheaper_by_dozen,138614544.0,,1251
+2003,11,Bad Boys II,bad_boys_ii,138608444.0,,629
+2003,12,Anger Management,anger_management,135645823.0,,1076
+2003,13,Bringing Down the House,bringing_down_house,132716677.0,,1080
+2003,14,Hulk,hulk,132177234.0,,1012
+2003,15,2 Fast 2 Furious,2_fast_2_furious,127154901.0,,1148
+2003,16,Something's Gotta Give,somethings_gotta_give,124728738.0,,1210
+2003,17,Seabiscuit,seabiscuit,120277854.0,,1184
+2003,18,S.W.A.T.,swat,116934650.0,,882
+2003,19,Spy Kids 3-D: Game Over,spy_kids_3d_game_over,111761982.0,,1222
+2003,20,The Last Samurai,the_last_samurai,111127263.0,,1161
+2003,21,Freaky Friday,freaky_friday,110230332.0,,1149
+2003,22,Scary Movie 3,scary_movie_3,110003217.0,,1082
+2003,23,The Italian Job,the_italian_job,106128601.0,,1134
+2003,24,American Wedding,american_wedding,104565114.0,,1181
+2003,25,Daddy Day Care,daddy_day_care,104297061.0,,1129
+2003,26,Daredevil,daredevil,102543518.0,,1016
+2003,27,The Cat in the Hat,the_cat_in_hat,101149285.0,,1107
+2003,28,Charlie's Angels: Full Throttle,charlies_angels_full_throttle,100830111.0,,1077
+2003,29,Cold Mountain,cold_mountain,95636509.0,,562
+2003,30,Master and Commander: The Far Side of the World,master_and_commander_far_side_of_world,93927920.0,,1102
+2003,31,Legally Blonde 2,legally_blonde_2,90186328.0,,1198
+2003,32,Mystic River,mystic_river,90135191.0,,1168
+2003,33,Freddy vs. Jason,freddy_vs_jason,82622655.0,,1183
+2003,34,School of Rock,school_of_rock,81261177.0,,1193
+2003,35,The Texas Chainsaw Massacre,the_texas_chainsaw_massacre,80571655.0,,1156
+2003,36,The Haunted Mansion,the_haunted_mansion,75847266.0,,1218
+2003,37,Old School,old_school,75585093.0,,1069
+2003,38,Kill Bill: Vol. 1,kill_bill_vol_1,70099045.0,,926
+2003,39,Holes,holes,67406573.0,,1103
+2003,40,Kangaroo Jack,kangaroo_jack,66934963.0,,886
+2003,41,Big Fish,big_fish,66809693.0,,1142
+2003,42,The League of Extraordinary Gentlemen,the_league_of_extraordinary_gentlemen,66465204.0,,1104
+2003,43,Lara Croft Tomb Raider: The Cradle of Life,lara_croft_tomb_raider_cradle_of_life,65660196.0,,1160
+2003,44,Mona Lisa Smile,mona_lisa_smile,63860942.0,,1074
+2003,45,Shanghai Knights,shanghai_knights,60476872.0,,1065
+2003,46,Bad Santa,bad_santa,60060328.0,,1089
+2003,47,Love Actually,love_actually,59696144.0,,1115
+2003,48,Gothika,gothika,59694580.0,,1248
+2003,49,Open Range,open_range,58331254.0,,1121
+2003,50,Once Upon a Time in Mexico,once_upon_time_in_mexico,56359780.0,,1006
+2003,51,Just Married,just_married,56127162.0,,1081
+2003,52,Paycheck,paycheck,53790451.0,,1220
+2003,53,Radio,radio,52333738.0,,1123
+2003,54,Identity,identity,52159536.0,,1096
+2003,55,Underworld,underworld,51970690.0,,1147
+2003,56,Runaway Jury,runaway_jury,49443628.0,,1110
+2003,57,Peter Pan,peter_pan,48462608.0,,1122
+2003,58,Agent Cody Banks,agent_cody_banks,47938330.0,,1113
+2003,59,The Jungle Book 2,the_jungle_book_2,47901582.0,,995
+2003,60,The Rundown,the_rundown,47726342.0,,1176
+2003,61,Lost in Translation,lost_in_translation,44585453.0,,1202
+2003,62,Tears of the Sun,tears_of_sun,43734876.0,,1116
+2003,63,Under the Tuscan Sun,under_tuscan_sun,43610723.0,,1180
+2003,64,Lizzie McGuire,lizzie_mcguire,42734455.0,,1084
+2003,65,Secondhand Lions,secondhand_lions,42070939.0,,1169
+2003,66,Out of Time,out_of_time,41088845.0,,1109
+2003,67,Rugrats Go Wild,rugrats_go_wild,39402572.0,,1209
+2003,68,Head of State,head_of_state,38125247.0,,1159
+2003,69,Good Boy,good_boy,37667746.0,,1165
+2003,70,Uptown Girls,uptown_girls,37182494.0,,906
+2003,71,What a Girl Wants,what_girl_wants,36105433.0,,1013
+2003,72,Jeepers Creepers 2,jeepers_creepers_2,35667218.0,,1068
+2003,73,Cradle 2 the Grave,cradle_2_grave,34712347.0,,1083
+2003,74,Monster,monster,34469210.0,,1229
+2003,75,Malibu's Most Wanted,malibus_most_wanted,34432201.0,,1177
+2003,76,The Hunted,the_hunted,34244097.0,,941
+2003,77,Dreamcatcher,dreamcatcher,33715436.0,,1003
+2003,78,Darkness Falls,darkness_falls,32551396.0,,990
+2003,79,The Core,the_core,31186896.0,,1058
+2003,80,Calendar Girls,calendar_girls,31041759.0,,1212
+2003,81,Hollywood Homicide,hollywood_homicide,30940691.0,,1186
+2003,82,Open Water,open_water,30610863.0,,1365
+2003,83,Honey,honey,30308417.0,,1150
+2003,84,The Fighting Temptations,the_fighting_temptations,30250745.0,,689
+2003,85,Johnny English,johnny_english,28082366.0,,952
+2003,86,A Man Apart,a_man_apart,26736098.0,,923
+2003,87,Sinbad: Legend of the Seven Seas,sinbad_legend_of_seven_seas,26483452.0,,606
+2003,88,Dumb and Dumberer: When Harry Met Lloyd,dumb_and_dumberer_when_harry_met_lloyd,26276465.0,,1182
+2003,89,Bulletproof Monk,bulletproof_monk,23358708.0,,837
+2003,90,Dickie Roberts: Former Child Star,dickie_roberts_former_child_star,22738671.0,,1158
+2003,91,Biker Boyz,biker_boyz,22076772.0,,1163
+2003,92,Looney Tunes: Back in Action,looney_tunes_back_in_action,20991364.0,,1137
+2003,93,The Life of David Gale,the_life_of_david_gale,19955598.0,,1024
+2003,94,Timeline,timeline,19481943.0,,1067
+2003,95,21 Grams,21_grams,16290476.0,,1119
+2003,96,My Boss's Daughter,my_bosss_daughter,15550605.0,,943
+2003,97,A Guy Thing,a_guy_thing,15545431.0,,1042
+2003,98,Wrong Turn,wrong_turn,15418790.0,,1045
+2003,99,Alex & Emma,alex_emma,14218698.0,,1138
+2003,100,How to Deal,how_to_deal,14195227.0,,1145
+2004,1,Shrek 2,shrek_2,441226247.0,,1054
+2004,2,Spider-Man 2,spiderman_2,373585825.0,,1124
+2004,3,The Passion of the Christ,the_passion_of_christ,370782930.0,,1203
+2004,4,Meet the Fockers,meet_fockers,279261160.0,,1025
+2004,5,The Incredibles,the_incredibles,261441092.0,,1133
+2004,6,Harry Potter and the Prisoner of Azkaban,harry_potter_and_prisoner_of_azkaban,249975996.0,,1073
+2004,7,The Polar Express,the_polar_express,187224490.0,,1221
+2004,8,The Day After Tomorrow,the_day_after_tomorrow,186740799.0,,1143
+2004,9,The Bourne Supremacy,the_bourne_supremacy,176241941.0,,1352
+2004,10,National Treasure,national_treasure,173008894.0,,1337
+2004,11,Shark Tale,shark_tale,160861908.0,,1086
+2004,12,"I, Robot",i_robot,144801023.0,,1236
+2004,13,Troy,troy,133378256.0,,1194
+2004,14,Ocean's Twelve,oceans_twelve,125544280.0,,1253
+2004,15,50 First Dates,50_first_dates,120908074.0,,1235
+2004,16,Van Helsing,van_helsing,120177084.0,,1223
+2004,17,Fahrenheit 9/11,fahrenheit_911,119194771.0,,1292
+2004,18,Lemony Snicket's A Series of Unfortunate Events,lemony_snickets_series_of_unfortunate_events,118634549.0,,1226
+2004,19,Dodgeball,dodgeball,114326736.0,,1310
+2004,20,The Village,the_village,114197520.0,,1334
+2004,21,The Grudge,the_grudge,110359362.0,,1442
+2004,22,The Aviator,the_aviator,102610330.0,,1224
+2004,23,Collateral,collateral,101005703.0,,1341
+2004,24,Million Dollar Baby,million_dollar_baby,100492203.0,,1489
+2004,25,The Princess Diaries 2: Royal Engagement,the_princess_diaries_2_royal_engagement,95170481.0,,1339
+2004,26,Starsky & Hutch,starsky_hutch,88237754.0,,1204
+2004,27,Along Came Polly,along_came_polly,88097164.0,,1234
+2004,28,Mean Girls,mean_girls,86058055.0,,1379
+2004,29,The SpongeBob SquarePants Movie,the_spongebob_squarepants_movie,85417988.0,,1241
+2004,30,Anchorman: The Legend of Ron Burgundy,anchorman_legend_of_ron_burgundy,85288303.0,,1272
+2004,31,The Notebook,the_notebook,81001787.0,,1191
+2004,32,Alien vs. Predator,alien_vs_predator,80282231.0,,1347
+2004,33,Man on Fire,man_on_fire,77911774.0,,1178
+2004,34,The Terminal,the_terminal,77872883.0,,1300
+2004,35,Garfield,garfield,75369589.0,,1267
+2004,36,Ray,ray,75331600.0,,1254
+2004,37,Christmas with the Kranks,christmas_with_kranks,73780539.0,,1430
+2004,38,Sideways,sideways,71503593.0,,1368
+2004,39,White Chicks,white_chicks,70831760.0,,1396
+2004,40,Hidalgo,hidalgo,67303450.0,,1131
+2004,41,The Forgotten,the_forgotten,67133509.0,,1266
+2004,42,Kill Bill: Vol. 2,kill_bill_vol_2,66208183.0,,1384
+2004,43,The Manchurian Candidate,the_manchurian_candidate,65955630.0,,1331
+2004,44,Barbershop 2: Back in Business,barbershop_2_back_in_business,65111277.0,,1207
+2004,45,Friday Night Lights,friday_night_lights,61255921.0,,1438
+2004,46,Hellboy,hellboy,59623958.0,,613
+2004,47,The Stepford Wives,the_stepford_wives,59484742.0,,1170
+2004,48,Dawn of the Dead,dawn_of_dead,59020957.0,,1306
+2004,49,Without a Paddle,without_paddle,58169327.0,,1311
+2004,50,The Butterfly Effect,the_butterfly_effect,57938693.0,,1023
+2004,51,Shall We Dance,shall_we_dance,57890460.0,,1275
+2004,52,The Chronicles of Riddick,the_chronicles_of_riddick,57761012.0,,1049
+2004,53,13 Going on 30,13_going_on_30,57231747.0,,1206
+2004,54,Saw,saw,56000369.0,,1425
+2004,55,Crash,crash,54580300.0,,1372
+2004,56,Blade: Trinity,blade_trinity,52411906.0,,1278
+2004,57,King Arthur,king_arthur,51882244.0,,1252
+2004,58,Finding Neverland,finding_neverland,51680613.0,,1093
+2004,59,A Cinderella Story,a_cinderella_story,51438175.0,,1265
+2004,60,The Phantom of the Opera,the_phantom_of_opera,51268815.0,,1035
+2004,61,Resident Evil: Apocalypse,resident_evil_apocalypse,51201453.0,,1139
+2004,62,Home on the Range,home_on_range,50030461.0,,1059
+2004,63,Secret Window,secret_window,48022900.0,,1308
+2004,64,Walking Tall,walking_tall,46437717.0,,1256
+2004,65,Napoleon Dynamite,napoleon_dynamite,44540956.0,,1367
+2004,66,Spanglish,spanglish,42726869.0,,1348
+2004,67,Exorcist: The Beginning,exorcist_beginning,41821986.0,,723
+2004,68,You Got Served,you_got_served,40363810.0,,1319
+2004,69,Bridget Jones: The Edge of Reason,bridget_jones_edge_of_reason,40226215.0,,1127
+2004,70,Catwoman,catwoman,40202379.0,,1173
+2004,71,The Ladykillers,the_ladykillers,39799191.0,,1201
+2004,72,Sky Captain and the World of Tomorrow,sky_captain_and_world_of_tomorrow,37762677.0,,1242
+2004,73,Taxi,taxi,36879320.0,,1125
+2004,74,Eternal Sunshine of the Spotless Mind,eternal_sunshine_of_spotless_mind,34400301.0,,1216
+2004,75,Alexander,alexander,34297191.0,,1243
+2004,76,Closer,closer,33987757.0,,1375
+2004,77,The Punisher,the_punisher,33810189.0,,1189
+2004,78,Team America: World Police,team_america_world_police,32786074.0,,1354
+2004,79,Taking Lives,taking_lives,32682342.0,,1309
+2004,80,Anacondas: The Hunt for the Blood Orchid,anacondas_hunt_for_blood_orchid,32238923.0,,1320
+2004,81,Cellular,cellular,32003620.0,,1214
+2004,82,Johnson Family Vacation,johnson_family_vacation,31203964.0,,1280
+2004,83,After the Sunset,after_sunset,28331233.0,,1327
+2004,84,The Prince and Me,the_prince_and_me,28176497.0,,1208
+2004,85,Garden State,garden_state,26782316.0,,1197
+2004,86,Jersey Girl,jersey_girl,25268157.0,,1064
+2004,87,Twisted,twisted,25198598.0,,1117
+2004,88,The Life Aquatic with Steve Zissou,the_life_aquatic_with_steve_zissou,24020403.0,,1302
+2004,89,Around the World in 80 Days,around_world_in_80_days,24008137.0,,1172
+2004,90,Agent Cody Banks 2: Destination London,agent_cody_banks_2_destination_london,23630159.0,,1277
+2004,91,Ella Enchanted,ella_enchanted,22918387.0,,1175
+2004,92,The Alamo,the_alamo,22414961.0,,1141
+2004,93,Torque,torque,21215059.0,,1185
+2004,94,Flight of the Phoenix,flight_of_phoenix,21009180.0,,1377
+2004,95,Little Black Book,little_black_book,20698668.0,,1296
+2004,96,Harold & Kumar Go to White Castle,harold_kumar_go_to_white_castle,18250550.0,,1323
+2004,97,Laws of Attraction,laws_of_attraction,17871255.0,,1152
+2004,98,EuroTrip,eurotrip,17771387.0,,1263
+2004,99,My Baby's Daddy,my_babys_daddy,17669317.0,,1196
+2004,100,Kung Fu Hustle,kung_fu_hustle,17108591.0,,1358
+2005,1,Star Wars: Episode III - Revenge of the Sith,star_wars_episode_iii_revenge_of_sith,380270577.0,,421
+2005,2,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",the_chronicles_of_narnia_lion_witch_and_wardrobe,291710957.0,,1307
+2005,3,Harry Potter and the Goblet of Fire,harry_potter_and_goblet_of_fire,290417905.0,,1188
+2005,4,War of the Worlds,war_of_worlds,234280354.0,,1498
+2005,5,King Kong,king_kong,218080025.0,,1286
+2005,6,Wedding Crashers,wedding_crashers,209255921.0,,1454
+2005,7,Batman Begins,batman_begins,206852432.0,,1355
+2005,8,Charlie and the Chocolate Factory,charlie_and_chocolate_factory,206459076.0,,1328
+2005,9,Mr. & Mrs. Smith,mr_mrs_smith,186336279.0,,1270
+2005,10,Hitch,hitch,179495555.0,,1419
+2005,11,The Longest Yard,the_longest_yard,158119460.0,,1464
+2005,12,Fantastic Four,fantastic_four,154696080.0,,365
+2005,13,Chicken Little,chicken_little,135386665.0,,1349
+2005,14,Robots,robots,128200012.0,,1274
+2005,15,Walk the Line,walk_line,119519402.0,,1276
+2005,16,The Pacifier,the_pacifier,113086868.0,,1451
+2005,17,Fun with Dick and Jane,fun_with_dick_and_jane,110332737.0,,1343
+2005,18,The 40-Year-Old Virgin,the_40yearold_virgin,109449237.0,,1491
+2005,19,Saw II,saw_ii,87039965.0,,1595
+2005,20,Brokeback Mountain,brokeback_mountain,83043761.0,,1432
+2005,21,Monster-in-Law,monsterinlaw,82931301.0,,1345
+2005,22,Are We There Yet?,are_we_there_yet,82674398.0,,1335
+2005,23,The Dukes of Hazzard,the_dukes_of_hazzard,80270227.0,,1382
+2005,24,Constantine,constantine,75976178.0,,1285
+2005,25,The Exorcism of Emily Rose,the_exorcism_of_emily_rose,75072454.0,,1485
+2005,26,Four Brothers,four_brothers,74494381.0,,1581
+2005,27,Sin City,sin_city,74103820.0,,1476
+2005,28,The Interpreter,the_interpreter,72708161.0,,1364
+2005,29,V for Vendetta,v_for_vendetta,70511035.0,,1604
+2005,30,Sahara,sahara,68671925.0,,1140
+2005,31,Coach Carter,coach_carter,67264877.0,,1445
+2005,32,Herbie Fully Loaded,herbie_fully_loaded,66023816.0,,1472
+2005,33,The Amityville Horror,the_amityville_horror,65233369.0,,1412
+2005,34,Sky High,sky_high,63946815.0,,1490
+2005,35,Bewitched,bewitched,63313159.0,,1366
+2005,36,Jarhead,jarhead,62658220.0,,1537
+2005,37,Cinderella Man,cinderella_man,61649911.0,,1257
+2005,38,Hoodwinked!,hoodwinked,61530390.0,,1629
+2005,39,The Family Stone,the_family_stone,60062868.0,,1268
+2005,40,Red Eye,red_eye,57891803.0,,1552
+2005,41,Memoirs of a Geisha,memoirs_of_geisha,57490508.0,,1460
+2005,42,Wallace & Gromit: The Curse of the Were-Rabbit,wallace_gromit_curse_of_wererabbit,56110897.0,,1106
+2005,43,Be Cool,be_cool,56046979.0,,1381
+2005,44,"Yours, Mine & Ours",yours_mine_ours,53412862.0,,1627
+2005,45,Kicking & Screaming,kicking_screaming,52842724.0,,1409
+2005,46,The Hitchhiker's Guide to the Galaxy,the_hitchhikers_guide_to_galaxy,51085416.0,,1350
+2005,47,Syriana,syriana,50824620.0,,1314
+2005,48,Diary of a Mad Black Woman,diary_of_mad_black_woman,50633099.0,,1555
+2005,49,Just Like Heaven,just_like_heaven,48318130.0,,1565
+2005,50,The Skeleton Key,the_skeleton_key,47907715.0,,1458
+2005,51,Munich,munich,47403685.0,,1501
+2005,52,Kingdom of Heaven,kingdom_of_heaven,47398413.0,,1146
+2005,53,Hostel,hostel,47326473.0,,1649
+2005,54,Nanny McPhee,nanny_mcphee,47144110.0,,1456
+2005,55,Boogeyman,boogeyman,46752382.0,,1273
+2005,56,The Legend of Zorro,the_legend_of_zorro,46464023.0,,1418
+2005,57,Must Love Dogs,must_love_dogs,43894863.0,,1528
+2005,58,Transporter 2,transporter_2,43095856.0,,1431
+2005,59,Fever Pitch,fever_pitch,42071069.0,,1190
+2005,60,The Sisterhood of the Traveling Pants,the_sisterhood_of_traveling_pants,39053061.0,,1483
+2005,61,The Brothers Grimm,the_brothers_grimm,37916267.0,,1261
+2005,62,Derailed,derailed,36024076.0,,1463
+2005,63,The Island,the_island,35818913.0,,1469
+2005,64,The Constant Gardener,the_constant_gardener,33579797.0,,1423
+2005,65,Bad News Bears,bad_news_bears,32868349.0,,1502
+2005,66,Dreamer: Inspired by a True Story,dreamer_inspired_by_true_story,32751093.0,,1534
+2005,67,Because of Winn-Dixie,because_of_winndixie,32647042.0,,1126
+2005,68,Stealth,stealth,32116746.0,,1401
+2005,69,House of Wax,house_of_wax,32064800.0,,1457
+2005,70,The Wedding Date,the_wedding_date,31726995.0,,1353
+2005,71,"Good Night, and Good Luck.",good_night_and_good_luck,31558003.0,,1598
+2005,72,A History of Violence,a_history_of_violence,31504633.0,,1468
+2005,73,Get Rich or Die Tryin',get_rich_or_die_tryin,30985352.0,,1583
+2005,74,The Fog,the_fog,29550869.0,,1594
+2005,75,Zathura: A Space Adventure,zathura_space_adventure,29258869.0,,1496
+2005,76,Rent,rent,29077547.0,,1039
+2005,77,Capote,capote,28750530.0,,1387
+2005,78,Doom,doom,28212337.0,,1540
+2005,79,Elizabethtown,elizabethtown,26850426.0,,1336
+2005,80,Æon Flux,æon_flux,25874337.0,,1478
+2005,81,Serenity,serenity,25514517.0,,1388
+2005,82,Thank You for Smoking,thank_you_for_smoking,24793509.0,,1574
+2005,83,Unleashed,unleashed,24537621.0,,1231
+2005,84,Elektra,elektra,24409722.0,,1271
+2005,85,Lord of War,lord_of_war,24149632.0,,1470
+2005,86,Match Point,match_point,23151529.0,,1525
+2005,87,Two for the Money,two_for_money,22991379.0,,1530
+2005,88,Prime,prime,22827153.0,,1424
+2005,89,Deuce Bigalow: European Gigolo,deuce_bigalow_european_gigolo,22400154.0,,1329
+2005,90,Hustle & Flow,hustle_flow,22202809.0,,1508
+2005,91,A Lot Like Love,a_lot_like_love,21845719.0,,1443
+2005,92,Land of the Dead,land_of_dead,20700082.0,,1538
+2005,93,Assault on Precinct 13,assault_on_precinct_13,20040895.0,,1466
+2005,94,Valiant,valiant,19478106.0,,1288
+2005,95,The Producers,the_producers,19398532.0,,1446
+2005,96,Cursed,cursed,19297522.0,,885
+2005,97,The Upside of Anger,the_upside_of_anger,18761993.0,,1316
+2005,98,North Country,north_country,18337722.0,,1452
+2005,99,Pooh's Heffalump Movie,poohs_heffalump_movie,18098433.0,,1497
+2005,100,The Devil's Rejects,the_devils_rejects,17044981.0,,1450
+2006,1,Pirates of the Caribbean: Dead Man's Chest,pirates_of_caribbean_dead_mans_chest,423315812.0,,1406
+2006,2,Cars,cars,244082982.0,,1128
+2006,3,X-Men: The Last Stand,xmen_last_stand,234362462.0,,1376
+2006,4,The Da Vinci Code,the_da_vinci_code,217536138.0,,1399
+2006,5,300,300,210614939.0,,1526
+2006,6,Superman Returns,superman_returns,200081192.0,,1245
+2006,7,Happy Feet,happy_feet,198000317.0,,1322
+2006,8,Ice Age: The Meltdown,ice_age_meltdown,195330621.0,,1616
+2006,9,Casino Royale,casino_royale,167445960.0,,1394
+2006,10,The Pursuit of Happyness,the_pursuit_of_happyness,163566459.0,,1675
+2006,11,Talladega Nights: The Ballad of Ricky Bobby,talladega_nights_ballad_of_ricky_bobby,148213377.0,,1521
+2006,12,Click,click,137355633.0,,1437
+2006,13,Mission: Impossible III,mission_impossible_iii,134029801.0,,1135
+2006,14,The Departed,the_departed,132384315.0,,1499
+2006,15,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,borat_cultural_learnings_of_america_for_make_benefit_glorious_nation_of_kazakhstan,128505958.0,,1628
+2006,16,The Devil Wears Prada,the_devil_wears_prada,124740460.0,,1696
+2006,17,The Break-Up,the_breakup,118703275.0,,1658
+2006,18,Scary Movie 4,scary_movie_4,90710620.0,,1298
+2006,19,Failure to Launch,failure_to_launch,88715192.0,,1571
+2006,20,Inside Man,inside_man,88513495.0,,1671
+2006,21,Open Season,open_season,85105259.0,,1473
+2006,22,Charlotte's Web,charlottes_web,82985708.0,,1517
+2006,23,The Pink Panther,the_pink_panther,82226474.0,,1404
+2006,24,Eight Below,eight_below,81612565.0,,1459
+2006,25,Saw III,saw_iii,80238724.0,,1782
+2006,26,Nacho Libre,nacho_libre,80197993.0,,1692
+2006,27,"You, Me and Dupree",you_me_and_dupree,75628110.0,,1710
+2006,28,Eragon,eragon,75030163.0,,1643
+2006,29,Monster House,monster_house,73661010.0,,1414
+2006,30,Jackass Number Two,jackass_number_two,72778712.0,,1789
+2006,31,Barnyard,barnyard,72637803.0,,1518
+2006,32,RV,rv,71726025.0,,1646
+2006,33,World Trade Center,world_trade_center,70278893.0,,1727
+2006,34,Rocky Balboa,rocky_balboa,70270943.0,,1756
+2006,35,Big Momma's House 2,big_mommas_house_2,70165972.0,,1554
+2006,36,Step Up,step_up,65328121.0,,1709
+2006,37,Flushed Away,flushed_away,64665672.0,,1560
+2006,38,Deja Vu,deja_vu,64038616.0,,1664
+2006,39,Miami Vice,miami_vice,63450470.0,,1584
+2006,40,Madea's Family Reunion,madeas_family_reunion,63318000.0,,1682
+2006,41,The Holiday,the_holiday,63224849.0,,1694
+2006,42,Poseidon,poseidon,60674817.0,,1504
+2006,43,Little Miss Sunshine,little_miss_sunshine,59891098.0,,1644
+2006,44,The Benchwarmers,the_benchwarmers,59843754.0,,1615
+2006,45,Little Man,little_man,58645052.0,,1582
+2006,46,Curious George,curious_george,58360760.0,,1398
+2006,47,Blood Diamond,blood_diamond,57377916.0,,1648
+2006,48,The Omen,the_omen,54607383.0,,1720
+2006,49,Final Destination 3,final_destination_3,54098051.0,,1519
+2006,50,The Prestige,the_prestige,53089891.0,,1769
+2006,51,The Lake House,the_lake_house,52330111.0,,1509
+2006,52,Apocalypto,apocalypto,50866635.0,,1732
+2006,53,Date Movie,date_movie,48548426.0,,1717
+2006,54,When a Stranger Calls,when_stranger_calls,47860214.0,,1685
+2006,55,Silent Hill,silent_hill,46982632.0,,1408
+2006,56,Lady in the Water,lady_in_water,42285169.0,,1661
+2006,57,The Hills Have Eyes,the_hills_have_eyes,41778863.0,,1670
+2006,58,John Tucker Must Die,john_tucker_must_die,41011711.0,,1687
+2006,59,Stranger Than Fiction,stranger_than_fiction,40660952.0,,1542
+2006,60,The Illusionist,the_illusionist,39868642.0,,1630
+2006,61,The Texas Chainsaw Massacre: The Beginning,the_texas_chainsaw_massacre_beginning,39517763.0,,1545
+2006,62,The Grudge 2,the_grudge_2,39143839.0,,1599
+2006,63,Gridiron Gang,gridiron_gang,38432823.0,,1549
+2006,64,Last Holiday,last_holiday,38399961.0,,1503
+2006,65,Pan's Labyrinth,pans_labyrinth,37634615.0,,1690
+2006,66,The Nativity Story,the_nativity_story,37629831.0,,1805
+2006,67,The Wild,the_wild,37384046.0,,1492
+2006,68,Accepted,accepted,36323505.0,,1411
+2006,69,Smokin' Aces,smokin_aces,35787686.0,,1745
+2006,70,Children of Men,children_of_men,35552383.0,,730
+2006,71,Snakes on a Plane,snakes_on_plane,34020814.0,,1529
+2006,72,She's the Man,shes_man,33741133.0,,1676
+2006,73,Flags of Our Fathers,flags_of_our_fathers,33602376.0,,1535
+2006,74,United 93,united_93,31483450.0,,1742
+2006,75,Employee of the Month,employee_of_month,28444855.0,,1563
+2006,76,The Ant Bully,the_ant_bully,28142535.0,,1579
+2006,77,Crank,crank,27838408.0,,1757
+2006,78,Clerks II,clerks_ii,24148068.0,,1561
+2006,79,The Wicker Man,the_wicker_man,23649127.0,,1652
+2006,80,The Black Dahlia,the_black_dahlia,22545080.0,,1427
+2006,81,ATL,atl,21170563.0,,1718
+2006,82,Flicka,flicka,21000147.0,,1603
+2006,83,Pulse,pulse,20264436.0,,1674
+2006,84,Akeelah and the Bee,akeelah_and_bee,18848430.0,,1614
+2006,85,Aquamarine,aquamarine,18597342.0,,1580
+2006,86,Ultraviolet,ultraviolet,18535812.0,,1346
+2006,87,School for Scoundrels,school_for_scoundrels,17807569.0,,1707
+2006,88,The Last King of Scotland,the_last_king_of_scotland,17606684.0,,1681
+2006,89,Unaccompanied Minors,unaccompanied_minors,16655224.0,,1780
+2006,90,Marie Antoinette,marie_antoinette,15962471.0,,1557
+2006,91,Catch and Release,catch_and_release,15539051.0,,1447
+2006,92,Arthur and the Invisibles,arthur_and_invisibles,15132763.0,,1239
+2006,93,See No Evil,see_no_evil,15032800.0,,1612
+2006,94,Letters from Iwo Jima,letters_from_iwo_jima,13756082.0,,1795
+2006,95,The Namesake,the_namesake,13569248.0,,1601
+2006,96,One Night with the King,one_night_with_king,13395961.0,,1585
+2006,97,Friends with Money,friends_with_money,13368437.0,,1609
+2006,98,Flyboys,flyboys,13090630.0,,1669
+2006,99,The Last Kiss,the_last_kiss,11614790.0,,1602
+2006,100,The Lives of Others,the_lives_of_others,11286112.0,,1488
+2007,1,Spider-Man 3,spiderman_3,336530303.0,,1516
+2007,2,Shrek the Third,shrek_third,322719944.0,,1515
+2007,3,Transformers,transformers,319246193.0,,1533
+2007,4,Pirates of the Caribbean: At World's End,pirates_of_caribbean_at_worlds_end,309420425.0,,1645
+2007,5,Harry Potter and the Order of the Phoenix,harry_potter_and_order_of_phoenix,292353413.0,,1362
+2007,6,I Am Legend,i_am_legend,256393010.0,,1762
+2007,7,The Bourne Ultimatum,the_bourne_ultimatum,227471070.0,,1621
+2007,8,Alvin and the Chipmunks,alvin_and_chipmunks,217326974.0,,1953
+2007,9,Ratatouille,ratatouille,206445654.0,,1400
+2007,10,The Simpsons Movie,the_simpsons_movie,183135014.0,,1708
+2007,11,Knocked Up,knocked_up,148768917.0,,1753
+2007,12,Juno,juno,143495265.0,,1723
+2007,13,Rush Hour 3,rush_hour_3,140125968.0,,1036
+2007,14,Live Free or Die Hard,live_free_or_die_hard,134529403.0,,1215
+2007,15,Fantastic 4: Rise of the Silver Surfer,fantastic_4_rise_of_silver_surfer,131921738.0,,1777
+2007,16,American Gangster,american_gangster,130164645.0,,1810
+2007,17,Enchanted,enchanted,127807262.0,,1700
+2007,18,Bee Movie,bee_movie,126631277.0,,1435
+2007,19,Superbad,superbad,121463226.0,,1882
+2007,20,I Now Pronounce You Chuck & Larry,i_now_pronounce_you_chuck_larry,120059556.0,,1804
+2007,21,Blades of Glory,blades_of_glory,118594548.0,,1636
+2007,22,Ghost Rider,ghost_rider,115802596.0,,894
+2007,23,Paranormal Activity,paranormal_activity,107918810.0,,2148
+2007,24,Evan Almighty,evan_almighty,100462298.0,,1514
+2007,25,Norbit,norbit,95673607.0,,1746
+2007,26,The Bucket List,the_bucket_list,93466502.0,,1879
+2007,27,Beowulf,beowulf,82280579.0,,1624
+2007,28,Disturbia,disturbia,80209692.0,,1779
+2007,29,1408,1408,71985628.0,,1653
+2007,30,The Golden Compass,the_golden_compass,70107728.0,,1413
+2007,31,Charlie Wilson's War,charlie_wilsons_war,66661095.0,,1733
+2007,32,Stomp the Yard,stomp_yard,61356221.0,,1818
+2007,33,TMNT,tmnt,54149098.0,,1666
+2007,34,P.S. I Love You,ps_i_love_you,53695808.0,,1592
+2007,35,3:10 to Yuma,310_to_yuma,53606916.0,,1397
+2007,36,Sweeney Todd: The Demon Barber of Fleet Street,sweeney_todd_demon_barber_of_fleet_street,52898073.0,,1500
+2007,37,This Christmas,this_christmas,49121934.0,,1942
+2007,38,Premonition,premonition,47852604.0,,1747
+2007,39,The Kingdom,the_kingdom,47536778.0,,1591
+2007,40,Shooter,shooter,47003582.0,,1876
+2007,41,There Will Be Blood,there_will_be_blood,40222514.0,,1726
+2007,42,30 Days of Night,30_days_of_night,39569000.0,,1434
+2007,43,Stardust,stardust,38634938.0,,1778
+2007,44,Freedom Writers,freedom_writers,36605602.0,,1711
+2007,45,The Messengers,the_messengers,35374833.0,,1568
+2007,46,The Number 23,the_number_23,35193167.0,,1765
+2007,47,Zodiac,zodiac,33080084.0,,1634
+2007,48,We Own the Night,we_own_night,28563179.0,,1797
+2007,49,Mr. Brooks,mr_brooks,28549298.0,,1824
+2007,50,The Mist,the_mist,25594957.0,,1915
+2007,51,Grindhouse,grindhouse,25037897.0,,1703
+2007,52,Sicko,sicko,24540079.0,,1416
+2007,53,The Hills Have Eyes 2,the_hills_have_eyes_2,20804166.0,,1844
+2007,54,Reno 911!: Miami,reno_911_miami,20342161.0,,1800
+2007,55,Gone Baby Gone,gone_baby_gone,20292962.0,,1660
+2007,56,Reign Over Me,reign_over_me,19661987.0,,1785
+2007,57,Vacancy,vacancy,19363565.0,,1663
+2007,58,Walk Hard: The Dewey Cox Story,walk_hard_dewey_cox_story,18317151.0,,1892
+2007,59,Hostel: Part II,hostel_part_ii,17609452.0,,1794
+2007,60,Dead Silence,dead_silence,16809076.0,,1683
+2007,61,The Invasion,the_invasion,15074191.0,,1572
+2007,62,Lions for Lambs,lions_for_lambs,15002854.0,,1921
+2007,63,Awake,awake,14377198.0,,747
+2007,64,Shoot 'Em Up,shoot_em_up,12807139.0,,1716
+2007,65,I Think I Love My Wife,i_think_i_love_my_wife,12550605.0,,1815
+2007,66,The Darjeeling Limited,the_darjeeling_limited,11902715.0,,1888
+2007,67,Dragon Wars: D-War,dragon_wars_dwar,10977721.0,,1356
+2007,68,La Vie En Rose,la_vie_en_rose,10301706.0,,1647
+2007,69,Pathfinder,pathfinder,10232081.0,,1637
+2007,70,Once,once,9439923.0,,1932
+2007,71,A Mighty Heart,a_mighty_heart,9176787.0,,1881
+2007,72,Death at a Funeral,death_at_funeral,8580428.0,,1838
+2007,73,Code Name: The Cleaner,code_name_cleaner,8135024.0,,1702
+2007,74,Redline,redline,6881022.0,,1825
+2007,75,"Run, Fat Boy, Run",run_fat_boy_run,6003262.0,,1567
+2007,76,Lars and the Real Girl,lars_and_real_girl,5972884.0,,1853
+2007,77,Mongol: The Rise of Genghis Khan,mongol_rise_of_genghis_khan,5705761.0,,1522
+2007,78,Aqua Teen Hunger Force Colon Movie Film for Theaters,aqua_teen_hunger_force_colon_movie_film_for_theaters,5520368.0,,1678
+2007,79,"Lust, Caution",lust_caution,4604982.0,,1855
+2007,80,The Lookout,the_lookout,4600585.0,,1573
+2007,81,Charlie Bartlett,charlie_bartlett,3951699.0,,1559
+2007,82,The Assassination of Jesse James by the Coward Robert Ford,the_assassination_of_jesse_james_by_coward_robert_ford,3909149.0,,1632
+2007,83,Gracie,gracie,2956339.0,,1622
+2007,84,Married Life,married_life,1507990.0,,1851
+2007,85,September Dawn,september_dawn,1066555.0,,1741
+2007,86,The Brothers Solomon,the_brothers_solomon,900926.0,,1828
+2007,87,The Last Mistress,the_last_mistress,785671.0,,1613
+2007,88,Rocket Science,rocket_science,714943.0,,1748
+2007,89,Brooklyn Rules,brooklyn_rules,458232.0,,996
+2007,90,The Last Sin Eater,the_last_sin_eater,388390.0,,1860
+2007,91,Everybody Wants to Be Italian,everybody_wants_to_be_italian,351416.0,,1833
+2007,92,The Life Before Her Eyes,the_life_before_her_eyes,303439.0,,1867
+2007,93,Blood Ties,blood_ties,2760.0,,2064
+2007,94,The Rise and Fall of Miss Thang,the_rise_and_fall_of_miss_thang,581.0,,2007
+2008,1,The Dark Knight,the_dark_knight,535234033.0,,1724
+2008,2,Iron Man,iron_man,318604126.0,,1351
+2008,3,Indiana Jones and the Kingdom of the Crystal Skull,indiana_jones_and_kingdom_of_crystal_skull,317101119.0,,1330
+2008,4,Hancock,hancock,227946274.0,,1641
+2008,5,WALL·E,wall·e,223808164.0,,1934
+2008,6,Kung Fu Panda,kung_fu_panda,215434591.0,,1623
+2008,7,Twilight,twilight,193962473.0,,2082
+2008,8,Madagascar: Escape 2 Africa,madagascar_escape_2_africa,180010950.0,,1758
+2008,9,Quantum of Solace,quantum_of_solace,168368427.0,,1883
+2008,10,Horton Hears a Who!,horton_hears_who,154529439.0,,1656
+2008,11,Sex and the City,sex_and_city,152647258.0,,1992
+2008,12,Gran Torino,gran_torino,148095302.0,,2174
+2008,13,Taken,taken,145000989.0,,1941
+2008,14,Mamma Mia!,mamma_mia,144169664.0,,1839
+2008,15,The Chronicles of Narnia: Prince Caspian,the_chronicles_of_narnia_prince_caspian,141621490.0,,1798
+2008,16,Slumdog Millionaire,slumdog_millionaire,141319928.0,,1996
+2008,17,The Incredible Hulk,the_incredible_hulk,134806913.0,,1845
+2008,18,Wanted,wanted,134508551.0,,1790
+2008,19,Get Smart,get_smart,130319208.0,,1564
+2008,20,The Curious Case of Benjamin Button,the_curious_case_of_benjamin_button,127509326.0,,1553
+2008,21,Four Christmases,four_christmases,120146040.0,,1342
+2008,22,Bolt,bolt,114053579.0,,1462
+2008,23,Tropic Thunder,tropic_thunder,110515313.0,,1945
+2008,24,Bedtime Stories,bedtime_stories,110101975.0,,1959
+2008,25,The Mummy: Tomb of the Dragon Emperor,the_mummy_tomb_of_dragon_emperor,102491776.0,,1901
+2008,26,Journey to the Center of the Earth,journey_to_center_of_earth,101704370.0,,1357
+2008,27,Eagle Eye,eagle_eye,101440743.0,,2053
+2008,28,Step Brothers,step_brothers,100468793.0,,1890
+2008,29,You Don't Mess with the Zohan,you_dont_mess_with_zohan,100018837.0,,1958
+2008,30,Yes Man,yes_man,97690976.0,,2060
+2008,31,"10,000 BC",10000_bc,94784201.0,,1631
+2008,32,High School Musical 3,high_school_musical_3,90559416.0,,1961
+2008,33,Pineapple Express,pineapple_express,87341380.0,,1933
+2008,34,Valkyrie,valkyrie,83077833.0,,1981
+2008,35,21,21,81159365.0,,1750
+2008,36,What Happens in Vegas,what_happens_in_vegas,80277646.0,,2022
+2008,37,Jumper,jumper,80172128.0,,1781
+2008,38,Cloverfield,cloverfield,80048433.0,,2054
+2008,39,The Day the Earth Stood Still,the_day_earth_stood_still,79366978.0,,1968
+2008,40,27 Dresses,27_dresses,76808654.0,,1985
+2008,41,Hellboy II: The Golden Army,hellboy_ii_golden_army,75986503.0,,1512
+2008,42,Vantage Point,vantage_point,72266306.0,,1626
+2008,43,The Spiderwick Chronicles,the_spiderwick_chronicles,71195053.0,,1524
+2008,44,Fool's Gold,fools_gold,70231041.0,,1814
+2008,45,Seven Pounds,seven_pounds,69951824.0,,1865
+2008,46,Role Models,role_models,67294270.0,,1587
+2008,47,The Happening,the_happening,64506874.0,,1952
+2008,48,Forgetting Sarah Marshall,forgetting_sarah_marshall,63172463.0,,1843
+2008,49,Baby Mama,baby_mama,60494212.0,,1907
+2008,50,Burn After Reading,burn_after_reading,60355347.0,,1918
+2008,51,Saw V,saw_v,56746769.0,,2110
+2008,52,The Strangers,the_strangers,52597610.0,,1772
+2008,53,The Tale of Despereaux,the_tale_of_despereaux,50877145.0,,1543
+2008,54,Australia,australia,49554002.0,,1684
+2008,55,The House Bunny,the_house_bunny,48237389.0,,1899
+2008,56,Nim's Island,nims_island,48006762.0,,1510
+2008,57,Made of Honor,made_of_honor,46012734.0,,1905
+2008,58,The Sisterhood of the Traveling Pants 2,the_sisterhood_of_traveling_pants_2,44089964.0,,2006
+2008,59,Speed Racer,speed_racer,43945766.0,,1861
+2008,60,Prom Night,prom_night,43869350.0,,1938
+2008,61,Rambo,rambo,42754105.0,,1706
+2008,62,"Welcome Home, Roscoe Jenkins",welcome_home_roscoe_jenkins,42436517.0,,1793
+2008,63,Max Payne,max_payne,40689393.0,,1721
+2008,64,Righteous Kill,righteous_kill,40081410.0,,2025
+2008,65,Body of Lies,body_of_lies,39394666.0,,1803
+2008,66,Lakeview Terrace,lakeview_terrace,39263506.0,,1949
+2008,67,Harold & Kumar Escape from Guantanamo Bay,harold_kumar_escape_from_guantanamo_bay,38108728.0,,1767
+2008,68,The Secret Life of Bees,the_secret_life_of_bees,37770162.0,,1523
+2008,69,Death Race,death_race,36316032.0,,1659
+2008,70,Changeling,changeling,35739802.0,,1877
+2008,71,The Reader,the_reader,34194407.0,,1971
+2008,72,Fireproof,fireproof,33456317.0,,2103
+2008,73,Doubt,doubt,33446470.0,,1936
+2008,74,The Love Guru,the_love_guru,32235793.0,,1862
+2008,75,Milk,milk,31841299.0,,2000
+2008,76,Quarantine,quarantine,31691811.0,,2073
+2008,77,Nick and Norah's Infinite Playlist,nick_and_norahs_infinite_playlist,31487293.0,,1978
+2008,78,Zack and Miri Make a Porno,zack_and_miri_make_porno,31457946.0,,1995
+2008,79,Leatherheads,leatherheads,31373938.0,,1389
+2008,80,Space Chimps,space_chimps,30105968.0,,1771
+2008,81,Untraceable,untraceable,28687835.0,,1913
+2008,82,Defiance,defiance,28644813.0,,2023
+2008,83,The Women,the_women,26902075.0,,1586
+2008,84,One Missed Call,one_missed_call,26890041.0,,1759
+2008,85,The Other Boleyn Girl,the_other_boleyn_girl,26814957.0,,1722
+2008,86,Street Kings,street_kings,26418667.0,,1548
+2008,87,The Wrestler,the_wrestler,26238243.0,,2097
+2008,88,W.,w,25534493.0,,2141
+2008,89,Never Back Down,never_back_down,24850922.0,,2011
+2008,90,Traitor,traitor,23530831.0,,1984
+2008,91,Revolutionary Road,revolutionary_road,22911480.0,,1957
+2008,92,Babylon A.D.,babylon_ad,22532572.0,,1312
+2008,93,The X Files: I Want to Believe,the_x_files_i_want_to_believe,20982478.0,,1633
+2008,94,Appaloosa,appaloosa,20211394.0,,1846
+2008,95,Igor,igor,19528602.0,,1714
+2008,96,My Best Friend's Girl,my_best_friends_girl,19219250.0,,2038
+2008,97,Frost/Nixon,frostnixon,18622031.0,,1906
+2008,98,Kit Kittredge: An American Girl,kit_kittredge_an_american_girl,17657973.0,,1896
+2008,99,Inkheart,inkheart,17303424.0,,1792
+2008,100,The Hurt Locker,the_hurt_locker,17017811.0,,1919
+2009,1,Avatar,avatar,760507625.0,,1799
+2009,2,Transformers: Revenge of the Fallen,transformers_revenge_of_fallen,402111870.0,,2050
+2009,3,Harry Potter and the Half-Blood Prince,harry_potter_and_halfblood_prince,302305431.0,,1531
+2009,4,The Twilight Saga: New Moon,the_twilight_saga_new_moon,297816253.0,,2247
+2009,5,Up,up,293004164.0,,2043
+2009,6,The Hangover,the_hangover,277322503.0,,2090
+2009,7,Star Trek,star_trek,257730019.0,,1842
+2009,8,The Blind Side,the_blind_side,255959475.0,,1910
+2009,9,Alvin and the Chipmunks: The Squeakquel,alvin_and_chipmunks_squeakquel,219614612.0,,2210
+2009,10,Sherlock Holmes,sherlock_holmes,209028679.0,,1983
+2009,11,Monsters vs. Aliens,monsters_vs_aliens,198351526.0,,1924
+2009,12,Ice Age: Dawn of the Dinosaurs,ice_age_dawn_of_dinosaurs,196573705.0,,2071
+2009,13,X-Men Origins: Wolverine,xmen_origins_wolverine,179883157.0,,1697
+2009,14,Night at the Museum: Battle of the Smithsonian,night_at_museum_battle_of_smithsonian,177243721.0,,2069
+2009,15,2012,2012,166112167.0,,2156
+2009,16,The Proposal,the_proposal,163958031.0,,2032
+2009,17,Fast & Furious,fast_furious,155064265.0,,1999
+2009,18,G.I. Joe: The Rise of Cobra,gi_joe_rise_of_cobra,150201498.0,,2039
+2009,19,Paul Blart: Mall Cop,paul_blart_mall_cop,146336178.0,,2088
+2009,20,A Christmas Carol,a_christmas_carol,137855863.0,,2056
+2009,21,Angels & Demons,angels_demons,133375846.0,,1854
+2009,22,Terminator Salvation,terminator_salvation,125322469.0,,1618
+2009,23,Cloudy with a Chance of Meatballs,cloudy_with_chance_of_meatballs,124870275.0,,1894
+2009,24,Inglourious Basterds,inglourious_basterds,120540719.0,,1295
+2009,25,G-Force,gforce,119436770.0,,1610
+2009,26,District 9,district_9,115646235.0,,2117
+2009,27,It's Complicated,its_complicated,112735375.0,,2209
+2009,28,Couples Retreat,couples_retreat,109204945.0,,2070
+2009,29,Watchmen,watchmen,107509799.0,,1505
+2009,30,The Princess and the Frog,the_princess_and_frog,104400899.0,,1822
+2009,31,Public Enemies,public_enemies,97104620.0,,2130
+2009,32,Julie & Julia,julie_julia,94125426.0,,2115
+2009,33,The Ugly Truth,the_ugly_truth,88915214.0,,2122
+2009,34,Up in the Air,up_in_air,83823381.0,,2160
+2009,35,Knowing,knowing,79957634.0,,1639
+2009,36,Where the Wild Things Are,where_wild_things_are,77233467.0,,1417
+2009,37,Zombieland,zombieland,75590286.0,,2134
+2009,38,Coraline,coraline,75286229.0,,1174
+2009,39,Law Abiding Citizen,law_abiding_citizen,73357727.0,,2167
+2009,40,Obsessed,obsessed,68261644.0,,2169
+2009,41,The Final Destination,the_final_destination,66477700.0,,2123
+2009,42,The Taking of Pelham 123,the_taking_of_pelham_123,65452312.0,,2087
+2009,43,Friday the 13th,friday_13th,65002019.0,,1801
+2009,44,The Time Traveler's Wife,the_time_travelers_wife,63414846.0,,1662
+2009,45,Bride Wars,bride_wars,58715510.0,,1929
+2009,46,Funny People,funny_people,51855045.0,,2170
+2009,47,My Bloody Valentine,my_bloody_valentine,51545952.0,,2147
+2009,48,Old Dogs,old_dogs,49492060.0,,1972
+2009,49,Land of the Lost,land_of_lost,49438370.0,,1689
+2009,50,My Sister's Keeper,my_sisters_keeper,49200230.0,,2068
+2009,51,Precious,precious,47566524.0,,1939
+2009,52,Underworld: Rise of the Lycans,underworld_rise_of_lycans,45802315.0,,1885
+2009,53,The Lovely Bones,the_lovely_bones,44114232.0,,1391
+2009,54,Year One,year_one,43337279.0,,2037
+2009,55,The Unborn,the_unborn,42670410.0,,2120
+2009,56,Planet 51,planet_51,42194060.0,,1806
+2009,57,Drag Me to Hell,drag_me_to_hell,42100625.0,,2101
+2009,58,Duplicity,duplicity,40572825.0,,2114
+2009,59,Crazy Heart,crazy_heart,39464306.0,,2250
+2009,60,Surrogates,surrogates,38577772.0,,1982
+2009,61,Ninja Assassin,ninja_assassin,38122883.0,,2152
+2009,62,Invictus,invictus,37491364.0,,2051
+2009,63,Notorious,notorious,36843682.0,,1737
+2009,64,The Pink Panther 2,the_pink_panther_2,35922978.0,,1889
+2009,65,Halloween II,halloween_ii,33392973.0,,2295
+2009,66,The Informant!,the_informant,33316821.0,,2105
+2009,67,The Men Who Stare at Goats,the_men_who_stare_at_goats,32428195.0,,2220
+2009,68,500 Days of Summer,500_days_of_summer,32391374.0,,2010
+2009,69,Push,push,31811527.0,,1715
+2009,70,9,9,31749894.0,,1731
+2009,71,Daybreakers,daybreakers,30101577.0,,1597
+2009,72,Did You Hear About the Morgans?,did_you_hear_about_morgans,29580087.0,,2296
+2009,73,The Stepfather,the_stepfather,29062561.0,,1866
+2009,74,Brothers,brothers,28544157.0,,1808
+2009,75,Saw VI,saw_vi,27693292.0,,2219
+2009,76,Brooklyn's Finest,brooklyns_finest,27163593.0,,2179
+2009,77,Dance Flick,dance_flick,25662155.0,,2131
+2009,78,The International,the_international,25450527.0,,1963
+2009,79,Aliens in the Attic,aliens_in_attic,25200412.0,,1819
+2009,80,Observe and Report,observe_and_report,24007324.0,,2168
+2009,81,Love Happens,love_happens,22965110.0,,1928
+2009,82,Fame,fame,22455510.0,,2002
+2009,83,Fantastic Mr. Fox,fantastic_mr_fox,21002919.0,,1593
+2009,84,Nine,nine,19676965.0,,1909
+2009,85,Astro Boy,astro_boy,19551067.0,,1371
+2009,86,Oceans,oceans,19422319.0,,1809
+2009,87,The Invention of Lying,the_invention_of_lying,18451251.0,,2052
+2009,88,Fired Up!,fired_up,17231291.0,,2075
+2009,89,Splice,splice,17010170.0,,2004
+2009,90,Jennifer's Body,jennifers_body,16204793.0,,2108
+2009,91,Imagine That,imagine_that,16123323.0,,1823
+2009,92,Armored,armored,15988876.0,,1935
+2009,93,A Perfect Getaway,a_perfect_getaway,15515460.0,,1970
+2009,94,Youth in Revolt,youth_in_revolt,15281286.0,,1484
+2009,95,"The Goods: Live Hard, Sell Hard",the_goods_live_hard_sell_hard,15122676.0,,2079
+2009,96,The Box,the_box,15051977.0,,1303
+2009,97,"I Love You, Beth Cooper",i_love_you_beth_cooper,14800725.0,,2021
+2009,98,Capitalism: A Love Story,capitalism_love_story,14363397.0,,2214
+2009,99,Amelia,amelia,14246488.0,,2104
+2009,100,Cirque du Freak: The Vampire's Assistant,cirque_du_freak_vampires_assistant,13869515.0,,1654
+2010,1,Toy Story 3,toy_story_3,415004880.0,,1608
+2010,2,Alice in Wonderland,alice_in_wonderland,334191110.0,,2001
+2010,3,Iron Man 2,iron_man_2,312433331.0,,2204
+2010,4,The Twilight Saga: Eclipse,the_twilight_saga_eclipse,300531751.0,,2310
+2010,5,Inception,inception,292576195.0,,2335
+2010,6,Despicable Me,despicable_me,251513985.0,,2308
+2010,7,Shrek Forever After,shrek_forever_after,238736787.0,,1925
+2010,8,How to Train Your Dragon,how_to_train_your_dragon,217581231.0,,1923
+2010,9,Tangled,tangled,200821936.0,,1465
+2010,10,The Karate Kid,the_karate_kid,176591618.0,,2132
+2010,11,TRON: Legacy,tron_legacy,172062763.0,,2084
+2010,12,True Grit,true_grit,171243005.0,,2360
+2010,13,Clash of the Titans,clash_of_titans,163214888.0,,1847
+2010,14,Grown Ups,grown_ups,162001186.0,,2336
+2010,15,Little Fockers,little_fockers,148438600.0,,1969
+2010,16,Megamind,megamind,148415853.0,,1993
+2010,17,The King's Speech,the_kings_speech,138797449.0,,2436
+2010,18,The Last Airbender,the_last_airbender,131772187.0,,1943
+2010,19,Shutter Island,shutter_island,128012934.0,,2106
+2010,20,The Other Guys,the_other_guys,119219978.0,,2340
+2010,21,Salt,salt,118311368.0,,1946
+2010,22,Jackass 3D,jackass_3d,117229692.0,,2089
+2010,23,Valentine's Day,valentines_day,110485654.0,,1874
+2010,24,Black Swan,black_swan,106954678.0,,1948
+2010,25,Robin Hood,robin_hood,105269730.0,,1956
+2010,26,The Chronicles of Narnia: The Voyage of the Dawn Treader,the_chronicles_of_narnia_voyage_of_dawn_treader,104386950.0,,1977
+2010,27,The Expendables,the_expendables,103068524.0,,2301
+2010,28,Due Date,due_date,100539043.0,,2211
+2010,29,Yogi Bear,yogi_bear,100246011.0,,2289
+2010,30,Date Night,date_night,98711404.0,,2264
+2010,31,The Social Network,the_social_network,96962694.0,,2267
+2010,32,Sex and the City 2,sex_and_city_2,95347692.0,,2248
+2010,33,The Book of Eli,the_book_of_eli,94835059.0,,2028
+2010,34,The Fighter,the_fighter,93617009.0,,1965
+2010,35,The Town,the_town,92186262.0,,1891
+2010,36,Prince of Persia: The Sands of Time,prince_of_persia_sands_of_time,90759676.0,,1740
+2010,37,RED,red,90380162.0,,2236
+2010,38,Percy Jackson & the Olympians: The Lightning Thief,percy_jackson_olympians_lightning_thief,88768303.0,,1864
+2010,39,Paranormal Activity 2,paranormal_activity_2,84752907.0,,2455
+2010,40,Unstoppable,unstoppable,81562942.0,,1749
+2010,41,Eat Pray Love,eat_pray_love,80574010.0,,1912
+2010,42,Dear John,dear_john,80014842.0,,1986
+2010,43,The A-Team,the_ateam,77222099.0,,1577
+2010,44,Knight and Day,knight_and_day,76423035.0,,1998
+2010,45,Dinner for Schmucks,dinner_for_schmucks,73026337.0,,1570
+2010,46,The Tourist,the_tourist,67631157.0,,2231
+2010,47,The Bounty Hunter,the_bounty_hunter,67061228.0,,2030
+2010,48,Diary of a Wimpy Kid,diary_of_wimpy_kid,64003625.0,,2166
+2010,49,The Sorcerer's Apprentice,the_sorcerers_apprentice,63150991.0,,1964
+2010,50,A Nightmare on Elm Street,a_nightmare_on_elm_street,63075011.0,,2145
+2010,51,The Last Song,the_last_song,62950384.0,,2280
+2010,52,The Wolfman,the_wolfman,61979680.0,,1826
+2010,53,Get Him to the Greek,get_him_to_greek,60974475.0,,2200
+2010,54,Resident Evil: Afterlife,resident_evil_afterlife,60128566.0,,2197
+2010,55,Why Did I Get Married Too?,why_did_i_get_married_too,60095852.0,,2346
+2010,56,Tooth Fairy,tooth_fairy,60022256.0,,1856
+2010,57,Secretariat,secretariat,59713955.0,,2017
+2010,58,Easy A,easy_a,58401464.0,,2265
+2010,59,Takers,takers,57744720.0,,2113
+2010,60,Legend of the Guardians: The Owls of Ga'Hoole,legend_of_guardians_owls_of_gahoole,55675313.0,,2195
+2010,61,Insidious,insidious,54009150.0,,2490
+2010,62,Life as We Know It,life_as_we_know_it,53374681.0,,2049
+2010,63,Letters to Juliet,letters_to_juliet,53032453.0,,1922
+2010,64,Wall Street: Money Never Sleeps,wall_street_money_never_sleeps,52474616.0,,2015
+2010,65,Predators,predators,52000688.0,,2380
+2010,66,Hot Tub Time Machine,hot_tub_time_machine,50287556.0,,2212
+2010,67,Kick-Ass,kickass,48071303.0,,2239
+2010,68,Killers,killers,47059963.0,,2083
+2010,69,Saw: The Final Chapter,saw_final_chapter,45710178.0,,2415
+2010,70,Cop Out,cop_out,44875481.0,,2339
+2010,71,Cats & Dogs: The Revenge of Kitty Galore,cats_dogs_revenge_of_kitty_galore,43585753.0,,2269
+2010,72,Edge of Darkness,edge_of_darkness,43313890.0,,2202
+2010,73,Gulliver's Travels,gullivers_travels,42779261.0,,2302
+2010,74,Death at a Funeral,death_at_funeral,42739347.0,,2303
+2010,75,Step Up 3D,step_up_3d,42400223.0,,2161
+2010,76,The Last Exorcism,the_last_exorcism,41034350.0,,2300
+2010,77,Legion,legion,40168080.0,,2029
+2010,78,Burlesque,burlesque,39440655.0,,2099
+2010,79,The Crazies,the_crazies,39123589.0,,1679
+2010,80,For Colored Girls,for_colored_girls,37729698.0,,2362
+2010,81,The Back-up Plan,the_backup_plan,37490007.0,,2186
+2010,82,Vampires Suck,vampires_suck,36661504.0,,2560
+2010,83,The American,the_american,35606376.0,,2395
+2010,84,Green Zone,green_zone,35053660.0,,1950
+2010,85,Marmaduke,marmaduke,33644788.0,,2349
+2010,86,Hereafter,hereafter,32746941.0,,2185
+2010,87,Love & Other Drugs,love_other_drugs,32367005.0,,1802
+2010,88,She's Out of My League,shes_out_of_my_league,32010860.0,,1868
+2010,89,Scott Pilgrim vs. the World,scott_pilgrim_vs_world,31524275.0,,1638
+2010,90,The Debt,the_debt,31177548.0,,2203
+2010,91,Charlie St. Cloud,charlie_st_cloud,31162545.0,,2393
+2010,92,Morning Glory,morning_glory,31011732.0,,2100
+2010,93,How Do You Know,how_do_you_know,30212620.0,,2320
+2010,94,Nanny McPhee Returns,nanny_mcphee_returns,29011215.0,,2375
+2010,95,The Switch,the_switch,27779426.0,,1920
+2010,96,Machete,machete,26593646.0,,1980
+2010,97,Ramona and Beezus,ramona_and_beezus,26167002.0,,1791
+2010,98,Leap Year,leap_year,25918920.0,,2191
+2010,99,You Again,you_again,25702053.0,,2374
+2010,100,Piranha 3D,piranha_3d,25003155.0,,1712
+2011,1,Transformers: Dark of the Moon,transformers_dark_of_moon,352390543.0,,2356
+2011,2,The Twilight Saga: Breaking Dawn - Part 1,the_twilight_saga_breaking_dawn_part_1,281287133.0,,2309
+2011,3,The Hangover Part II,the_hangover_part_ii,254464305.0,,2370
+2011,4,Pirates of the Caribbean: On Stranger Tides,pirates_of_caribbean_on_stranger_tides,241071802.0,,2284
+2011,5,Fast Five,fast_five,209837675.0,,2493
+2011,6,Mission: Impossible - Ghost Protocol,mission_impossible_ghost_protocol,209397903.0,,2206
+2011,7,Cars 2,cars_2,191452396.0,,2190
+2011,8,Thor,thor,181030624.0,,1848
+2011,9,Rise of the Planet of the Apes,rise_of_planet_of_apes,176760185.0,,2299
+2011,10,Captain America: The First Avenger,captain_america_first_avenger,176654505.0,,1695
+2011,11,The Help,the_help,169708112.0,,2401
+2011,12,Bridesmaids,bridesmaids,169106725.0,,2416
+2011,13,Kung Fu Panda 2,kung_fu_panda_2,165249063.0,,2288
+2011,14,Puss in Boots,puss_in_boots,149260504.0,,1642
+2011,15,X-Men: First Class,xmen_first_class,146408305.0,,2258
+2011,16,Rio,rio,143619809.0,,2391
+2011,17,The Smurfs,the_smurfs,142614158.0,,1736
+2011,18,Alvin and the Chipmunks: Chipwrecked,alvin_and_chipmunks_chipwrecked,133110742.0,,2515
+2011,19,Super 8,super_8,127004179.0,,2548
+2011,20,Rango,rango,123477607.0,,2159
+2011,21,Horrible Bosses,horrible_bosses,117538559.0,,2432
+2011,22,Green Lantern,green_lantern,116601172.0,,2111
+2011,23,Hop,hop,108085305.0,,2371
+2011,24,Paranormal Activity 3,paranormal_activity_3,104028807.0,,2611
+2011,25,Just Go with It,just_go_with_it,103028109.0,,2474
+2011,26,The Girl with the Dragon Tattoo,the_girl_with_dragon_tattoo,102515793.0,,2477
+2011,27,Bad Teacher,bad_teacher,100292856.0,,2266
+2011,28,Cowboys & Aliens,cowboys_aliens,100240551.0,,1507
+2011,29,The Green Hornet,the_green_hornet,98780042.0,,1987
+2011,30,The Muppets,the_muppets,88631237.0,,2171
+2011,31,"Crazy, Stupid, Love.",crazy_stupid_love,84351197.0,,2479
+2011,32,Battle Los Angeles,battle_los_angeles,83552429.0,,2193
+2011,33,Immortals,immortals,83504017.0,,2243
+2011,34,Zookeeper,zookeeper,80360843.0,,2198
+2011,35,War Horse,war_horse,79884879.0,,2478
+2011,36,Limitless,limitless,79249455.0,,2194
+2011,37,Tower Heist,tower_heist,78046570.0,,1730
+2011,38,Contagion,contagion,75658097.0,,2497
+2011,39,Moneyball,moneyball,75605492.0,,2181
+2011,40,Jack and Jill,jack_and_jill,74158157.0,,1859
+2011,41,Justin Bieber: Never Say Never,justin_bieber_never_say_never,73013910.0,,2580
+2011,42,Dolphin Tale,dolphin_tale,72286779.0,,2473
+2011,43,No Strings Attached,no_strings_attached,70662220.0,,2367
+2011,44,Mr. Popper's Penguins,mr_poppers_penguins,68224452.0,,2351
+2011,45,Unknown,unknown,63686397.0,,2358
+2011,46,The Adjustment Bureau,the_adjustment_bureau,62495645.0,,2338
+2011,47,Water for Elephants,water_for_elephants,58709717.0,,2057
+2011,48,The Lincoln Lawyer,the_lincoln_lawyer,58009200.0,,2155
+2011,49,Midnight in Paris,midnight_in_paris,56817045.0,,2508
+2011,50,Friends with Benefits,friends_with_benefits,55802754.0,,2532
+2011,51,I Am Number Four,i_am_number_four,55100437.0,,2409
+2011,52,Source Code,source_code,54712227.0,,1947
+2011,53,New Year's Eve,new_years_eve,54544638.0,,2498
+2011,54,Diary of a Wimpy Kid: Rodrick Rules,diary_of_wimpy_kid_rodrick_rules,52698535.0,,2547
+2011,55,Footloose,footloose,51802742.0,,2059
+2011,56,Ghost Rider: Spirit of Vengeance,ghost_rider_spirit_of_vengeance,51774002.0,,2061
+2011,57,The Grey,the_grey,51580236.0,,2503
+2011,58,The Dilemma,the_dilemma,48475290.0,,2481
+2011,59,The Best Exotic Marigold Hotel,the_best_exotic_marigold_hotel,46412041.0,,2372
+2011,60,Hall Pass,hall_pass,45060734.0,,1764
+2011,61,The Artist,the_artist,44671682.0,,2552
+2011,62,Soul Surfer,soul_surfer,43853424.0,,2494
+2011,63,Final Destination 5,final_destination_5,42587643.0,,2524
+2011,64,Hanna,hanna,40259119.0,,1988
+2011,65,Something Borrowed,something_borrowed,39046489.0,,1786
+2011,66,Spy Kids 4-D: All the Time in the World,spy_kids_4d_all_time_in_world,38538188.0,,2442
+2011,67,Scream 4,scream_4,38180928.0,,2249
+2011,68,"Big Mommas: Like Father, Like Son",big_mommas_like_father_like_son,37915414.0,,2408
+2011,69,Red Riding Hood,red_riding_hood,37662162.0,,2422
+2011,70,In Time,in_time,37520095.0,,2536
+2011,71,Paul,paul,37412945.0,,2078
+2011,72,J. Edgar,j_edgar,37306030.0,,2516
+2011,73,The Roommate,the_roommate,37300000.0,,2251
+2011,74,Jumping the Broom,jumping_broom,37295394.0,,2540
+2011,75,The Change-Up,the_changeup,37081475.0,,2425
+2011,76,30 Minutes or Less,30_minutes_or_less,37053924.0,,2523
+2011,77,Colombiana,colombiana,36665854.0,,2553
+2011,78,Sucker Punch,sucker_punch,36392502.0,,1975
+2011,79,Larry Crowne,larry_crowne,35608245.0,,2483
+2011,80,Drive,drive,35061555.0,,1820
+2011,81,A Very Harold & Kumar 3D Christmas,a_very_harold_kumar_3d_christmas,35061031.0,,2253
+2011,82,50/50,5050,35014192.0,,2292
+2011,83,Courageous,courageous,34522221.0,,2530
+2011,84,The Rite,the_rite,33047633.0,,2136
+2011,85,Arthur,arthur,33035397.0,,2314
+2011,86,The Sitter,the_sitter,30441326.0,,2332
+2011,87,Priest,priest,29137000.0,,1875
+2011,88,The Mechanic,the_mechanic,29121498.0,,1738
+2011,89,Abduction,abduction,28087155.0,,2501
+2011,90,Beastly,beastly,27865571.0,,2128
+2011,91,Winnie the Pooh,winnie_pooh,26692846.0,,2400
+2011,92,Killer Elite,killer_elite,25124966.0,,2399
+2011,93,Season of the Witch,season_of_witch,24827228.0,,1760
+2011,94,Our Idiot Brother,our_idiot_brother,24816118.0,,2537
+2011,95,Sanctum,sanctum,23209310.0,,1914
+2011,96,Monte Carlo,monte_carlo,23186769.0,,2058
+2011,97,Your Highness,your_highness,21596445.0,,2229
+2011,98,The Darkest Hour,the_darkest_hour,21443494.0,,2080
+2011,99,Mars Needs Moms,mars_needs_moms,21392758.0,,2291
+2011,100,Dream House,dream_house,21302340.0,,2406
+2012,1,The Avengers,the_avengers,623357910.0,,1897
+2012,2,The Dark Knight Rises,the_dark_knight_rises,448139099.0,,2323
+2012,3,The Hunger Games,the_hunger_games,408010692.0,,2347
+2012,4,Skyfall,skyfall,304360277.0,,2062
+2012,5,The Twilight Saga: Breaking Dawn - Part 2,the_twilight_saga_breaking_dawn_part_2,292324737.0,,2565
+2012,6,The Amazing Spider-Man,the_amazing_spiderman,262030663.0,,1951
+2012,7,Brave,brave,237283207.0,,2192
+2012,8,Ted,ted,218815487.0,,2538
+2012,9,Madagascar 3: Europe's Most Wanted,madagascar_3_europes_most_wanted,216391482.0,,2263
+2012,10,The Lorax,the_lorax,214030500.0,,2419
+2012,11,Wreck-It Ralph,wreckit_ralph,189422889.0,,2610
+2012,12,Lincoln,lincoln,182207973.0,,1625
+2012,13,Men in Black 3,men_in_black_3,179020854.0,,2366
+2012,14,Django Unchained,django_unchained,162805434.0,,2638
+2012,15,Ice Age: Continental Drift,ice_age_continental_drift,161321843.0,,2563
+2012,16,Snow White and the Huntsman,snow_white_and_huntsman,155332381.0,,2594
+2012,17,Les Misérables,les_misérables,148809770.0,,2582
+2012,18,Hotel Transylvania,hotel_transylvania,148313048.0,,1886
+2012,19,Taken 2,taken_2,139854287.0,,2353
+2012,20,21 Jump Street,21_jump_street,138447667.0,,2217
+2012,21,Argo,argo,136025503.0,,2013
+2012,22,Silver Linings Playbook,silver_linings_playbook,132092958.0,,2035
+2012,23,Prometheus,prometheus,126477084.0,,2398
+2012,24,Safe House,safe_house,126373434.0,,2500
+2012,25,The Vow,the_vow,125014030.0,,2510
+2012,26,Life of Pi,life_of_pi,124987023.0,,1672
+2012,27,Magic Mike,magic_mike,113721571.0,,2656
+2012,28,The Bourne Legacy,the_bourne_legacy,113203870.0,,2162
+2012,29,Journey 2: The Mysterious Island,journey_2_mysterious_island,103860290.0,,2354
+2012,30,Rise of the Guardians,rise_of_guardians,103412758.0,,2397
+2012,31,Zero Dark Thirty,zero_dark_thirty,95720716.0,,2614
+2012,32,Flight,flight,93772375.0,,2653
+2012,33,Think Like a Man,think_like_man,91547205.0,,2522
+2012,34,The Expendables 2,the_expendables_2,85028192.0,,2607
+2012,35,Wrath of the Titans,wrath_of_titans,83670083.0,,2544
+2012,36,Jack Reacher,jack_reacher,80070736.0,,1835
+2012,37,Dark Shadows,dark_shadows,79727149.0,,2067
+2012,38,Parental Guidance,parental_guidance,77267296.0,,2041
+2012,39,John Carter,john_carter,73078100.0,,1475
+2012,40,Act of Valor,act_of_valor,70012847.0,,2491
+2012,41,This Is 40,this_is_40,67544505.0,,2604
+2012,42,Contraband,contraband,66528000.0,,2446
+2012,43,Looper,looper,66486205.0,,2262
+2012,44,Madea's Witness Protection,madeas_witness_protection,65653242.0,,2749
+2012,45,Battleship,battleship,65422625.0,,2394
+2012,46,Pitch Perfect,pitch_perfect,65001093.0,,2687
+2012,47,Mirror Mirror,mirror_mirror,64935167.0,,2562
+2012,48,Chronicle,chronicle,64575175.0,,2581
+2012,49,Underworld Awakening,underworld_awakening,62321039.0,,2430
+2012,50,The Dictator,the_dictator,59650222.0,,2542
+2012,51,Total Recall,total_recall,58877969.0,,2342
+2012,52,American Reunion,american_reunion,57011521.0,,2506
+2012,53,ParaNorman,paranorman,56003051.0,,2526
+2012,54,This Means War,this_means_war,54760791.0,,2495
+2012,55,Paranormal Activity 4,paranormal_activity_4,53885000.0,,2723
+2012,56,The Devil Inside,the_devil_inside,53261944.0,,2468
+2012,57,Red Tails,red_tails,49876377.0,,1774
+2012,58,The Possession,the_possession,49130154.0,,1588
+2012,59,Diary of a Wimpy Kid: Dog Days,diary_of_wimpy_kid_dog_days,49008662.0,,2699
+2012,60,Sinister,sinister,48086903.0,,2659
+2012,61,Savages,savages,47382068.0,,2512
+2012,62,Moonrise Kingdom,moonrise_kingdom,45512466.0,,2599
+2012,63,Red Dawn,red_dawn,44806783.0,,2221
+2012,64,The Three Stooges,the_three_stooges,44338224.0,,1402
+2012,65,Resident Evil: Retribution,resident_evil_retribution,42345531.0,,2641
+2012,66,What to Expect When You're Expecting,what_to_expect_when_youre_expecting,41152203.0,,2486
+2012,67,End of Watch,end_of_watch,41003371.0,,2640
+2012,68,Rock of Ages,rock_of_ages,38518613.0,,2316
+2012,69,Abraham Lincoln: Vampire Hunter,abraham_lincoln_vampire_hunter,37519139.0,,2511
+2012,70,The Guilt Trip,the_guilt_trip,37134215.0,,2574
+2012,71,That's My Boy,thats_my_boy,36931089.0,,2213
+2012,72,The Watch,the_watch,35353000.0,,2283
+2012,73,Frankenweenie,frankenweenie,35291068.0,,2121
+2012,74,Step Up Revolution,step_up_revolution,35074677.0,,2620
+2012,75,House at the End of the Street,house_at_end_of_street,31611916.0,,2482
+2012,76,The Pirates! Band of Misfits,the_pirates_band_of_misfits,31051126.0,,2386
+2012,77,The Five-Year Engagement,the_fiveyear_engagement,28835528.0,,2165
+2012,78,One for the Money,one_for_money,26414527.0,,2499
+2012,79,Alex Cross,alex_cross,25888412.0,,2585
+2012,80,Katy Perry: Part of Me,katy_perry_part_of_me,25326071.0,,2750
+2012,81,Sparkle,sparkle,24397469.0,,2648
+2012,82,The Place Beyond the Pines,the_place_beyond_pines,21403519.0,,2624
+2012,83,Premium Rush,premium_rush,20275446.0,,2462
+2012,84,Big Miracle,big_miracle,20157300.0,,2385
+2012,85,Man on a Ledge,man_on_ledge,18620000.0,,2476
+2012,86,A Thousand Words,a_thousand_words,18450127.0,,1807
+2012,87,Silent Hill: Revelation,silent_hill_revelation,17529157.0,,1944
+2012,88,The Raven,the_raven,16008272.0,,2423
+2012,89,The Man with the Iron Fists,the_man_with_iron_fists,15634090.0,,2246
+2012,90,Killing Them Softly,killing_them_softly,15026056.0,,2606
+2012,91,Seven Psychopaths,seven_psychopaths,15024049.0,,2664
+2012,92,Lockout,lockout,14326864.0,,2492
+2012,93,Spring Breakers,spring_breakers,14124284.0,,2719
+2012,94,Hit and Run,hit_and_run,13749300.0,,2718
+2012,95,Dredd,dredd,13414714.0,,2322
+2012,96,People Like Us,people_like_us,12434778.0,,2587
+2012,97,The Words,the_words,11494838.0,,2634
+2012,98,Fun Size,fun_size,9409538.0,,2556
+2012,99,Seeking a Friend for the End of the World,seeking_friend_for_end_of_world,7078738.0,,2293
+2012,100,Amour,amour,6739492.0,,2504
+2013,1,The Hunger Games: Catching Fire,the_hunger_games_catching_fire,424668047.0,,2670
+2013,2,Iron Man 3,iron_man_3,409013994.0,,2286
+2013,3,Frozen,frozen,400738009.0,,2778
+2013,4,Despicable Me 2,despicable_me_2,368065385.0,,2572
+2013,5,Man of Steel,man_of_steel,291045518.0,,1816
+2013,6,Gravity,gravity,274092705.0,,2402
+2013,7,Fast & Furious 6,fast_furious_6,238679850.0,,2652
+2013,8,Oz the Great and Powerful,oz_great_and_powerful,234911825.0,,2525
+2013,9,Star Trek Into Darkness,star_trek_into_darkness,228778661.0,,2364
+2013,10,Thor: The Dark World,thor_dark_world,206362140.0,,2685
+2013,11,World War Z,world_war_z,202359711.0,,1872
+2013,12,The Croods,the_croods,187168425.0,,1766
+2013,13,The Heat,the_heat,159582188.0,,2818
+2013,14,We're the Millers,were_millers,150394119.0,,2588
+2013,15,American Hustle,american_hustle,150117807.0,,2618
+2013,16,The Great Gatsby,the_great_gatsby,144840419.0,,2321
+2013,17,The Conjuring,the_conjuring,137400141.0,,2403
+2013,18,Identity Thief,identity_thief,134506920.0,,2701
+2013,19,Grown Ups 2,grown_ups_2,133668525.0,,2743
+2013,20,The Wolverine,the_wolverine,132556852.0,,2383
+2013,21,Anchorman 2: The Legend Continues,anchorman_2_legend_continues,127352707.0,,2207
+2013,22,Lone Survivor,lone_survivor,125095601.0,,2077
+2013,23,G.I. Joe: Retaliation,gi_joe_retaliation,122523060.0,,2484
+2013,24,Cloudy with a Chance of Meatballs 2,cloudy_with_chance_of_meatballs_2,119793567.0,,2689
+2013,25,Now You See Me,now_you_see_me,117723989.0,,2564
+2013,26,The Wolf of Wall Street,the_wolf_of_wall_street,116900694.0,,1989
+2013,27,Lee Daniels' The Butler,lee_daniels_butler,116632095.0,,2311
+2013,28,The Hangover Part III,the_hangover_part_iii,112200072.0,,2669
+2013,29,Epic,epic,107518682.0,,1898
+2013,30,Captain Phillips,captain_phillips,107100855.0,,2454
+2013,31,Bad Grandpa,bad_grandpa,102003019.0,,2910
+2013,32,Pacific Rim,pacific_rim,101802906.0,,2558
+2013,33,This Is the End,this_is_end,101470202.0,,2235
+2013,34,Olympus Has Fallen,olympus_has_fallen,98925640.0,,2780
+2013,35,42,42,95020213.0,,1667
+2013,36,Elysium,elysium,93050117.0,,2453
+2013,37,Planes,planes,90288712.0,,2573
+2013,38,The Lone Ranger,the_lone_ranger,89302115.0,,2182
+2013,39,Oblivion,oblivion,89107235.0,,2420
+2013,40,Insidious: Chapter 2,insidious_chapter_2,83586447.0,,2752
+2013,41,Saving Mr. Banks,saving_mr_banks,83301580.0,,2731
+2013,42,Turbo,turbo,83028128.0,,2644
+2013,43,2 Guns,2_guns,75612460.0,,2259
+2013,44,White House Down,white_house_down,73103784.0,,2788
+2013,45,Mama,mama,71628180.0,,2700
+2013,46,Safe Haven,safe_haven,71349120.0,,2579
+2013,47,The Smurfs 2,the_smurfs_2,71017784.0,,2698
+2013,48,The Best Man Holiday,the_best_man_holiday,70525195.0,,2712
+2013,49,Percy Jackson: Sea of Monsters,percy_jackson_sea_of_monsters,68559554.0,,2639
+2013,50,A Good Day to Die Hard,a_good_day_to_die_hard,67349198.0,,2509
+2013,51,Warm Bodies,warm_bodies,66380662.0,,2489
+2013,52,Jack the Giant Slayer,jack_giant_slayer,65187603.0,,2325
+2013,53,The Purge,the_purge,64473115.0,,2742
+2013,54,Last Vegas,last_vegas,63914167.0,,2172
+2013,55,Ender's Game,enders_game,61737191.0,,2591
+2013,56,Prisoners,prisoners,61002302.0,,2350
+2013,57,After Earth,after_earth,60522097.0,,2623
+2013,58,The Secret Life of Walter Mitty,the_secret_life_of_walter_mitty,58236838.0,,1281
+2013,59,Escape from Planet Earth,escape_from_planet_earth,57012977.0,,1811
+2013,60,12 Years a Slave,12_years_slave,56671993.0,,2703
+2013,61,Free Birds,free_birds,55750480.0,,2521
+2013,62,Hansel & Gretel: Witch Hunters,hansel_gretel_witch_hunters,55703475.0,,2382
+2013,63,Evil Dead,evil_dead,54239856.0,,2270
+2013,64,RED 2,red_2,53262560.0,,2627
+2013,65,The Call,the_call,51872378.0,,2654
+2013,66,Pain & Gain,pain_gain,49875291.0,,2684
+2013,67,Gangster Squad,gangster_squad,46000903.0,,2306
+2013,68,The Internship,the_internship,44672764.0,,2756
+2013,69,Riddick,riddick,42025135.0,,2368
+2013,70,A Haunted House,a_haunted_house,40041683.0,,2760
+2013,71,47 Ronin,47_ronin,38362475.0,,2315
+2013,72,Philomena,philomena,37709979.0,,2820
+2013,73,The Family,the_family,36918811.0,,2815
+2013,74,Walking with Dinosaurs 3D,walking_with_dinosaurs_3d,36076121.0,,2605
+2013,75,Carrie,carrie,35266619.0,,2666
+2013,76,R.I.P.D.,ripd,33618855.0,,1836
+2013,77,Scary Movie 5,scary_movie_5,32015787.0,,1841
+2013,78,The Mortal Instruments: City of Bones,the_mortal_instruments_city_of_bones,31165421.0,,2456
+2013,79,Delivery Man,delivery_man,30664106.0,,2808
+2013,80,Grudge Match,grudge_match,29807260.0,,2555
+2013,81,One Direction: This Is Us,one_direction_this_is_us,28873374.0,,2833
+2013,82,Kick-Ass 2,kickass_2,28795985.0,,2549
+2013,83,Oculus,oculus,27695246.0,,2809
+2013,84,Dallas Buyers Club,dallas_buyers_club,27298285.0,,1832
+2013,85,Rush,rush,26947624.0,,2682
+2013,86,The Host,the_host,26627201.0,,2440
+2013,87,The World's End,the_worlds_end,26004851.0,,2189
+2013,88,21 & Over,21_over,25682380.0,,2583
+2013,89,Her,her,25568251.0,,2617
+2013,90,Don Jon,don_jon,24477704.0,,2754
+2013,91,The Incredible Burt Wonderstone,the_incredible_burt_wonderstone,22537881.0,,1831
+2013,92,The Big Wedding,the_big_wedding,21819348.0,,2663
+2013,93,Homefront,homefront,20158898.0,,2783
+2013,94,Broken City,broken_city,19701164.0,,2227
+2013,95,Beautiful Creatures,beautiful_creatures,19452138.0,,2466
+2013,96,Runner Runner,runner_runner,19316646.0,,2795
+2013,97,Admission,admission,18007317.0,,2622
+2013,98,Nebraska,nebraska,17654912.0,,2625
+2013,99,Parker,parker,17616641.0,,2651
+2013,100,Dark Skies,dark_skies,17418667.0,,2806
+2014,1,American Sniper,american_sniper,350126372.0,,2739
+2014,2,The Hunger Games: Mockingjay - Part 1,the_hunger_games_mockingjay_part_1,337135885.0,,2671
+2014,3,Guardians of the Galaxy,guardians_of_galaxy,333176600.0,,2697
+2014,4,Captain America: The Winter Soldier,captain_america_winter_soldier,259766572.0,,2635
+2014,5,The Lego Movie,the_lego_movie,257760692.0,,2429
+2014,6,Transformers: Age of Extinction,transformers_age_of_extinction,245439076.0,,2724
+2014,7,Maleficent,maleficent,241410378.0,,2488
+2014,8,X-Men: Days of Future Past,xmen_days_of_future_past,233921534.0,,2649
+2014,9,Big Hero 6,big_hero_6,222527828.0,,2761
+2014,10,Dawn of the Planet of the Apes,dawn_of_planet_of_apes,208545589.0,,2721
+2014,11,Godzilla,godzilla,200676069.0,,1884
+2014,12,22 Jump Street,22_jump_street,191719337.0,,2777
+2014,13,Teenage Mutant Ninja Turtles,teenage_mutant_ninja_turtles,191204754.0,,2274
+2014,14,Interstellar,interstellar,188020017.0,,1871
+2014,15,How to Train Your Dragon 2,how_to_train_your_dragon_2,177002924.0,,2543
+2014,16,Gone Girl,gone_girl,167767189.0,,2766
+2014,17,Divergent,divergent,150947895.0,,2633
+2014,18,Neighbors,neighbors,150157400.0,,2694
+2014,19,Ride Along,ride_along,134938200.0,,2365
+2014,20,Rio 2,rio_2,131538435.0,,2792
+2014,21,Kingsman: The Secret Service,kingsman_secret_service,128261724.0,,2879
+2014,22,Into the Woods,into_woods,128002372.0,,2740
+2014,23,Lucy,lucy,126663600.0,,2887
+2014,24,The Fault in Our Stars,the_fault_in_our_stars,124872350.0,,2851
+2014,25,Unbroken,unbroken,115637895.0,,2621
+2014,26,Night at the Museum: Secret of the Tomb,night_at_museum_secret_of_tomb,113746621.0,,2862
+2014,27,Mr. Peabody & Sherman,mr_peabody_sherman,111506430.0,,1904
+2014,28,300: Rise of an Empire,300_rise_of_an_empire,106580051.0,,2242
+2014,29,The Maze Runner,the_maze_runner,102427862.0,,2613
+2014,30,The Equalizer,the_equalizer,101530738.0,,1686
+2014,31,Noah,noah,101200044.0,,2674
+2014,32,Edge of Tomorrow,edge_of_tomorrow,100206256.0,,2531
+2014,33,Non-Stop,nonstop,92168600.0,,2702
+2014,34,Heaven Is for Real,heaven_is_for_real,91443253.0,,2662
+2014,35,Taken 3,taken_3,89256424.0,,2822
+2014,36,Dumb and Dumber To,dumb_and_dumber_to,86208010.0,,2716
+2014,37,Annie,annie,85911262.0,,2628
+2014,38,Fury,fury,85817906.0,,2867
+2014,39,Tammy,tammy,84525432.0,,2720
+2014,40,Annabelle,annabelle,84273813.0,,2933
+2014,41,The Other Woman,the_other_woman,83911193.0,,2746
+2014,42,Penguins of Madagascar,penguins_of_madagascar,83850911.0,,2655
+2014,43,Let's Be Cops,lets_be_cops,82390774.0,,2661
+2014,44,The Monuments Men,the_monuments_men,78031620.0,,2738
+2014,45,Paddington,paddington,76271832.0,,2086
+2014,46,Hercules,hercules,72688614.0,,2252
+2014,47,The Purge: Anarchy,the_purge_anarchy,71962800.0,,2898
+2014,48,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",alexander_and_terrible_horrible_no_good_very_bad_day,66954149.0,,2576
+2014,49,Think Like a Man Too,think_like_man_too,65182182.0,,2758
+2014,50,Exodus: Gods and Kings,exodus_gods_and_kings,65014513.0,,2448
+2014,51,The Nut Job,the_nut_job,64251541.0,,2626
+2014,52,God's Not Dead,gods_not_dead,60755732.0,,2836
+2014,53,The Grand Budapest Hotel,the_grand_budapest_hotel,59301324.0,,2770
+2014,54,Planes: Fire & Rescue,planes_fire_rescue,59165787.0,,2903
+2014,55,RoboCop,robocop,58607007.0,,2222
+2014,56,Dracula Untold,dracula_untold,56280355.0,,1880
+2014,57,Horrible Bosses 2,horrible_bosses_2,54445357.0,,2735
+2014,58,The Hundred-Foot Journey,the_hundredfoot_journey,54240821.0,,2902
+2014,59,No Good Deed,no_good_deed,52543632.0,,2696
+2014,60,Selma,selma,52076908.0,,2008
+2014,61,Muppets Most Wanted,muppets_most_wanted,51183113.0,,2773
+2014,62,Ouija,ouija,50856010.0,,2173
+2014,63,The Boxtrolls,the_boxtrolls,50837305.0,,1830
+2014,64,Jack Ryan: Shadow Recruit,jack_ryan_shadow_recruit,50577412.0,,2175
+2014,65,If I Stay,if_i_stay,50474843.0,,2327
+2014,66,The Book of Life,the_book_of_life,50151543.0,,2764
+2014,67,About Last Night,about_last_night,48637684.0,,2630
+2014,68,Into the Storm,into_storm,47602194.0,,2722
+2014,69,The Judge,the_judge,47119388.0,,2647
+2014,70,Jersey Boys,jersey_boys,47047013.0,,2596
+2014,71,Blended,blended,46294610.0,,2076
+2014,72,The Giver,the_giver,45090374.0,,1607
+2014,73,Need for Speed,need_for_speed,43577636.0,,2797
+2014,74,A Million Ways to Die in the West,a_million_ways_to_die_in_west,43139300.0,,2843
+2014,75,John Wick,john_wick,43037835.0,,2892
+2014,76,Birdman or The Unexpected Virtue of Ignorance,birdman_or_unexpected_virtue_of_ignorance,42340598.0,,2845
+2014,77,Dolphin Tale 2,dolphin_tale_2,42024533.0,,2900
+2014,78,Earth to Echo,earth_to_echo,38934842.0,,2741
+2014,79,Sex Tape,sex_tape,38543473.0,,2673
+2014,80,Million Dollar Arm,million_dollar_arm,36457627.0,,2545
+2014,81,The Theory of Everything,the_theory_of_everything,35893537.0,,2901
+2014,82,This Is Where I Leave You,this_is_where_i_leave_you,34296320.0,,2333
+2014,83,The Gambler,the_gambler,33680992.0,,2707
+2014,84,Unfriended,unfriended,32482090.0,,2977
+2014,85,Paranormal Activity: The Marked Ones,paranormal_activity_marked_ones,32462372.0,,2828
+2014,86,Nightcrawler,nightcrawler,32381217.0,,2886
+2014,87,3 Days to Kill,3_days_to_kill,30697999.0,,2736
+2014,88,Deliver Us from Evil,deliver_us_from_evil,30577122.0,,2798
+2014,89,When the Game Stands Tall,when_game_stands_tall,30127963.0,,2762
+2014,90,The Best of Me,the_best_of_me,26766213.0,,2680
+2014,91,A Walk Among the Tombstones,a_walk_among_tombstones,26307600.0,,1317
+2014,92,That Awkward Moment,that_awkward_moment,26068955.0,,2619
+2014,93,Ex Machina,ex_machina,25442958.0,,1729
+2014,94,Boyhood,boyhood,25352281.0,,2055
+2014,95,Endless Love,endless_love,23438250.0,,2785
+2014,96,Pompeii,pompeii,23219748.0,,2657
+2014,97,Transcendence,transcendence,23022309.0,,2748
+2014,98,Black or White,black_or_white,21571189.0,,2889
+2014,99,Brick Mansions,brick_mansions,20396829.0,,2384
+2014,100,"I, Frankenstein",i_frankenstein,19075290.0,,2376
+2015,1,Star Wars: Episode VII - The Force Awakens,star_wars_episode_vii_force_awakens,936662225.0,,2829
+2015,2,Jurassic World,jurassic_world,652270625.0,,1344
+2015,3,Avengers: Age of Ultron,avengers_age_of_ultron,459005868.0,,2810
+2015,4,Inside Out,inside_out,356461711.0,,2717
+2015,5,Furious 7,furious_7,353007020.0,,2880
+2015,6,Minions,minions,336045770.0,,2776
+2015,7,The Hunger Games: Mockingjay - Part 2,the_hunger_games_mockingjay_part_2,281723902.0,,2672
+2015,8,The Martian,the_martian,228433663.0,,2972
+2015,9,Cinderella,cinderella,201151353.0,,2554
+2015,10,Spectre,spectre,200074609.0,,2799
+2015,11,Mission: Impossible - Rogue Nation,mission_impossible_rogue_nation,195042377.0,,2800
+2015,12,Pitch Perfect 2,pitch_perfect_2,184296230.0,,2883
+2015,13,The Revenant,the_revenant,183637894.0,,2557
+2015,14,Ant-Man,antman,180202163.0,,1755
+2015,15,Home,home,177397510.0,,2751
+2015,16,Hotel Transylvania 2,hotel_transylvania_2,169700110.0,,2831
+2015,17,Fifty Shades of Grey,fifty_shades_of_grey,166167230.0,,2786
+2015,18,The SpongeBob Movie: Sponge Out of Water,the_spongebob_movie_sponge_out_of_water,162994032.0,,2772
+2015,19,Straight Outta Compton,straight_outta_compton,161197785.0,,2355
+2015,20,San Andreas,san_andreas,155190832.0,,2728
+2015,21,Mad Max: Fury Road,mad_max_fury_road,154058340.0,,2348
+2015,22,Insurgent,insurgent,130179072.0,,2891
+2015,23,The Peanuts Movie,the_peanuts_movie,130178411.0,,2824
+2015,24,Spy,spy,110825712.0,,2913
+2015,25,Trainwreck,trainwreck,110212700.0,,2916
+2015,26,Creed,creed,109767581.0,,2912
+2015,27,Tomorrowland,tomorrowland,93436322.0,,2677
+2015,28,Get Hard,get_hard,90411453.0,,2844
+2015,29,Terminator Genisys,terminator_genisys,89760956.0,,2319
+2015,30,Sisters,sisters,87044645.0,,2637
+2015,31,Maze Runner: The Scorch Trials,maze_runner_scorch_trials,81697192.0,,3006
+2015,32,Ted 2,ted_2,81476385.0,,2854
+2015,33,Goosebumps,goosebumps,80080379.0,,2044
+2015,34,Pixels,pixels,78747585.0,,2727
+2015,35,The Intern,the_intern,75764672.0,,2794
+2015,36,Bridge of Spies,bridge_of_spies,72313754.0,,2973
+2015,37,Paul Blart: Mall Cop 2,paul_blart_mall_cop_2,71038190.0,,2947
+2015,38,The Big Short,the_big_short,70259870.0,,2496
+2015,39,War Room,war_room,67790117.0,,2993
+2015,40,Magic Mike XXL,magic_mike_xxl,66013057.0,,2767
+2015,41,The Visit,the_visit,65206105.0,,2965
+2015,42,The Wedding Ringer,the_wedding_ringer,64460211.0,,1917
+2015,43,Black Mass,black_mass,62575678.0,,2329
+2015,44,Vacation,vacation,58884188.0,,2447
+2015,45,The Perfect Guy,the_perfect_guy,57027435.0,,2997
+2015,46,Joy,joy,56451232.0,,2823
+2015,47,Fantastic Four,fantastic_four,56117548.0,,2435
+2015,48,The Hateful Eight,the_hateful_eight,54117416.0,,2949
+2015,49,Focus,focus,53862963.0,,2801
+2015,50,Southpaw,southpaw,52421953.0,,2616
+2015,51,Insidious: Chapter 3,insidious_chapter_3,52218558.0,,2920
+2015,52,Poltergeist,poltergeist,47425125.0,,2018
+2015,53,Jupiter Ascending,jupiter_ascending,47387723.0,,2517
+2015,54,Sicario,sicario,46889293.0,,2943
+2015,55,The Man from U.N.C.L.E.,the_man_from_uncle,45445109.0,,2539
+2015,56,The Gift,the_gift,43787265.0,,3022
+2015,57,Everest,everest,43482270.0,,2869
+2015,58,The Night Before,the_night_before,43047372.0,,2960
+2015,59,Krampus,krampus,42725475.0,,2995
+2015,60,Max,max,42656255.0,,2937
+2015,61,The Longest Ride,the_longest_ride,37446117.0,,2870
+2015,62,The Boy Next Door,the_boy_next_door,35423380.0,,2918
+2015,63,Pan,pan,35088320.0,,2934
+2015,64,Hot Pursuit,hot_pursuit,34580201.0,,2897
+2015,65,Concussion,concussion,34542474.0,,2932
+2015,66,The Duff,the_duff,34030343.0,,2561
+2015,67,Woman in Gold,woman_in_gold,33307793.0,,2816
+2015,68,The Second Best Exotic Marigold Hotel,the_second_best_exotic_marigold_hotel,33078266.0,,2841
+2015,69,Entourage,entourage,32363404.0,,2566
+2015,70,Paper Towns,paper_towns,32000304.0,,2968
+2015,71,Chappie,chappie,31569268.0,,2629
+2015,72,Crimson Peak,crimson_peak,31090320.0,,2840
+2015,73,Point Break,point_break,28782481.0,,2709
+2015,74,Sinister 2,sinister_2,27740955.0,,2872
+2015,75,The Last Witch Hunter,the_last_witch_hunter,27367660.0,,2518
+2015,76,Ricki and the Flash,ricki_and_flash,26822144.0,,2969
+2015,77,Run All Night,run_all_night,26461644.0,,2745
+2015,78,Love the Coopers,love_coopers,26302731.0,,2771
+2015,79,The Lazarus Effect,the_lazarus_effect,25801570.0,,2893
+2015,80,The Witch,the_witch,25138705.0,,3029
+2015,81,In the Heart of the Sea,in_heart_of_sea,25020758.0,,2345
+2015,82,The Gallows,the_gallows,22764410.0,,2782
+2015,83,Hitman: Agent 47,hitman_agent_47,22467450.0,,2861
+2015,84,Project Almanac,project_almanac,22348241.0,,2821
+2015,85,Aloha,aloha,21067116.0,,2232
+2015,86,Secret in Their Eyes,secret_in_their_eyes,20180155.0,,2595
+2015,87,Paranormal Activity: The Ghost Dimension,paranormal_activity_ghost_dimension,18300124.0,,2827
+2015,88,Steve Jobs,steve_jobs,17766658.0,,2711
+2015,89,Dope,dope,17506470.0,,2994
+2015,90,Eddie the Eagle,eddie_eagle,15789389.0,,2074
+2015,91,American Ultra,american_ultra,14440985.0,,2930
+2015,92,Burnt,burnt,13651946.0,,2830
+2015,93,Hot Tub Time Machine 2,hot_tub_time_machine_2,12314651.0,,2855
+2015,94,Self/less,selfless,12279691.0,,2732
+2015,95,The Gunman,the_gunman,10664749.0,,2832
+2015,96,Unfinished Business,unfinished_business,10219501.0,,2793
+2015,97,The Walk,the_walk,10137502.0,,2954
+2015,98,Huevos: Little Rooster's Egg-cellent Adventure,huevos_little_roosters_eggcellent_adventure,9080818.0,,3061
+2015,99,Blackhat,blackhat,8005980.0,,2868
+2015,100,Mortdecai,mortdecai,7696134.0,,2908
+2016,1,Rogue One: A Star Wars Story,rogue_one_star_wars_story,532177324.0,,2983
+2016,2,Captain America: Civil War,captain_america_civil_war,408084349.0,,2956
+2016,3,The Secret Life of Pets,the_secret_life_of_pets,368384330.0,,2866
+2016,4,The Jungle Book,the_jungle_book,364001123.0,,2907
+2016,5,Deadpool,deadpool,363070709.0,,2387
+2016,6,Batman v Superman: Dawn of Justice,batman_v_superman_dawn_of_justice,330360194.0,,2899
+2016,7,Suicide Squad,suicide_squad,325100054.0,,2341
+2016,8,Sing,sing,270395425.0,,2952
+2016,9,Fantastic Beasts and Where to Find Them,fantastic_beasts_and_where_to_find_them,234037575.0,,2919
+2016,10,Doctor Strange,doctor_strange,232641920.0,,2183
+2016,11,Hidden Figures,hidden_figures,169607287.0,,3081
+2016,12,Jason Bourne,jason_bourne,162434410.0,,3024
+2016,13,Star Trek Beyond,star_trek_beyond,158848340.0,,2857
+2016,14,X-Men: Apocalypse,xmen_apocalypse,155442489.0,,2939
+2016,15,Trolls,trolls,153707064.0,,2569
+2016,16,La La Land,la_la_land,151101803.0,,2988
+2016,17,Kung Fu Panda 3,kung_fu_panda_3,143528619.0,,2765
+2016,18,Split,split,138291365.0,,3088
+2016,19,Ghostbusters,ghostbusters,128350574.0,,2271
+2016,20,Central Intelligence,central_intelligence,127440871.0,,2428
+2016,21,The Legend of Tarzan,the_legend_of_tarzan,126643061.0,,1937
+2016,22,Sully,sully,125070033.0,,2924
+2016,23,Bad Moms,bad_moms,113257297.0,,3065
+2016,24,The Angry Birds Movie,the_angry_birds_movie,107509366.0,,2688
+2016,25,Independence Day: Resurgence,independence_day_resurgence,103144286.0,,2528
+2016,26,The Conjuring 2,the_conjuring_2,102470008.0,,2911
+2016,27,Arrival,arrival,100546139.0,,2838
+2016,28,Passengers,passengers,100014699.0,,2328
+2016,29,Sausage Party,sausage_party,97685686.0,,2578
+2016,30,The Magnificent Seven,the_magnificent_seven,93432655.0,,2817
+2016,31,Ride Along 2,ride_along_2,91221830.0,,2885
+2016,32,Don't Breathe,dont_breathe,89217875.0,,3020
+2016,33,Miss Peregrine's Home for Peculiar Children,miss_peregrines_home_for_peculiar_children,87242834.0,,2665
+2016,34,The Accountant,the_accountant,86260045.0,,2733
+2016,35,Teenage Mutant Ninja Turtles: Out of the Shadows,teenage_mutant_ninja_turtles_out_of_shadows,82051601.0,,3003
+2016,36,The Purge: Election Year,the_purge_election_year,79213375.0,,3009
+2016,37,Alice Through the Looking Glass,alice_through_looking_glass,77041381.0,,2846
+2016,38,Pete's Dragon,petes_dragon,76233151.0,,2877
+2016,39,The Girl on the Train,the_girl_on_train,75395035.0,,2970
+2016,40,Tyler Perry's Boo! A Madea Halloween,tyler_perrys_boo_madea_halloween,73206343.0,,3109
+2016,41,Storks,storks,72679278.0,,3058
+2016,42,Lights Out,lights_out,67268835.0,,3076
+2016,43,Hacksaw Ridge,hacksaw_ridge,67209615.0,,2725
+2016,44,Ice Age: Collision Course,ice_age_collision_course,64063008.0,,2946
+2016,45,The Boss,the_boss,63285885.0,,2863
+2016,46,London Has Fallen,london_has_fallen,62524260.0,,2928
+2016,47,Miracles from Heaven,miracles_from_heaven,61705123.0,,3028
+2016,48,Deepwater Horizon,deepwater_horizon,61433527.0,,2645
+2016,49,Why Him?,why_him,60323786.0,,3046
+2016,50,Jack Reacher: Never Go Back,jack_reacher_never_go_back,58697076.0,,2942
+2016,51,Fences,fences,57682904.0,,2858
+2016,52,Me Before You,me_before_you,56245075.0,,2860
+2016,53,The BFG,the_bfg,55483770.0,,2974
+2016,54,The Shallows,the_shallows,55124043.0,,3007
+2016,55,Office Christmas Party,office_christmas_party,54767494.0,,2584
+2016,56,Assassin's Creed,assassins_creed,54647948.0,,2715
+2016,57,13 Hours,13_hours,52853219.0,,3021
+2016,58,Lion,lion,51738905.0,,2982
+2016,59,The Huntsman: Winter's War,the_huntsman_winters_war,48390190.0,,2802
+2016,60,Kubo and the Two Strings,kubo_and_two_strings,48023088.0,,3033
+2016,61,Manchester by the Sea,manchester_by_sea,47695371.0,,3005
+2016,62,Warcraft,warcraft,47365290.0,,1849
+2016,63,How to Be Single,how_to_be_single,46843513.0,,2276
+2016,64,Mike and Dave Need Wedding Dates,mike_and_dave_need_wedding_dates,46009673.0,,2881
+2016,65,The Great Wall,the_great_wall,45540830.0,,2705
+2016,66,Almost Christmas,almost_christmas,42158780.0,,3063
+2016,67,Money Monster,money_monster,41012075.0,,2759
+2016,68,Allied,allied,40098064.0,,2971
+2016,69,Nerve,nerve,38583626.0,,2961
+2016,70,Risen,risen,36880033.0,,2923
+2016,71,The Nice Guys,the_nice_guys,36261763.0,,2990
+2016,72,The Boy,the_boy,35819556.0,,2999
+2016,73,Dirty Grandpa,dirty_grandpa,35593113.0,,2643
+2016,74,Ouija: Origin of Evil,ouija_origin_of_evil,35144505.0,,3036
+2016,75,The 5th Wave,the_5th_wave,34916787.0,,2781
+2016,76,Inferno,inferno,34343574.0,,2909
+2016,77,Mother's Day,mothers_day,32492859.0,,3079
+2016,78,Patriots Day,patriots_day,31886361.0,,3054
+2016,79,Gods of Egypt,gods_of_egypt,31153464.0,,2814
+2016,80,Collateral Beauty,collateral_beauty,31016021.0,,3068
+2016,81,"Hail, Caesar!",hail_caesar,30498085.0,,1743
+2016,82,Underworld: Blood Wars,underworld_blood_wars,30353973.0,,2978
+2016,83,When the Bough Breaks,when_bough_breaks,29747603.0,,2344
+2016,84,Moonlight,moonlight,27854932.0,,3089
+2016,85,Florence Foster Jenkins,florence_foster_jenkins,27383770.0,,3015
+2016,86,Hell or High Water,hell_or_high_water,27007844.0,,2849
+2016,87,Resident Evil: The Final Chapter,resident_evil_final_chapter,26830068.0,,2853
+2016,88,The Forest,the_forest,26594261.0,,2941
+2016,89,Ben-Hur,benhur,26410477.0,,2856
+2016,90,Bridget Jones's Baby,bridget_joness_baby,24252420.0,,2414
+2016,91,What Now?,what_now,23591043.0,,3067
+2016,92,Whiskey Tango Foxtrot,whiskey_tango_foxtrot,23083334.0,,2963
+2016,93,Snowden,snowden,21587519.0,,2985
+2016,94,Free State of Jones,free_state_of_jones,20810036.0,,2095
+2016,95,Blair Witch,blair_witch,20777061.0,,2457
+2016,96,Keanu,keanu,20591853.0,,3016
+2016,97,Middle School: The Worst Years of My Life,middle_school_worst_years_of_my_life,20007149.0,,3090
+2016,98,Nine Lives,nine_lives,19700032.0,,3038
+2016,99,Bad Santa 2,bad_santa_2,17782178.0,,2615
+2016,100,The Birth of a Nation,the_birth_of_nation,15861566.0,,3023
+2017,1,Star Wars: Episode VIII - The Last Jedi,star_wars_episode_viii_last_jedi,620181382.0,,2834
+2017,2,Beauty and the Beast,beauty_and_beast,504014165.0,,2874
+2017,3,Wonder Woman,wonder_woman,412563408.0,,1657
+2017,4,Jumanji: Welcome to the Jungle,jumanji_welcome_to_jungle,404540171.0,,2775
+2017,5,Guardians of the Galaxy Vol. 2,guardians_of_galaxy_vol_2,389813101.0,,3001
+2017,6,Spider-Man: Homecoming,spiderman_homecoming,334201140.0,,2763
+2017,7,It,it,328828874.0,,2352
+2017,8,Thor: Ragnarok,thor_ragnarok,315058289.0,,2957
+2017,9,Despicable Me 3,despicable_me_3,264624300.0,,2951
+2017,10,Logan,logan,226277068.0,,2929
+2017,11,The Fate of the Furious,the_fate_of_furious,226008385.0,,3059
+2017,12,Dunkirk,dunkirk,189740665.0,,3092
+2017,13,Get Out,get_out,176040665.0,,3095
+2017,14,The Lego Batman Movie,the_lego_batman_movie,175750384.0,,3011
+2017,15,The Greatest Showman,the_greatest_showman,174340174.0,,2421
+2017,16,Pirates of the Caribbean: Dead Men Tell No Tales,pirates_of_caribbean_dead_men_tell_no_tales,172558876.0,,2612
+2017,17,Kong: Skull Island,kong_skull_island,168052812.0,,2980
+2017,18,War for the Planet of the Apes,war_for_planet_of_apes,146880162.0,,2948
+2017,19,Transformers: The Last Knight,transformers_last_knight,130168683.0,,2938
+2017,20,Girls Trip,girls_trip,115171585.0,,2964
+2017,21,Fifty Shades Darker,fifty_shades_darker,114581250.0,,3040
+2017,22,The Upside,the_upside,108252517.0,,2691
+2017,23,Baby Driver,baby_driver,107825862.0,,3000
+2017,24,Pitch Perfect 3,pitch_perfect_3,104897530.0,,3072
+2017,25,Daddy's Home 2,daddys_home_2,104029443.0,,3121
+2017,26,Murder on the Orient Express,murder_on_orient_express,102826543.0,,2944
+2017,27,Annabelle: Creation,annabelle_creation,102092201.0,,3100
+2017,28,Kingsman: The Golden Circle,kingsman_golden_circle,100234838.0,,3064
+2017,29,Blade Runner 2049,blade_runner_2049,92054159.0,,2642
+2017,30,The Emoji Movie,the_emoji_movie,86089513.0,,3083
+2017,31,Power Rangers,power_rangers,85364450.0,,2979
+2017,32,Ferdinand,ferdinand,84410380.0,,2945
+2017,33,The Post,the_post,81903458.0,,3151
+2017,34,The Mummy,the_mummy,80227895.0,,2790
+2017,35,The Hitman's Bodyguard,the_hitmans_bodyguard,75468583.0,,2675
+2017,36,Alien: Covenant,alien_covenant,74262031.0,,2784
+2017,37,Captain Underpants: The First Epic Movie,captain_underpants_first_epic_movie,73921000.0,,2713
+2017,38,A Bad Moms Christmas,a_bad_moms_christmas,72110659.0,,3157
+2017,39,A Dog's Purpose,a_dogs_purpose,64508620.0,,2600
+2017,40,Baywatch,baywatch,58060186.0,,2410
+2017,41,Happy Death Day,happy_death_day,55683845.0,,3107
+2017,42,Atomic Blonde,atomic_blonde,51687870.0,,2819
+2017,43,American Made,american_made,51342000.0,,2962
+2017,44,The Dark Tower,the_dark_tower,50701325.0,,2546
+2017,45,Boo 2! A Madea Halloween,boo_2_madea_halloween,47319572.0,,3149
+2017,46,Snatched,snatched,45852178.0,,2787
+2017,47,Smurfs: The Lost Village,smurfs_lost_village,45020282.0,,2811
+2017,48,Going in Style,going_in_style,45018541.0,,2847
+2017,49,All Eyez on Me,all_eyez_on_me,44922302.0,,2559
+2017,50,xXx: Return of Xander Cage,xxx_return_of_xander_cage,44898413.0,,2277
+2017,51,47 Meters Down,47_meters_down,44307191.0,,2894
+2017,52,Valerian and the City of a Thousand Planets,valerian_and_city_of_thousand_planets,41189488.0,,2757
+2017,53,The Star,the_star,40896334.0,,3057
+2017,54,Ghost in the Shell,ghost_in_shell,40563557.0,,2196
+2017,55,King Arthur: Legend of the Sword,king_arthur_legend_of_sword,39175066.0,,2679
+2017,56,Jigsaw,jigsaw,38052832.0,,2935
+2017,57,American Assassin,american_assassin,36249674.0,,2676
+2017,58,The Foreigner,the_foreigner,34393507.0,,2514
+2017,59,"Everything, Everything",everything_everything,34121140.0,,3091
+2017,60,Wind River,wind_river,33800859.0,,3111
+2017,61,Geostorm,geostorm,33700160.0,,2686
+2017,62,Kidnap,kidnap,30971040.0,,2404
+2017,63,The Mountain Between Us,the_mountain_between_us,30348555.0,,2753
+2017,64,Life,life,30234022.0,,3114
+2017,65,The Nut Job 2: Nutty by Nature,the_nut_job_2_nutty_by_nature,28370522.0,,2953
+2017,66,Rings,rings,27793018.0,,1796
+2017,67,Logan Lucky,logan_lucky,27780977.0,,3113
+2017,68,Home Again,home_again,27020284.0,,3126
+2017,69,The House,the_house,25584504.0,,3043
+2017,70,Gifted,gifted,24801212.0,,3042
+2017,71,Downsizing,downsizing,24449754.0,,2343
+2017,72,The Bye Bye Man,the_bye_bye_man,22395806.0,,3004
+2017,73,Rough Night,rough_night,22105643.0,,3077
+2017,74,My Little Pony: The Movie,my_little_pony_movie,21885107.0,,3014
+2017,75,Diary of a Wimpy Kid: The Long Haul,diary_of_wimpy_kid_long_haul,20738724.0,,3142
+2017,76,The Circle,the_circle,20497844.0,,3032
+2017,77,CHIPS,chips,18600152.0,,1788
+2017,78,Only the Brave,only_brave,18343983.0,,2992
+2017,79,Mother!,mother,17800004.0,,3097
+2017,80,Flatliners,flatliners,16883115.0,,2706
+2017,81,Detroit,detroit,16790139.0,,3112
+2017,82,Wish Upon,wish_upon,14301505.0,,3108
+2017,83,"Roman J. Israel, Esq.",roman_j_israel_esq,11962778.0,,3141
+2017,84,Unforgettable,unforgettable,11368012.0,,2950
+2017,85,Marshall,marshall,10051659.0,,3106
+2017,86,Thank You for Your Service,thank_you_for_your_service,9536300.0,,2876
+2017,87,The Space Between Us,the_space_between_us,7885294.0,,3002
+2017,88,The Snowman,the_snowman,6700035.0,,2603
+2017,89,Just Getting Started,just_getting_started,6069605.0,,3128
+2017,90,All Saints,all_saints,5802208.0,,3066
+2017,91,Tiger Zinda Hai,tiger_zinda_hai,5560921.0,,3140
+2017,92,Phoenix Forgotten,phoenix_forgotten,3600146.0,,3168
+2017,93,An Inconvenient Sequel: Truth to Power,an_inconvenient_sequel_truth_to_power,3496795.0,,3154
+2017,94,Wolf Warrior 2,wolf_warrior_2,2721100.0,,3194
+2017,95,T2 Trainspotting,t2_trainspotting,2402004.0,,2873
+2017,96,A Ghost Story,a_ghost_story,1596371.0,,3150
+2017,97,Kung Fu Yoga,kung_fu_yoga,362657.0,,3025
+2017,98,Extraordinary Mission,extraordinary_mission,54174.0,,3173
+2018,1,Jurassic World: Fallen Kingdom,jurassic_world_fallen_kingdom,417719760.0,,3084
+2018,2,Deadpool 2,deadpool_2,324591735.0,,3115
+2018,3,The Grinch,the_grinch,270620950.0,,2865
+2018,4,Mission: Impossible - Fallout,mission_impossible_fallout,220159104.0,,3085
+2018,5,Bohemian Rhapsody,bohemian_rhapsody,216428042.0,,2590
+2018,6,A Star Is Born,a_star_is_born,215288866.0,,2441
+2018,7,Solo: A Star Wars Story,solo_star_wars_story,213767512.0,,2987
+2018,8,Venom,venom,213515506.0,,2257
+2018,9,Ralph Breaks the Internet,ralph_breaks_internet,201091711.0,,3136
+2018,10,Spider-Man: Into the Spider-Verse,spiderman_into_spiderverse,190241310.0,,3060
+2018,11,A Quiet Place,a_quiet_place,188024361.0,,3170
+2018,12,Crazy Rich Asians,crazy_rich_asians,174532921.0,,2914
+2018,13,Mary Poppins Returns,mary_poppins_returns,171958438.0,,3093
+2018,14,Hotel Transylvania 3: Summer Vacation,hotel_transylvania_3_summer_vacation,167510016.0,,3105
+2018,15,Fantastic Beasts: The Crimes of Grindelwald,fantastic_beasts_crimes_of_grindelwald,159555901.0,,3012
+2018,16,Halloween,halloween,159342015.0,,2434
+2018,17,The Meg,the_meg,145443742.0,,3075
+2018,18,Ocean's Eight,oceans_eight,140218711.0,,3101
+2018,19,Ready Player One,ready_player_one,137690172.0,,2568
+2018,20,Bumblebee,bumblebee,127195589.0,,3069
+2018,21,Mamma Mia! Here We Go Again,mamma_mia_here_we_go_again,120634935.0,,3185
+2018,22,The Nun,the_nun,117450119.0,,3133
+2018,23,Creed II,creed_ii,115715889.0,,3156
+2018,24,Peter Rabbit,peter_rabbit,115253424.0,,3099
+2018,25,The Mule,the_mule,103804407.0,,3220
+2018,26,The Equalizer 2,the_equalizer_2,102084362.0,,2984
+2018,27,Rampage,rampage,101028233.0,,2755
+2018,28,Fifty Shades Freed,fifty_shades_freed,100407760.0,,3041
+2018,29,Christopher Robin,christopher_robin,99215042.0,,3056
+2018,30,Green Book,green_book,85080171.0,,3188
+2018,31,I Can Only Imagine,i_can_only_imagine,83482352.0,,3162
+2018,32,Night School,night_school,77339130.0,,3177
+2018,33,The First Purge,the_first_purge,69488745.0,,3145
+2018,34,Game Night,game_night,69179066.0,,2864
+2018,35,The House with a Clock in Its Walls,the_house_with_clock_in_its_walls,68549695.0,,2726
+2018,36,Skyscraper,skyscraper,68420120.0,,3132
+2018,37,Insidious: The Last Key,insidious_last_key,67745330.0,,3129
+2018,38,Instant Family,instant_family,67363237.0,,3203
+2018,39,Blockers,blockers,60311495.0,,2837
+2018,40,Pacific Rim: Uprising,pacific_rim_uprising,59874525.0,,2842
+2018,41,Tomb Raider,tomb_raider,58250803.0,,2331
+2018,42,Maze Runner: The Death Cure,maze_runner_death_cure,58032443.0,,3045
+2018,43,The Nutcracker and the Four Realms,the_nutcracker_and_four_realms,54858851.0,,3117
+2018,44,Tag,tag,54730625.0,,2884
+2018,45,A Simple Favor,a_simple_favor,53548586.0,,3190
+2018,46,The Predator,the_predator,51024708.0,,2991
+2018,47,Overboard,overboard,50316123.0,,2472
+2018,48,Sicario: Day of the Soldado,sicario_day_of_soldado,50072235.0,,3096
+2018,49,BlacKkKlansman,blackkklansman,49275340.0,,3199
+2018,50,I Feel Pretty,i_feel_pretty,48795601.0,,3178
+2018,51,Red Sparrow,red_sparrow,46874505.0,,2888
+2018,52,Breaking In,breaking_in,46840590.0,,3195
+2018,53,Goosebumps 2: Haunted Halloween,goosebumps_2_haunted_halloween,46700633.0,,3122
+2018,54,First Man,first_man,44936545.0,,2187
+2018,55,Sherlock Gnomes,sherlock_gnomes,43242871.0,,2779
+2018,56,Widows,widows,42402632.0,,3026
+2018,57,Truth or Dare,truth_or_dare,41411015.0,,3176
+2018,58,"Love, Simon",love_simon,40826341.0,,3102
+2018,59,Second Act,second_act,39282227.0,,2729
+2018,60,The 15:17 to Paris,the_1517_to_paris,36276286.0,,3179
+2018,61,Mile 22,mile_22,36108758.0,,3053
+2018,62,Alpha,alpha,35857181.0,,3027
+2018,63,Peppermint,peppermint,35418723.0,,3183
+2018,64,Death Wish,death_wish,34017028.0,,2118
+2018,65,The Spy Who Dumped Me,the_spy_who_dumped_me,33562069.0,,3171
+2018,66,Annihilation,annihilation,32732301.0,,2878
+2018,67,Nobody's Fool,nobodys_fool,31713110.0,,3225
+2018,68,Adrift,adrift,31445012.0,,3152
+2018,69,Robin Hood,robin_hood,30824628.0,,3051
+2018,70,Dragon Ball Super: Broly,dragon_ball_super_broly,30712119.0,,3221
+2018,71,Super Troopers 2,super_troopers_2,30617396.0,,1902
+2018,72,Holmes & Watson,holmes_watson,30573626.0,,2244
+2018,73,Slender Man,slender_man,30569484.0,,3124
+2018,74,Teen Titans GO! to the Movies,teen_titans_go_to_movies,29790236.0,,3204
+2018,75,The Hate U Give,the_hate_u_give,29719483.0,,3119
+2018,76,White Boy Rick,white_boy_rick,24011188.0,,3052
+2018,77,Overlord,overlord,21704844.0,,3050
+2018,78,Proud Mary,proud_mary,20877013.0,,3160
+2018,79,The Happytime Murders,the_happytime_murders,20706452.0,,2294
+2018,80,SuperFly,superfly,20545116.0,,3213
+2018,81,Bad Times at the El Royale,bad_times_at_el_royale,17839115.0,,3169
+2018,82,Operation Finale,operation_finale,17612099.0,,3104
+2018,83,"Paul, Apostle of Christ",paul_apostle_of_christ,17560475.0,,3201
+2018,84,Forever My Girl,forever_my_girl,16376066.0,,3010
+2018,85,Mortal Engines,mortal_engines,15951040.0,,2480
+2018,86,Hunter Killer,hunter_killer,15767460.0,,2636
+2018,87,The Girl in the Spider's Web,the_girl_in_spiders_web,14841338.0,,3103
+2018,88,The Possession of Hannah Grace,the_possession_of_hannah_grace,14837422.0,,3131
+2018,89,The Darkest Minds,the_darkest_minds,12695691.0,,3008
+2018,90,Hell Fest,hell_fest,11107431.0,,2693
+2018,91,Welcome to Marwen,welcome_to_marwen,10763520.0,,2927
+2018,92,Unfriended: Dark Web,unfriended_dark_web,8866745.0,,3071
+2018,93,The Hurricane Heist,the_hurricane_heist,6115825.0,,3110
+2018,94,Every Day,every_day,6102076.0,,3189
+2018,95,Death of a Nation,death_of_nation,5885881.0,,3232
+2018,96,Action Point,action_point,5059608.0,,3165
+2018,97,Johnny English Strikes Again,johnny_english_strikes_again,4412170.0,,3186
+2019,1,Avengers: Endgame,avengers_endgame,858373000.0,,3019
+2019,2,The Lion King,the_lion_king,543638043.0,,3144
+2019,3,Star Wars: Episode IX - The Rise of Skywalker,star_wars_episode_ix_rise_of_skywalker,515202542.0,,2835
+2019,4,Frozen II,frozen_ii,477373578.0,,3049
+2019,5,Toy Story 4,toy_story_4,434038008.0,,2683
+2019,6,Captain Marvel,captain_marvel,426829839.0,,3018
+2019,7,Spider-Man: Far from Home,spiderman_far_from_home,390532085.0,,3153
+2019,8,Aladdin,aladdin,355559216.0,,3146
+2019,9,Joker,joker,335451311.0,,3196
+2019,10,Jumanji: The Next Level,jumanji_next_level,316831246.0,,3222
+2019,11,It Chapter Two,it_chapter_two,211593228.0,,3200
+2019,12,Us,us,175084580.0,,3184
+2019,13,Fast & Furious Presents: Hobbs & Shaw,fast_furious_presents_hobbs_shaw,173956935.0,,3181
+2019,14,John Wick: Chapter 3 - Parabellum,john_wick_chapter_3_parabellum,171015687.0,,3147
+2019,15,Knives Out,knives_out,165363234.0,,3239
+2019,16,How to Train Your Dragon: The Hidden World,how_to_train_your_dragon_hidden_world,160799505.0,,2804
+2019,17,1917,1917,159227644.0,,3233
+2019,18,The Secret Life of Pets 2,the_secret_life_of_pets_2,158874395.0,,3098
+2019,19,Pokémon Detective Pikachu,pokémon_detective_pikachu,144105346.0,,3137
+2019,20,Once Upon a Time... in Hollywood,once_upon_time_in_hollywood,142502728.0,,3193
+2019,21,Shazam!,shazam,140371656.0,,1640
+2019,22,Ford v Ferrari,ford_v_ferrari,117624357.0,,2668
+2019,23,Dumbo,dumbo,114766307.0,,2996
+2019,24,Maleficent: Mistress of Evil,maleficent_mistress_of_evil,113929605.0,,3074
+2019,25,Glass,glass,111048468.0,,3182
+2019,26,Godzilla: King of the Monsters,godzilla_king_of_monsters,110500138.0,,2981
+2019,27,Little Women,little_women,108101214.0,,2926
+2019,28,The Lego Movie 2: The Second Part,the_lego_movie_2_second_part,105806508.0,,2958
+2019,29,Hustlers,hustlers,104963598.0,,3116
+2019,30,The Addams Family,the_addams_family,100044905.0,,2520
+2019,31,Downton Abbey,downton_abbey,96854135.0,,3159
+2019,32,Rocketman,rocketman,96368160.0,,2710
+2019,33,Alita: Battle Angel,alita_battle_angel,85710210.0,,1611
+2019,34,Good Boys,good_boys,83140306.0,,3198
+2019,35,Men in Black: International,men_in_black_international,80001807.0,,2774
+2019,36,Annabelle Comes Home,annabelle_comes_home,74152591.0,,3229
+2019,37,Yesterday,yesterday,73286650.0,,3223
+2019,38,A Madea Family Funeral,a_madea_family_funeral,73257045.0,,3191
+2019,39,Zombieland: Double Tap,zombieland_double_tap,73123082.0,,2467
+2019,40,Angel Has Fallen,angel_has_fallen,69030436.0,,3148
+2019,41,Scary Stories to Tell in the Dark,scary_stories_to_tell_in_dark,68947075.0,,2940
+2019,42,Spies in Disguise,spies_in_disguise,66757013.0,,3134
+2019,43,X-Men: Dark Phoenix,xmen_dark_phoenix,65845974.0,,3167
+2019,44,Terminator: Dark Fate,terminator_dark_fate,62253077.0,,3163
+2019,45,A Beautiful Day in the Neighborhood,a_beautiful_day_in_neighborhood,61704055.0,,2922
+2019,46,Abominable,abominable,60716390.0,,3155
+2019,47,Dora and the Lost City of Gold,dora_and_lost_city_of_gold,60477943.0,,3209
+2019,48,Dora and the Lost City of Gold,dora_and_lost_city_of_gold,60477943.0,,3210
+2019,49,Escape Room,escape_room,57005601.0,,3138
+2019,50,Midway,midway,56846802.0,,3187
+2019,51,The Curse of la Llorona,the_curse_of_la_llorona,54733739.0,,3086
+2019,52,Pet Sematary,pet_sematary,54724696.0,,1887
+2019,53,What Men Want,what_men_want,54611903.0,,3212
+2019,54,Parasite,parasite,53369749.0,,3175
+2019,55,Ad Astra,ad_astra,50188370.0,,2895
+2019,56,Uncut Gems,uncut_gems,50023780.0,,3130
+2019,57,Isn't It Romantic,isnt_it_romantic,48791187.0,,2825
+2019,58,Gemini Man,gemini_man,48546770.0,,2014
+2019,59,Ma,ma,45896028.0,,3219
+2019,60,Five Feet Apart,five_feet_apart,45729221.0,,3164
+2019,61,Wonder Park,wonder_park,45216793.0,,3161
+2019,62,Rambo: Last Blood,rambo_last_blood,44819352.0,,2177
+2019,63,Playing with Fire,playing_with_fire,44451847.0,,3241
+2019,64,Queen & Slim,queen_slim,43808310.0,,3237
+2019,65,Harriet,harriet,43082155.0,,3062
+2019,66,A Dog's Way Home,a_dogs_way_home,42004346.0,,3211
+2019,67,The Angry Birds Movie 2,the_angry_birds_movie_2,41667116.0,,3143
+2019,68,Little,little,40860481.0,,3224
+2019,69,Breakthrough,breakthrough,40713082.0,,3192
+2019,70,Crawl,crawl,39014193.0,,3230
+2019,71,Just Mercy,just_mercy,36001502.0,,3087
+2019,72,The Intruder,the_intruder,35419122.0,,3174
+2019,73,The Hustle,the_hustle,35417038.0,,2282
+2019,74,Last Christmas,last_christmas,35150750.0,,3234
+2019,75,Overcomer,overcomer,34746945.0,,3227
+2019,76,Jojo Rabbit,jojo_rabbit,33370906.0,,2852
+2019,77,Cold Pursuit,cold_pursuit,32138862.0,,3127
+2019,78,Bombshell,bombshell,31762808.0,,3158
+2019,79,Doctor Sleep,doctor_sleep,31581712.0,,3120
+2019,80,Long Shot,long_shot,30316271.0,,2730
+2019,81,Child's Play,childs_play,29208403.0,,3235
+2019,82,Ready or Not,ready_or_not,28714231.0,,3217
+2019,83,21 Bridges,21_bridges,28539757.0,,3236
+2019,84,Happy Death Day 2U,happy_death_day_2u,28148130.0,,3226
+2019,85,Midsommar,midsommar,27426361.0,,3238
+2019,86,Cats,cats,27166770.0,,3125
+2019,87,The Art of Racing in the Rain,the_art_of_racing_in_rain,26395642.0,,2417
+2019,88,Countdown,countdown,25621766.0,,1994
+2019,89,Fighting with My Family,fighting_with_my_family,22958886.0,,3166
+2019,90,A Dog's Journey,a_dogs_journey,22782371.0,,3231
+2019,91,Booksmart,booksmart,22680962.0,,2427
+2019,92,Stuber,stuber,22370452.0,,3215
+2019,93,Richard Jewell,richard_jewell,22345542.0,,2959
+2019,94,47 Meters Down: Uncaged,47_meters_down_uncaged,22260900.0,,3197
+2019,95,Black and Blue,black_and_blue,22055313.0,,3202
+2019,96,Hellboy,hellboy,21903748.0,,2768
+2019,97,Shaft,shaft,21360215.0,,3039
+2019,98,The Peanut Butter Falcon,the_peanut_butter_falcon,20457151.0,,3037
+2019,99,UglyDolls,uglydolls,20150241.0,,2667
+2019,100,Unplanned,unplanned,19005109.0,,3240
+2020,1,Bad Boys for Life,bad_boys_for_life,204417855.0,,2433
+2020,2,Sonic the Hedgehog,sonic_hedgehog,146066470.0,,2989
+2020,3,Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn,birds_of_prey_and_fantabulous_emancipation_of_one_harley_quinn,84158461.0,,3214
+2020,4,Dolittle,dolittle,77047065.0,,3172
+2020,5,The Invisible Man,the_invisible_man,64914050.0,,2045
+2020,6,The Call of the Wild,the_call_of_wild,62342368.0,,3206
+2020,7,Fantasy Island,fantasy_island,26441782.0,,1979
+2020,8,Like a Boss,like_boss,22169514.0,,3208
+2020,9,The Grudge,the_grudge,21221803.0,,2966
+2020,10,The Photograph,the_photograph,20578185.0,,3218
+2020,11,The Turning,the_turning,15472775.0,,3207
+2020,12,Brahms: The Boy II,brahms_boy_ii,12611536.0,,3242
+2020,13,Bloodshot,bloodshot,10021787.0,,2534
+2020,14,The Hunt,the_hunt,5812500.0,,3228

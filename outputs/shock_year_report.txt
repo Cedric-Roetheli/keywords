@@ -1,0 +1,27 @@
+Shock Year Diagnostics
+
+Highest JS divergence years:
+  1975: JS=0.6004, top=20, rest=91
+  1977: JS=0.5936, top=20, rest=110
+  1983: JS=0.5925, top=20, rest=131
+  1970: JS=0.5859, top=20, rest=95
+  1987: JS=0.5810, top=20, rest=203
+
+Lowest Jaccard similarity to previous year (keyword rotation):
+  2024: Jaccard=0.0000
+  1973: Jaccard=0.1200
+  2008: Jaccard=0.1236
+  1978: Jaccard=0.1364
+  2001: Jaccard=0.1494
+
+Shock year 2001:
+  JS divergence: 0.5326 (prev-year jaccard=0.14942528735632185)
+  Prev year (2000) JS: 0.5641
+  Next year (2002) JS: 0.5423
+  Top keywords: magic, love_of_one's_life, airplane, nightmare, duringcreditsstinger
+
+Shock year 2008:
+  JS divergence: 0.5469 (prev-year jaccard=0.12359550561797752)
+  Prev year (2007) JS: 0.5334
+  Next year (2009) JS: 0.5452
+  Top keywords: animal, superhero, 1940s, based_on_young_adult_novel, duringcreditsstinger

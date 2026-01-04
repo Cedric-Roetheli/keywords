@@ -1,0 +1,201 @@
+year,rank,mojo_title,tmdb_title,domestic,pol_count,pol_share,total_kw,bucket
+1990,1,Home Alone,Home Alone,285761243.0,1,0.07142857142857142,14,non_action
+1990,2,Ghost,Ghost,217631306.0,2,0.16666666666666666,12,non_action
+1990,3,Dances with Wolves,Dances with Wolves,184208848.0,0,0.0,24,non_action
+1990,4,Pretty Woman,Pretty Woman,178406268.0,1,0.07692307692307693,13,non_action
+1990,5,Teenage Mutant Ninja Turtles,Teenage Mutant Ninja Turtles,135265915.0,0,0.0,14,action
+1990,6,The Hunt for Red October,The Hunt for Red October,122012643.0,8,0.5,16,action
+1990,7,Total Recall,Total Recall,119412921.0,2,0.08,25,action
+1990,8,Die Hard 2,Die Hard 2,117540947.0,2,0.08333333333333333,24,action
+1990,9,Dick Tracy,Dick Tracy,103738726.0,3,0.17647058823529413,17,non_action
+1990,10,Kindergarten Cop,Kindergarten Cop,91457688.0,1,0.125,8,non_action
+1990,11,Back to the Future Part III,Back to the Future Part III,88277583.0,0,0.0,22,non_action
+1990,12,The Godfather: Part III,The Godfather Part III,66666062.0,0,0.0,17,non_action
+1990,13,Lionheart,Lionheart,24078196.0,0,0.0,15,action
+1990,14,The Bonfire of the Vanities,The Bonfire of the Vanities,15691192.0,0,0.0,7,non_action
+1990,15,Havana,Havana,9243140.0,1,0.2,5,non_action
+1990,17,Metropolitan,Metropolitan,2960492.0,1,0.14285714285714285,7,non_action
+1990,19,Frankenhooker,Frankenhooker,205068.0,0,0.0,8,non_action
+1991,1,Beauty and the Beast,Beauty and the Beast,218967620.0,1,0.09090909090909091,11,non_action
+1991,2,Terminator 2: Judgment Day,Terminator 2: Judgment Day,205881154.0,2,0.09523809523809523,21,action
+1991,3,Robin Hood: Prince of Thieves,Robin Hood: Prince of Thieves,165493908.0,0,0.0,13,action
+1991,4,The Silence of the Lambs,The Silence of the Lambs,130742922.0,1,0.08333333333333333,12,non_action
+1991,5,City Slickers,City Slickers,124033791.0,1,0.14285714285714285,7,non_action
+1991,6,Hook,Hook,119654823.0,0,0.0,12,non_action
+1991,7,The Addams Family,The Addams Family,113502426.0,1,0.06666666666666667,15,non_action
+1991,8,Sleeping with the Enemy,Sleeping with the Enemy,101599005.0,0,0.0,18,non_action
+1991,9,The Naked Gun 2½: The Smell of Fear,The Naked Gun 2½: The Smell of Fear,86930411.0,2,0.16666666666666666,12,non_action
+1991,10,Teenage Mutant Ninja Turtles II: The Secret of the Ooze,Teenage Mutant Ninja Turtles II: The Secret of the Ooze,78656813.0,0,0.0,13,action
+1991,11,Hot Shots!,Hot Shots!,69467617.0,0,0.0,5,action
+1991,12,My Girl,My Girl,59489799.0,0,0.0,15,non_action
+1991,13,Boyz n the Hood,Boyz n the Hood,57504069.0,1,0.09090909090909091,11,non_action
+1991,14,New Jack City,New Jack City,47624353.0,1,0.1,10,non_action
+1991,15,The Rocketeer,The Rocketeer,46704056.0,0,0.0,13,action
+1991,16,Thelma & Louise,Thelma & Louise,45360915.0,0,0.0,23,non_action
+1991,17,Out for Justice,Out for Justice,39673161.0,3,0.2,15,action
+1991,18,Freddy's Dead: The Final Nightmare,Freddy's Dead: The Final Nightmare,34872033.0,0,0.0,21,non_action
+1991,19,White Fang,White Fang,34793160.0,0,0.0,15,action
+1991,20,Jungle Fever,Jungle Fever,32482682.0,0,0.0,6,non_action
+1991,21,The People Under the Stairs,The People Under the Stairs,24204154.0,1,0.04,25,non_action
+1991,22,House Party 2,House Party 2,19438638.0,0,0.0,1,non_action
+1991,23,For the Boys,For the Boys,17860280.0,0,0.0,3,non_action
+1991,24,Hudson Hawk,Hudson Hawk,17218080.0,0,0.0,9,action
+1991,25,Billy Bathgate,Billy Bathgate,15565363.0,0,0.0,2,non_action
+1991,26,Madonna: Truth or Dare,Madonna: Truth or Dare,15012935.0,0,0.0,8,non_action
+1991,27,Flight of the Intruder,Flight of the Intruder,14587732.0,2,0.3333333333333333,6,action
+1991,28,The Marrying Man,The Marrying Man,12454768.0,0,0.0,2,action
+1991,29,The Super,The Super,11000863.0,0,0.0,5,non_action
+1991,30,Scenes from a Mall,Scenes from a Mall,9563393.0,0,,0,non_action
+1991,31,Nothing But Trouble,Nothing but Trouble,8479793.0,1,0.07142857142857142,14,non_action
+1991,32,Harley Davidson and the Marlboro Man,Harley Davidson and the Marlboro Man,7434726.0,1,0.2,5,action
+1991,33,Rambling Rose,Rambling Rose,6266621.0,1,0.1111111111111111,9,non_action
+1991,34,Delirious,Delirious,5546827.0,0,0.0,2,non_action
+1991,37,Dutch,Dutch,4603929.0,0,0.0,7,non_action
+1991,39,Life Stinks,Life Stinks,4102526.0,0,0.0,10,non_action
+1991,41,Another You,Another You,2865916.0,0,0.0,4,non_action
+1991,42,Return to the Blue Lagoon,Return to the Blue Lagoon,2807854.0,0,0.0,9,non_action
+1991,43,Shadows and Fog,Shadows and Fog,2735731.0,0,0.0,2,non_action
+1991,45,Cool as Ice,Cool as Ice,1193062.0,1,0.25,4,non_action
+1991,47,Shakes the Clown,Shakes the Clown,115103.0,1,0.14285714285714285,7,non_action
+1992,1,Aladdin,Aladdin,217350219.0,0,0.0,3,non_action
+1992,2,Batman Returns,Batman Returns,162902340.0,1,0.05,20,action
+1992,3,Lethal Weapon 3,Lethal Weapon 3,144731527.0,4,0.3076923076923077,13,action
+1992,4,A Few Good Men,A Few Good Men,141340178.0,6,0.2857142857142857,21,non_action
+1992,5,Wayne's World,Wayne's World,121697323.0,0,0.0,12,non_action
+1992,6,Basic Instinct,Basic Instinct,117727224.0,1,0.041666666666666664,24,non_action
+1992,7,A League of Their Own,A League of Their Own,107533928.0,1,0.125,8,non_action
+1992,8,Patriot Games,Patriot Games,83351587.0,9,0.42857142857142855,21,action
+1992,9,Bram Stoker's Dracula,Bram Stoker's Dracula,82522790.0,0,0.0,15,non_action
+1992,10,The Last of the Mohicans,The Last of the Mohicans,75505856.0,1,0.08333333333333333,12,action
+1992,11,Boomerang,Boomerang,70052444.0,0,0.0,6,non_action
+1992,12,Far and Away,Far and Away,58883840.0,0,0.0,5,non_action
+1992,13,Death Becomes Her,Death Becomes Her,58422650.0,0,0.0,6,non_action
+1992,15,The Mighty Ducks,The Mighty Ducks,50752337.0,0,0.0,5,non_action
+1992,16,Medicine Man,Medicine Man,45500797.0,0,0.0,12,non_action
+1992,17,Honeymoon in Vegas,Honeymoon in Vegas,35208854.0,1,0.2,5,non_action
+1992,18,The Lawnmower Man,The Lawnmower Man,32100816.0,1,0.0625,16,non_action
+1992,19,The Muppet Christmas Carol,The Muppet Christmas Carol,27281507.0,0,0.0,17,non_action
+1992,23,1492: Conquest of Paradise,1492: Conquest of Paradise,7191399.0,0,0.0,7,action
+1992,24,Fortress,Fortress,6739141.0,2,0.2222222222222222,9,action
+1992,25,Peter's Friends,Peter's Friends,4058564.0,0,0.0,7,non_action
+1992,26,Reservoir Dogs,Reservoir Dogs,2832029.0,0,0.0,21,non_action
+1992,27,Newsies,Newsies,2819485.0,0,0.0,18,non_action
+1992,28,Light Sleeper,Light Sleeper,1050861.0,0,0.0,5,non_action
+1993,1,Jurassic Park,Jurassic Park,402828120.0,0,0.0,11,non_action
+1993,2,Mrs. Doubtfire,Mrs. Doubtfire,219195243.0,2,0.15384615384615385,13,non_action
+1993,3,Sleepless in Seattle,Sleepless in Seattle,126808165.0,1,0.045454545454545456,22,non_action
+1993,4,In the Line of Fire,In the Line of Fire,102314823.0,5,0.5555555555555556,9,action
+1993,5,Schindler's List,Schindler's List,96898818.0,1,0.045454545454545456,22,non_action
+1993,6,Cliffhanger,Cliffhanger,84049211.0,0,0.0,10,action
+1993,7,Philadelphia,Philadelphia,77446440.0,2,0.1111111111111111,18,non_action
+1993,8,Cool Runnings,Cool Runnings,68856263.0,0,0.0,11,non_action
+1993,9,Last Action Hero,Last Action Hero,50016394.0,0,0.0,15,action
+1993,10,Wayne's World 2,Wayne's World 2,48197805.0,0,0.0,8,non_action
+1993,11,Teenage Mutant Ninja Turtles III,Teenage Mutant Ninja Turtles III,42273609.0,0,0.0,11,action
+1993,12,Carlito's Way,Carlito's Way,36948322.0,1,0.06666666666666667,15,non_action
+1993,13,The Age of Innocence,The Age of Innocence,32255440.0,0,0.0,8,non_action
+1993,14,Shadowlands,Shadowlands,25842377.0,0,0.0,14,non_action
+1993,15,Much Ado About Nothing,Much Ado About Nothing,22549338.0,0,0.0,10,non_action
+1993,16,Super Mario Bros.,Super Mario Bros.,20915465.0,0,0.0,8,non_action
+1993,17,Geronimo: An American Legend,Geronimo: An American Legend,18635620.0,0,0.0,6,action
+1993,18,Iron Monkey,Iron Monkey,14694904.0,0,0.0,5,action
+1993,19,For Love or Money,For Love or Money,11146270.0,0,0.0,5,non_action
+1993,20,RoboCop 3,RoboCop 3,10696210.0,1,0.16666666666666666,6,action
+1993,21,The Wedding Banquet,The Wedding Banquet,6933459.0,0,0.0,16,non_action
+1993,22,The House of the Spirits,The House of the Spirits,6265311.0,2,0.16666666666666666,12,non_action
+1993,23,Heaven & Earth,Heaven & Earth,5864949.0,3,0.25,12,action
+1993,24,Red Rock West,Red Rock West,2502551.0,3,0.17647058823529413,17,non_action
+1993,26,The Thing Called Love,The Thing Called Love,1029721.0,0,0.0,1,non_action
+1993,27,The Thief and the Cobbler,The Thief and the Cobbler,669276.0,1,0.125,8,non_action
+1993,28,Killing Zoe,Killing Zoe,418961.0,4,0.19047619047619047,21,action
+1994,1,The Lion King,The Lion King,422783777.0,0,0.0,19,non_action
+1994,2,Forrest Gump,Forrest Gump,330455270.0,6,0.2,30,non_action
+1994,3,True Lies,True Lies,146282411.0,3,0.21428571428571427,14,action
+1994,4,The Santa Clause,The Santa Clause,144833357.0,1,0.09090909090909091,11,non_action
+1994,5,The Flintstones,The Flintstones,130531208.0,0,0.0,11,non_action
+1994,6,Dumb and Dumber,Dumb and Dumber,127175374.0,0,0.0,20,non_action
+1994,7,Clear and Present Danger,Clear and Present Danger,122187717.0,10,0.30303030303030304,33,action
+1994,8,Speed,Speed,121248145.0,3,0.14285714285714285,21,action
+1994,9,The Mask,The Mask,119938730.0,1,0.05555555555555555,18,non_action
+1994,10,Pulp Fiction,Pulp Fiction,107928762.0,0,0.0,16,non_action
+1994,12,Disclosure,Disclosure,83015089.0,0,0.0,9,non_action
+1994,13,Star Trek: Generations,Star Trek: Generations,75671125.0,0,0.0,17,action
+1994,14,Ace Ventura: Pet Detective,Ace Ventura: Pet Detective,72217396.0,0,0.0,11,non_action
+1994,15,The Specialist,The Specialist,57362582.0,0,0.0,9,action
+1994,16,Four Weddings and a Funeral,Four Weddings and a Funeral,52700832.0,0,0.0,25,non_action
+1994,17,Naked Gun 33 1/3: The Final Insult,Naked Gun 33⅓: The Final Insult,51132598.0,3,0.25,12,non_action
+1994,18,Natural Born Killers,Natural Born Killers,50282766.0,0,0.0,11,non_action
+1994,19,Little Women,Little Women,50083616.0,1,0.07692307692307693,13,non_action
+1994,20,Beverly Hills Cop III,Beverly Hills Cop III,42614912.0,3,0.13636363636363635,22,action
+1994,21,On Deadly Ground,On Deadly Ground,38590458.0,3,0.1875,16,action
+1994,22,Ri¢hie Ri¢h,Ri¢hie Ri¢h,38087756.0,1,0.3333333333333333,3,non_action
+1994,23,Junior,Junior,36763355.0,0,0.0,9,non_action
+1994,24,Street Fighter,Street Fighter,33423521.0,3,0.3333333333333333,9,action
+1994,25,Drop Zone,Drop Zone,28735315.0,1,0.034482758620689655,29,action
+1994,26,The Shawshank Redemption,The Shawshank Redemption,28699976.0,5,0.3125,16,non_action
+1994,27,I.Q.,I.Q.,26381221.0,0,0.0,8,non_action
+1994,28,Wyatt Earp,Wyatt Earp,25052000.0,0,0.0,12,action
+1994,29,Don Juan DeMarco,Don Juan DeMarco,22150451.0,0,0.0,6,non_action
+1994,30,Mary Shelley's Frankenstein,Mary Shelley's Frankenstein,22006296.0,0,0.0,4,non_action
+1994,31,Color of Night,Color of Night,19726050.0,0,0.0,13,non_action
+1994,32,Love Affair,Love Affair,18272894.0,1,0.2,5,non_action
+1994,33,Baby's Day Out,Baby's Day Out,16827402.0,0,0.0,11,non_action
+1994,34,Terminal Velocity,Terminal Velocity,16487349.0,1,0.2,5,action
+1994,35,Muriel's Wedding,Muriel's Wedding,15119639.0,0,0.0,13,non_action
+1994,36,The Legend of Drunken Master,The Legend of Drunken Master,11555430.0,0,0.0,13,action
+1994,39,Serial Mom,Serial Mom,7820688.0,1,0.05263157894736842,19,non_action
+1994,40,North,North,7182747.0,0,0.0,5,non_action
+1994,41,Ed Wood,Ed Wood,5887457.0,0,0.0,19,non_action
+1994,42,Jimmy Hollywood,Jimmy Hollywood,3783003.0,0,,0,non_action
+1994,43,Silent Fall,Silent Fall,3180674.0,0,0.0,2,non_action
+1994,44,Clerks,Clerks,3151130.0,0,0.0,10,non_action
+1994,45,Death and the Maiden,Death and the Maiden,3103716.0,1,0.125,8,non_action
+1994,46,Heavenly Creatures,Heavenly Creatures,3049135.0,0,0.0,10,non_action
+1994,47,The Hudsucker Proxy,The Hudsucker Proxy,2816518.0,1,0.0625,16,non_action
+1994,48,Shallow Grave,Shallow Grave,2079569.0,0,0.0,10,non_action
+1994,49,Being Human,Being Human,1519366.0,0,0.0,2,non_action
+1994,50,Spanking the Monkey,Spanking the Monkey,1359736.0,0,0.0,5,non_action
+1994,51,Rapa Nui,Rapa Nui,305070.0,0,0.0,4,non_action
+1995,1,Batman Forever,Batman Forever,184069126.0,0,0.0,21,action
+1995,2,Jumanji,Jumanji,100499940.0,0,0.0,7,non_action
+1995,3,Se7en,Se7en,100125643.0,1,0.047619047619047616,21,non_action
+1995,4,Die Hard with a Vengeance,Die Hard: With a Vengeance,100012499.0,3,0.12,25,action
+1995,5,Waterworld,Waterworld,88246220.0,0,0.0,11,action
+1995,6,While You Were Sleeping,While You Were Sleeping,81057016.0,0,0.0,11,non_action
+1995,7,Braveheart,Braveheart,75609945.0,0,0.0,2,action
+1995,8,The Bridges of Madison County,The Bridges of Madison County,71516617.0,1,0.0625,16,non_action
+1995,9,Bad Boys,Bad Boys,65807024.0,3,0.12,25,action
+1995,10,Sabrina,Sabrina,53672080.0,0,0.0,8,non_action
+1995,11,Judge Dredd,Judge Dredd,34693481.0,5,0.22727272727272727,22,non_action
+1995,12,Rumble in the Bronx,Rumble in the Bronx,32392047.0,1,0.058823529411764705,17,action
+1995,13,Assassins,Assassins,30303072.0,3,0.15789473684210525,19,action
+1995,14,Friday,Friday,27467564.0,0,0.0,13,non_action
+1995,15,Billy Madison,Billy Madison,25588734.0,0,0.0,4,non_action
+1995,16,The Usual Suspects,The Usual Suspects,23341568.0,1,0.07142857142857142,14,non_action
+1995,17,Showgirls,Showgirls,20350754.0,0,0.0,7,non_action
+1995,18,Johnny Mnemonic,Johnny Mnemonic,19075720.0,0,0.0,9,action
+1995,19,The Quick and the Dead,The Quick and the Dead,18636537.0,0,0.0,4,action
+1995,20,Nixon,Nixon,13681765.0,4,0.36363636363636365,11,non_action
+1995,21,Fair Game,Fair Game,11534477.0,7,0.19444444444444445,36,action
+1995,22,The Brothers McMullen,The Brothers McMullen,10426506.0,0,0.0,4,non_action
+1995,23,The Scarlet Letter,The Scarlet Letter,10382407.0,0,0.0,9,non_action
+1995,24,Cutthroat Island,Cutthroat Island,10017322.0,0,0.0,15,action
+1995,25,Tall Tale,Tall Tale,8247627.0,0,,0,non_action
+1995,26,Strange Days,Strange Days,7959291.0,2,0.08333333333333333,24,non_action
+1995,27,Kids,Kids,7412216.0,0,0.0,14,non_action
+1995,28,Before Sunrise,Before Sunrise,5535405.0,0,0.0,7,non_action
+1995,29,Tank Girl,Tank Girl,4064495.0,0,0.0,8,action
+1995,30,Restoration,Restoration,4005941.0,1,0.1111111111111111,9,non_action
+1995,31,White Man's Burden,White Man's Burden,3734870.0,0,0.0,3,non_action
+1995,34,Wild Bill,Wild Bill,2193982.0,0,0.0,6,non_action
+1995,35,The City of Lost Children,The City of Lost Children,1738611.0,0,0.0,12,non_action
+1995,38,Canadian Bacon,Canadian Bacon,163971.0,2,0.5,4,non_action
+1996,1,Independence Day,Independence Day,306169268.0,3,0.1875,16,action
+1996,2,Twister,Twister,241721524.0,0,0.0,15,action
+1996,3,Mission: Impossible,Mission: Impossible,180981856.0,4,0.18181818181818182,22,action
+1996,4,Jerry Maguire,Jerry Maguire,153952592.0,0,0.0,6,non_action
+1996,5,The Rock,The Rock,134069511.0,12,0.4444444444444444,27,action
+1996,6,The Nutty Professor,The Nutty Professor,128814019.0,0,0.0,8,non_action
+1996,7,Scream,Scream,103046663.0,1,0.05263157894736842,19,non_action
+1996,8,Eraser,Eraser,101295562.0,2,0.08333333333333333,24,action
+1996,9,The Hunchback of Notre Dame,The Hunchback of Notre Dame,100138851.0,2,0.09523809523809523,21,non_action

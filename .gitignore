@@ -16,7 +16,6 @@ venv/
 
 # Local data and large outputs
 data/
-outputs*/
 figures/
 
 # Logs and temp
