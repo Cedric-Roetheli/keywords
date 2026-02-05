@@ -112,7 +112,17 @@ def make_distribution_plot(df: pd.DataFrame, outpath: Path):
         fontsize=10,
         color="dimgray",
     )
-    fig.tight_layout()
+    ax.text(
+        0.99,
+        -0.26,
+        "Points = yearly means",
+        transform=ax.transAxes,
+        ha="right",
+        va="top",
+        fontsize=10,
+        color="dimgray",
+    )
+    fig.tight_layout(pad=1.2)
     fig.savefig(outpath, dpi=300)
     plt.close(fig)
 
@@ -158,8 +168,18 @@ def make_gap_plot(df: pd.DataFrame, outpath: Path, max_year: int):
     ax.set_xticks(positions)
     ax.set_xticklabels(labels)
     ax.set_ylabel("Gap in mean polshare (percentage points)", fontsize=12)
-    ax.set_title("Difference in political keyword intensity (Top 20 − ranks 21–100) before vs after 2002", fontsize=15)
+    ax.set_title("Tier gap in political keyword intensity before vs after 2002", fontsize=15)
     ax.grid(True, axis="y", linestyle="--", alpha=0.4)
+    ax.text(
+        0.01,
+        0.98,
+        "Gap = mean polshare(Top 20) − mean polshare(21–100)",
+        transform=ax.transAxes,
+        ha="left",
+        va="top",
+        fontsize=10,
+        color="dimgray",
+    )
     ax.text(
         0.99,
         -0.18,
@@ -170,7 +190,7 @@ def make_gap_plot(df: pd.DataFrame, outpath: Path, max_year: int):
         fontsize=10,
         color="dimgray",
     )
-    fig.tight_layout()
+    fig.tight_layout(pad=1.2)
     fig.savefig(outpath, dpi=300)
     plt.close(fig)
 
