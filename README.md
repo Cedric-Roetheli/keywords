@@ -73,6 +73,9 @@ Each script has CLI help (`python script.py --help`) describing required/optiona
     - `break_polshare_timeseries_with_regime_means.png`: polshare time series with pre/post means and 2002.5 break line.
     - `break_polshare_distribution_pre_vs_post.png`: box/jitter + bootstrap CI comparing yearly polshare pre vs post 2002.
     - `break_prevalence_timeseries_with_regime_means.png`: prevalence time series with pre/post means (if prevalence present).
+- `plots_tier_extra/`: supplemental tier comparisons (Top20 vs 21–100):
+  - `tier_polshare_distribution_yearly_means.png`: box/jitter + mean/CI of yearly polshare (%) per tier.
+  - `tier_polshare_gap_pre_vs_post.png`: box/jitter + mean/CI of yearly polshare gap (Top20 − 21–100) before vs after 2002.
 
 ### Plot guide (what each figure shows and data behind it)
 Data sources noted per block; “polkw/polshare/totalkw” are defined in *Core concepts & metrics*.
