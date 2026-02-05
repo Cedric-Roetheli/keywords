@@ -63,6 +63,12 @@ Each script has CLI help (`python script.py --help`) describing required/optiona
 - `pooled_political_group_shares_us_mojo_clean.csv`: pooled group composition across kept years.  
 - `plots_groups/`: heatmaps, stacked area plots, pooled stacked bars, totals diagnostics with consistent group colors.  
 - Additional PNGs: domestic vs time, political gaps, tagging volume, genre bucket gaps.
+- `plots_overview/`: thesis-intro overview figures (Top-100 pooled, 2020 excluded):
+  - `overview_prevalence_political_any_top100.png`: share of titles with ≥1 political keyword.
+  - `overview_intensity_polshare_top100.png`: mean polshare (political keywords / total keywords).
+  - `overview_heatmap_group_shares_top100.png`: political group composition heatmap (pooled Top-100).
+  - `overview_dualaxis_prevalence_and_intensity_top100.png`: combined prevalence + intensity.
+  - `overview_top100_by_year.csv`: year-level prevalence, polshare, and group shares used for plots.
 
 ### Plot guide (what each figure shows and data behind it)
 Data sources noted per block; “polkw/polshare/totalkw” are defined in *Core concepts & metrics*.
