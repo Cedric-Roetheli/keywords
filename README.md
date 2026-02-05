@@ -69,6 +69,10 @@ Each script has CLI help (`python script.py --help`) describing required/optiona
   - `overview_heatmap_group_shares_top100.png`: political group composition heatmap (pooled Top-100).
   - `overview_dualaxis_prevalence_and_intensity_top100.png`: combined prevalence + intensity.
   - `overview_top100_by_year.csv`: year-level prevalence, polshare, and group shares used for plots.
+  - `break_plots/`: structural break visuals (pre/post 2002) built from `overview_top100_by_year.csv`:
+    - `break_polshare_timeseries_with_regime_means.png`: polshare time series with pre/post means and 2002.5 break line.
+    - `break_polshare_distribution_pre_vs_post.png`: box/jitter + bootstrap CI comparing yearly polshare pre vs post 2002.
+    - `break_prevalence_timeseries_with_regime_means.png`: prevalence time series with pre/post means (if prevalence present).
 
 ### Plot guide (what each figure shows and data behind it)
 Data sources noted per block; “polkw/polshare/totalkw” are defined in *Core concepts & metrics*.
