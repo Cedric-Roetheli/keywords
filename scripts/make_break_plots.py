@@ -191,9 +191,9 @@ def plot_distribution(
     ax.set_xticks(positions)
     ax.set_xticklabels(labels)
     ax.set_ylabel(ylabel, fontsize=12)
-    ax.set_title(title, fontsize=16)
+    ax.set_title(title, fontsize=14, pad=10)
     ax.grid(True, axis="y", linestyle="--", alpha=0.4)
-    fig.tight_layout()
+    fig.tight_layout(pad=1.4)
     fig.savefig(outpath, dpi=300)
     plt.close(fig)
 
